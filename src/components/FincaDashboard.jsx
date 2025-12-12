@@ -4,6 +4,7 @@ import MetricCard from './MetricCard'
 import ChartCard from './ChartCard'
 import LoadingSpinner from './LoadingSpinner'
 import DateFilter from './DateFilter'
+import CollapsibleSection from './CollapsibleSection'
 import './FincaDashboard.css'
 
 function FincaDashboard({ finca }) {
@@ -245,14 +246,13 @@ function FincaDashboard({ finca }) {
                 { key: 'Problemas', label: 'Cantidad de Problemas', color: '#ff6b6b' }
               ]}
             />
-            <div className="problemas-detalle">
-              <h4>Detalle de Problemas:</h4>
+            <CollapsibleSection title="Detalle de Problemas por Ruta" defaultExpanded={false}>
               <div className="problemas-list">
-                {filteredData.rutas_con_problemas.slice(0, 50).map((ruta, idx) => (
+                {filteredData.rutas_con_problemas.map((ruta, idx) => (
                   <div key={idx} className="problema-item">
                     <strong>{ruta.Ruta}</strong> - {ruta.Total_problemas} problema(s)
                     <ul>
-                      {ruta.Detalles && ruta.Detalles.slice(0, 3).map((det, i) => (
+                      {ruta.Detalles && ruta.Detalles.map((det, i) => (
                         <li key={i}>
                           {det.Fecha}: {det.Problemas.join(', ')}
                         </li>
@@ -261,7 +261,7 @@ function FincaDashboard({ finca }) {
                   </div>
                 ))}
               </div>
-            </div>
+            </CollapsibleSection>
           </>
         ) : (
           <p className="no-data">No se encontraron rutas con problemas registradas</p>
@@ -299,17 +299,20 @@ function FincaDashboard({ finca }) {
         <h3>5. Personas que Llegaron vs Se Fueron en Buses</h3>
         <div className="metrics-grid">
           <MetricCard
-            title="Personas que Llegaron"
+            title="Personas que Llegaron (Rutas AM)"
             value={filteredData.personas_llegaron || 0}
             subtitle="personas"
             color="#4caf50"
           />
           <MetricCard
-            title="Personas que Se Fueron"
+            title="Personas que Se Fueron (Rutas PM)"
             value={filteredData.personas_se_fueron || 0}
             subtitle="personas"
             color="#2196f3"
           />
+        </div>
+        <div className="info-notice" style={{ marginTop: '1rem', padding: '0.75rem', background: '#fff3cd', border: '1px solid #ffc107', borderRadius: '6px', color: '#856404' }}>
+          <strong>⚠️ Nota importante:</strong> El número de personas que se fueron es bajo porque muchas rutas PM no tienen registros de estado "Entregado" (solo 90 personas registradas de ~545 que llegaron). Esto indica que puede haber un problema de registro en las rutas PM o que muchas personas no se fueron en buses.
         </div>
         <ChartCard
           title={selectedDate === 'all' ? "Llegadas vs Salidas (Todos los días)" : `Llegadas vs Salidas (${selectedDate})`}
@@ -336,7 +339,7 @@ function FincaDashboard({ finca }) {
             color="#ff9800"
           />
         </div>
-        {filteredData.pasajeros_adicionales?.Por_ruta && filteredData.pasajeros_adicionales.Por_ruta.length > 0 && (
+        {filteredData.pasajeros_adicionales?.Por_ruta && filteredData.pasajeros_adicionales.Por_ruta.length > 0 ? (
           <ChartCard
             title={selectedDate === 'all' ? "Pasajeros Adicionales por Ruta y Fecha" : `Pasajeros Adicionales por Ruta (${selectedDate})`}
             data={filteredData.pasajeros_adicionales.Por_ruta.map(item => ({
@@ -349,6 +352,8 @@ function FincaDashboard({ finca }) {
               { key: 'Cantidad', label: 'Pasajeros Extra', color: '#ff9800' }
             ]}
           />
+        ) : (
+          <p className="no-data">No hay datos de pasajeros adicionales para el filtro seleccionado</p>
         )}
       </section>
 
