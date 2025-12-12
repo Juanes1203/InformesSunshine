@@ -79,6 +79,19 @@
   text-align: center;
 }
 
+.holiday-notice {
+  background: #fff3cd;
+  border: 2px solid #ffc107;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  color: #856404;
+}
+
+.holiday-notice strong {
+  color: #856404;
+}
+
 .error-message {
   background: #fff5f5;
   border: 2px solid #ff6b6b;

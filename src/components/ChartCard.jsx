@@ -23,8 +23,8 @@ function ChartCard({ title, data, type, xKey, yKeys }) {
     )
   }
 
-  // Limitar la cantidad de elementos en el eje X para mejor visualización
-  const displayData = data.slice(0, 30)
+  // Mostrar todos los datos, pero con scroll horizontal si son muchos
+  const displayData = data
   
   // Truncar nombres de rutas si son muy largos y normalizar claves
   const formattedData = displayData.map(item => {
@@ -43,8 +43,8 @@ function ChartCard({ title, data, type, xKey, yKeys }) {
   return (
     <div className="chart-card">
       <h4>{title}</h4>
-      <div className="chart-container">
-        <ResponsiveContainer width="100%" height={400}>
+      <div className="chart-container" style={{ overflowX: 'auto' }}>
+        <ResponsiveContainer width={Math.max(800, data.length * 30)} height={400} minWidth={800}>
           {type === 'line' ? (
             <LineChart data={formattedData} margin={{ top: 5, right: 30, left: 20, bottom: 60 }}>
               <CartesianGrid strokeDasharray="3 3" />
@@ -96,9 +96,6 @@ function ChartCard({ title, data, type, xKey, yKeys }) {
           )}
         </ResponsiveContainer>
       </div>
-      {data.length > 30 && (
-        <p className="chart-note">Mostrando las primeras 30 rutas de {data.length} totales</p>
-      )}
     </div>
   )
 }

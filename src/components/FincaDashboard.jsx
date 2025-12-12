@@ -1,14 +1,16 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect, useMemo } from 'react'
 import axios from 'axios'
 import MetricCard from './MetricCard'
 import ChartCard from './ChartCard'
 import LoadingSpinner from './LoadingSpinner'
+import DateFilter from './DateFilter'
 import './FincaDashboard.css'
 
 function FincaDashboard({ finca }) {
   const [metrics, setMetrics] = useState(null)
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
+  const [selectedDate, setSelectedDate] = useState('all')
 
   useEffect(() => {
     const fetchMetrics = async () => {
@@ -71,9 +73,82 @@ function FincaDashboard({ finca }) {
     )
   }
 
+  // Obtener fechas disponibles
+  const availableDates = useMemo(() => {
+    if (!metrics.por_fecha) return []
+    return Object.keys(metrics.por_fecha).sort()
+  }, [metrics])
+
+  // Filtrar datos por fecha seleccionada
+  const filteredData = useMemo(() => {
+    if (selectedDate === 'all' || !metrics.personas_inscritas_vs_abordaron) {
+      return metrics
+    }
+    
+    const filtered = { ...metrics }
+    
+    // Filtrar personas_inscritas_vs_abordaron
+    if (filtered.personas_inscritas_vs_abordaron) {
+      filtered.personas_inscritas_vs_abordaron = filtered.personas_inscritas_vs_abordaron.filter(
+        item => item.Fecha === selectedDate
+      )
+    }
+    
+    // Filtrar personas_vs_capacidad
+    if (filtered.personas_vs_capacidad) {
+      filtered.personas_vs_capacidad = filtered.personas_vs_capacidad.filter(
+        item => item.Fecha === selectedDate
+      )
+    }
+    
+    // Actualizar totales con datos de la fecha seleccionada
+    if (metrics.por_fecha && metrics.por_fecha[selectedDate]) {
+      const fechaData = metrics.por_fecha[selectedDate]
+      filtered.total_personas_inscritas = fechaData.inscritas || 0
+      filtered.total_personas_abordaron = fechaData.abordaron || 0
+      filtered.personas_llegaron = fechaData.llegaron || 0
+      filtered.personas_se_fueron = fechaData.se_fueron || 0
+      if (filtered.pasajeros_adicionales) {
+        filtered.pasajeros_adicionales.Total = fechaData.pasajeros_extra || 0
+        filtered.pasajeros_adicionales.Por_ruta = filtered.pasajeros_adicionales.Por_ruta?.filter(
+          item => item.Fecha === selectedDate
+        ) || []
+      }
+    }
+    
+    return filtered
+  }, [metrics, selectedDate])
+
+  // Identificar si el lunes (2025-12-08) tiene pocos datos (fue festivo)
+  const mondayDate = '2025-12-08'
+  const mondayData = metrics.por_fecha?.[mondayDate]
+  const isMondayHoliday = mondayData && mondayData.abordaron < 100 // Si tiene menos de 100 abordaron, probablemente fue festivo
+
   return (
     <div className="finca-dashboard">
       <h2 className="dashboard-title">Finca {finca} - Métricas (8-11 Dic 2025)</h2>
+      
+      {isMondayHoliday && selectedDate === 'all' && (
+        <div className="holiday-notice">
+          <strong>📅 Nota:</strong> El lunes 8 de diciembre fue festivo, por lo que la cantidad de rutas y pasajeros fue significativamente menor ese día.
+        </div>
+      )}
+      
+      {availableDates.length > 0 && (
+        <>
+          <DateFilter 
+            selectedDate={selectedDate}
+            dates={availableDates}
+            onDateChange={setSelectedDate}
+            showHolidayWarning={isMondayHoliday && selectedDate === mondayDate}
+          />
+          {selectedDate === mondayDate && (
+            <div className="holiday-notice">
+              <strong>⚠️ Día Festivo:</strong> El lunes 8 de diciembre fue festivo, por lo que los datos de este día son limitados y no representativos de la operación normal.
+            </div>
+          )}
+        </>
+      )}
 
       {/* Métrica 1: Personas inscritas vs abordaron */}
       <section className="metric-section">
@@ -81,30 +156,33 @@ function FincaDashboard({ finca }) {
         <div className="metrics-grid">
           <MetricCard
             title="Total Inscritas"
-            value={metrics.total_personas_inscritas || 0}
+            value={filteredData.total_personas_inscritas || 0}
             subtitle="personas"
           />
           <MetricCard
             title="Total que Abordaron"
-            value={metrics.total_personas_abordaron || 0}
+            value={filteredData.total_personas_abordaron || 0}
             subtitle="personas"
           />
           <MetricCard
             title="Tasa de Abordaje"
             value={
-              metrics.total_personas_inscritas > 0
-                ? ((metrics.total_personas_abordaron / metrics.total_personas_inscritas) * 100).toFixed(1)
+              filteredData.total_personas_inscritas > 0
+                ? ((filteredData.total_personas_abordaron / filteredData.total_personas_inscritas) * 100).toFixed(1)
                 : 0
             }
             subtitle="%"
           />
         </div>
-        {metrics.personas_inscritas_vs_abordaron && metrics.personas_inscritas_vs_abordaron.length > 0 && (
+        {filteredData.personas_inscritas_vs_abordaron && filteredData.personas_inscritas_vs_abordaron.length > 0 && (
           <ChartCard
-            title="Inscritas vs Abordaron por Ruta"
-            data={metrics.personas_inscritas_vs_abordaron}
+            title={selectedDate === 'all' ? "Inscritas vs Abordaron por Ruta y Fecha" : `Inscritas vs Abordaron por Ruta (${selectedDate})`}
+            data={filteredData.personas_inscritas_vs_abordaron.map(item => ({
+              ...item,
+              'Ruta-Fecha': selectedDate === 'all' ? `${item.Ruta} (${item.Fecha})` : item.Ruta
+            }))}
             type="bar"
-            xKey="Ruta"
+            xKey={selectedDate === 'all' ? 'Ruta-Fecha' : 'Ruta'}
             yKeys={[
               { key: 'Inscritas', label: 'Inscritas', color: '#8884d8' },
               { key: 'Abordaron', label: 'Abordaron', color: '#82ca9d' }
@@ -116,12 +194,15 @@ function FincaDashboard({ finca }) {
       {/* Métrica 2: Personas vs Capacidad */}
       <section className="metric-section">
         <h3>2. Personas que Abordaron vs Capacidad de Bus</h3>
-        {metrics.personas_vs_capacidad && metrics.personas_vs_capacidad.length > 0 && (
+        {filteredData.personas_vs_capacidad && filteredData.personas_vs_capacidad.length > 0 && (
           <ChartCard
-            title="Ocupación de Buses por Ruta"
-            data={metrics.personas_vs_capacidad}
+            title={selectedDate === 'all' ? "Ocupación de Buses por Ruta y Fecha" : `Ocupación de Buses por Ruta (${selectedDate})`}
+            data={filteredData.personas_vs_capacidad.map(item => ({
+              ...item,
+              'Ruta-Fecha': selectedDate === 'all' ? `${item.Ruta} (${item.Fecha})` : item.Ruta
+            }))}
             type="bar"
-            xKey="Ruta"
+            xKey={selectedDate === 'all' ? 'Ruta-Fecha' : 'Ruta'}
             yKeys={[
               { key: 'Abordaron', label: 'Abordaron', color: '#82ca9d' },
               { key: 'Capacidad_estimada', label: 'Capacidad', color: '#ffc658' }
@@ -133,23 +214,23 @@ function FincaDashboard({ finca }) {
       {/* Métrica 3: Rutas con problemas */}
       <section className="metric-section">
         <h3>3. Persistencia: Rutas con Problemas</h3>
-        {metrics.rutas_con_problemas && metrics.rutas_con_problemas.length > 0 ? (
+        {filteredData.rutas_con_problemas && filteredData.rutas_con_problemas.length > 0 ? (
           <>
             <div className="metrics-grid">
               <MetricCard
                 title="Rutas con Problemas"
-                value={metrics.rutas_con_problemas.length}
+                value={filteredData.rutas_con_problemas.length}
                 subtitle="rutas"
               />
               <MetricCard
                 title="Total de Problemas"
-                value={metrics.rutas_con_problemas.reduce((sum, r) => sum + (r.Total_problemas || 0), 0)}
+                value={filteredData.rutas_con_problemas.reduce((sum, r) => sum + (r.Total_problemas || 0), 0)}
                 subtitle="incidencias"
               />
             </div>
             <ChartCard
               title="Problemas por Ruta"
-              data={metrics.rutas_con_problemas.map(r => ({
+              data={filteredData.rutas_con_problemas.map(r => ({
                 Ruta: r.Ruta,
                 Problemas: r.Total_problemas || 0
               }))}
@@ -162,7 +243,7 @@ function FincaDashboard({ finca }) {
             <div className="problemas-detalle">
               <h4>Detalle de Problemas:</h4>
               <div className="problemas-list">
-                {metrics.rutas_con_problemas.slice(0, 20).map((ruta, idx) => (
+                {filteredData.rutas_con_problemas.slice(0, 50).map((ruta, idx) => (
                   <div key={idx} className="problema-item">
                     <strong>{ruta.Ruta}</strong> - {ruta.Total_problemas} problema(s)
                     <ul>
@@ -188,19 +269,19 @@ function FincaDashboard({ finca }) {
         <div className="metrics-grid">
           <MetricCard
             title="Rutas Creadas"
-            value={metrics.rutas_creadas || 0}
+            value={filteredData.rutas_creadas || 0}
             subtitle="rutas"
           />
           <MetricCard
             title="Rutas Iniciadas"
-            value={metrics.rutas_iniciadas || 0}
+            value={filteredData.rutas_iniciadas || 0}
             subtitle="rutas"
           />
           <MetricCard
             title="Tasa de Inicio"
             value={
-              metrics.rutas_creadas > 0
-                ? ((metrics.rutas_iniciadas / metrics.rutas_creadas) * 100).toFixed(1)
+              filteredData.rutas_creadas > 0
+                ? ((filteredData.rutas_iniciadas / filteredData.rutas_creadas) * 100).toFixed(1)
                 : 0
             }
             subtitle="%"
@@ -214,22 +295,22 @@ function FincaDashboard({ finca }) {
         <div className="metrics-grid">
           <MetricCard
             title="Personas que Llegaron"
-            value={metrics.personas_llegaron || 0}
+            value={filteredData.personas_llegaron || 0}
             subtitle="personas"
             color="#4caf50"
           />
           <MetricCard
             title="Personas que Se Fueron"
-            value={metrics.personas_se_fueron || 0}
+            value={filteredData.personas_se_fueron || 0}
             subtitle="personas"
             color="#2196f3"
           />
         </div>
         <ChartCard
-          title="Llegadas vs Salidas"
+          title={selectedDate === 'all' ? "Llegadas vs Salidas (Todos los días)" : `Llegadas vs Salidas (${selectedDate})`}
           data={[
-            { Tipo: 'Llegaron', Cantidad: metrics.personas_llegaron || 0 },
-            { Tipo: 'Se Fueron', Cantidad: metrics.personas_se_fueron || 0 }
+            { Tipo: 'Llegaron (AM)', Cantidad: filteredData.personas_llegaron || 0 },
+            { Tipo: 'Se Fueron (PM)', Cantidad: filteredData.personas_se_fueron || 0 }
           ]}
           type="bar"
           xKey="Tipo"
@@ -245,17 +326,20 @@ function FincaDashboard({ finca }) {
         <div className="metrics-grid">
           <MetricCard
             title="Total Pasajeros Adicionales"
-            value={metrics.pasajeros_adicionales?.Total || 0}
+            value={filteredData.pasajeros_adicionales?.Total || 0}
             subtitle="personas"
             color="#ff9800"
           />
         </div>
-        {metrics.pasajeros_adicionales?.Por_ruta && metrics.pasajeros_adicionales.Por_ruta.length > 0 && (
+        {filteredData.pasajeros_adicionales?.Por_ruta && filteredData.pasajeros_adicionales.Por_ruta.length > 0 && (
           <ChartCard
-            title="Pasajeros Adicionales por Ruta"
-            data={metrics.pasajeros_adicionales.Por_ruta}
+            title={selectedDate === 'all' ? "Pasajeros Adicionales por Ruta y Fecha" : `Pasajeros Adicionales por Ruta (${selectedDate})`}
+            data={filteredData.pasajeros_adicionales.Por_ruta.map(item => ({
+              ...item,
+              'No. Ruta-Fecha': selectedDate === 'all' ? `${item['No. Ruta']} (${item.Fecha})` : item['No. Ruta']
+            }))}
             type="bar"
-            xKey="No. Ruta"
+            xKey={selectedDate === 'all' ? 'No. Ruta-Fecha' : 'No. Ruta'}
             yKeys={[
               { key: 'Cantidad', label: 'Pasajeros Extra', color: '#ff9800' }
             ]}
@@ -269,20 +353,23 @@ function FincaDashboard({ finca }) {
         <div className="metrics-grid">
           <MetricCard
             title="Tiempo Promedio"
-            value={metrics.promedio_tiempo_viaje?.Promedio_minutos || 0}
+            value={filteredData.promedio_tiempo_viaje?.Promedio_minutos || 0}
             subtitle="minutos"
             color="#9c27b0"
           />
         </div>
-        {metrics.promedio_tiempo_viaje?.Por_ruta && metrics.promedio_tiempo_viaje.Por_ruta.length > 0 && (
+        {filteredData.promedio_tiempo_viaje?.Por_ruta && filteredData.promedio_tiempo_viaje.Por_ruta.length > 0 && (
           <ChartCard
-            title="Tiempo de Viaje por Ruta"
-            data={metrics.promedio_tiempo_viaje.Por_ruta.map(r => ({
+            title={selectedDate === 'all' ? "Tiempo de Viaje por Ruta y Fecha" : `Tiempo de Viaje por Ruta (${selectedDate})`}
+            data={filteredData.promedio_tiempo_viaje.Por_ruta
+              .filter(r => selectedDate === 'all' || r['Fecha inicio'] === selectedDate)
+              .map(r => ({
               Ruta: r.Ruta,
-              'Tiempo (min)': r.Tiempo_minutos || 0
+              'Tiempo (min)': r.Tiempo_minutos || 0,
+              'Ruta-Fecha': selectedDate === 'all' ? `${r.Ruta} (${r['Fecha inicio']})` : r.Ruta
             }))}
             type="bar"
-            xKey="Ruta"
+            xKey={selectedDate === 'all' ? 'Ruta-Fecha' : 'Ruta'}
             yKeys={[
               { key: 'Tiempo (min)', label: 'Minutos', color: '#9c27b0' }
             ]}
@@ -290,26 +377,27 @@ function FincaDashboard({ finca }) {
         )}
       </section>
 
-      {/* Métricas por fecha */}
-      {metrics.por_fecha && Object.keys(metrics.por_fecha).length > 0 && (
+      {/* Métricas por fecha - Solo mostrar si no hay filtro de fecha */}
+      {selectedDate === 'all' && metrics.por_fecha && Object.keys(metrics.por_fecha).length > 0 && (
         <section className="metric-section">
-          <h3>Resumen por Fecha</h3>
+          <h3>Resumen por Fecha (Todos los días)</h3>
           <ChartCard
             title="Métricas por Fecha"
             data={Object.entries(metrics.por_fecha).map(([fecha, data]) => ({
-              Fecha: fecha.split('-')[2], // Solo el día
+              Fecha: fecha.split('-')[2] + '/' + fecha.split('-')[1], // Día/Mes
+              'Fecha completa': fecha,
               Inscritas: data.inscritas || 0,
               Abordaron: data.abordaron || 0,
-              Llegaron: data.llegaron || 0,
-              'Se Fueron': data.se_fueron || 0
+              'Llegaron (AM)': data.llegaron || 0,
+              'Se Fueron (PM)': data.se_fueron || 0
             }))}
             type="line"
             xKey="Fecha"
             yKeys={[
               { key: 'Inscritas', label: 'Inscritas', color: '#8884d8' },
               { key: 'Abordaron', label: 'Abordaron', color: '#82ca9d' },
-              { key: 'Llegaron', label: 'Llegaron', color: '#4caf50' },
-              { key: 'Se Fueron', label: 'Se Fueron', color: '#2196f3' }
+              { key: 'Llegaron (AM)', label: 'Llegaron (AM)', color: '#4caf50' },
+              { key: 'Se Fueron (PM)', label: 'Se Fueron (PM)', color: '#2196f3' }
             ]}
           />
         </section>
