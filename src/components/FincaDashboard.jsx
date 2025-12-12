@@ -27,7 +27,8 @@ function FincaDashboard({ finca }) {
         } catch (apiError) {
           // Si falla el API, cargar datos estáticos (modo producción/GitHub Pages)
           const fincaLower = finca.toLowerCase()
-          const response = await fetch(`/data/${fincaLower}.json`)
+          const basePath = import.meta.env.BASE_URL || ''
+          const response = await fetch(`${basePath}data/${fincaLower}.json`)
           if (!response.ok) {
             throw new Error(`No se pudo cargar los datos de ${finca}`)
           }
