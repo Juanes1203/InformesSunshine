@@ -1,10 +1,21 @@
-import React from 'react'
-import { Routes, Route, Link } from 'react-router-dom'
+import React, { useEffect } from 'react'
+import { Routes, Route, Link, useNavigate } from 'react-router-dom'
 import FincaDashboard from './components/FincaDashboard'
 import Welcome from './components/Welcome'
 import './App.css'
 
 function App() {
+  const navigate = useNavigate()
+  
+  // Manejar redirección desde 404.html
+  useEffect(() => {
+    if (window.__REACT_ROUTER_REDIRECT__) {
+      const route = window.__REACT_ROUTER_REDIRECT__
+      delete window.__REACT_ROUTER_REDIRECT__
+      navigate(route, { replace: true })
+    }
+  }, [navigate])
+
   return (
     <div className="App">
       <header className="app-header">

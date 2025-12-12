@@ -46,9 +46,12 @@ jobs:
       - name: Build
         run: npm run build
 
-      - name: Copy 404.html for GitHub Pages routing
+      - name: Generate 404.html from index.html
         run: |
-          cp public/404.html dist/404.html || echo "404.html no encontrado en public"
+          # Crear 404.html basado en index.html con script de redirección
+          cp dist/index.html dist/404.html
+          # Agregar script de redirección antes del cierre de </head>
+          sed -i 's|</head>|<script>var path=window.location.pathname;var basePath="/InformesSunshine";if(!path.endsWith("/index.html")&&path.startsWith(basePath)){var route=path.replace(basePath,"")||"/";window.history.replaceState(null,"",basePath+"/index.html");sessionStorage.setItem("redirectRoute",route);}</script></head>|g' dist/404.html
 
       - name: Verify build output
         run: |

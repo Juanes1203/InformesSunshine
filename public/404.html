@@ -4,27 +4,26 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Informes Sunshine - Métricas de Fincas</title>
+    <script type="module" crossorigin src="/InformesSunshine/assets/main-Cd04AAR7.js"></script>
+    <link rel="stylesheet" crossorigin href="/InformesSunshine/assets/main-pbCjMetp.css">
     <script>
-      // GitHub Pages 404 handler - redirige al index.html
-      // Esto permite que React Router maneje las rutas correctamente
-      var path = window.location.pathname;
-      var basePath = '/InformesSunshine';
-      var search = window.location.search;
-      var hash = window.location.hash;
-      
-      // Extraer la ruta después del base path
-      var route = path.replace(basePath, '') || '/';
-      if (route !== '/index.html') {
-        // Redirigir a index.html pero mantener la ruta en el hash para React Router
-        var redirectUrl = basePath + '/index.html' + (hash || '#' + route) + search;
-        window.location.replace(redirectUrl);
-      }
+      // GitHub Pages 404 handler - Redirigir a index.html manteniendo la ruta
+      (function() {
+        var path = window.location.pathname;
+        var basePath = '/InformesSunshine';
+        
+        // Si estamos en una ruta que no es index.html, redirigir
+        if (!path.endsWith('/index.html') && path.startsWith(basePath)) {
+          var route = path.replace(basePath, '') || '/';
+          // Redirigir a index.html y luego React Router manejará la ruta
+          window.history.replaceState(null, '', basePath + '/index.html');
+          // Establecer la ruta en sessionStorage para que React Router la lea
+          sessionStorage.setItem('redirectRoute', route);
+        }
+      })();
     </script>
   </head>
   <body>
-    <div style="display: flex; justify-content: center; align-items: center; height: 100vh; font-family: Arial, sans-serif;">
-      <p>Redirigiendo...</p>
-    </div>
+    <div id="root"></div>
   </body>
 </html>
-
