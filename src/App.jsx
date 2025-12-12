@@ -7,12 +7,12 @@ import './App.css'
 function App() {
   const navigate = useNavigate()
   
-  // Manejar redirección desde 404.html
+  // Manejar redirección desde 404.html (GitHub Pages)
   useEffect(() => {
-    if (window.__REACT_ROUTER_REDIRECT__) {
-      const route = window.__REACT_ROUTER_REDIRECT__
-      delete window.__REACT_ROUTER_REDIRECT__
-      navigate(route, { replace: true })
+    const redirectRoute = sessionStorage.getItem('redirectRoute')
+    if (redirectRoute) {
+      sessionStorage.removeItem('redirectRoute')
+      navigate(redirectRoute, { replace: true })
     }
   }, [navigate])
 
