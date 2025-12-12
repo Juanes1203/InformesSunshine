@@ -3529,8 +3529,8 @@
         "Ruta": "MOSQUERA 1 PM (000002)"
       }
     ],
-    "personas_llegaron": 90,
-    "personas_se_fueron": 546,
+    "personas_llegaron": 546,
+    "personas_se_fueron": 90,
     "pasajeros_adicionales": {
       "Total": 275,
       "Por_ruta": [
@@ -4532,29 +4532,29 @@
       "2025-12-08": {
         "inscritas": 642,
         "abordaron": 54,
-        "llegaron": 0,
-        "se_fueron": 10,
+        "llegaron": 10,
+        "se_fueron": 0,
         "pasajeros_extra": 47
       },
       "2025-12-09": {
         "inscritas": 642,
         "abordaron": 445,
-        "llegaron": 11,
-        "se_fueron": 430,
+        "llegaron": 430,
+        "se_fueron": 11,
         "pasajeros_extra": 31
       },
       "2025-12-10": {
         "inscritas": 642,
         "abordaron": 477,
-        "llegaron": 63,
-        "se_fueron": 425,
+        "llegaron": 425,
+        "se_fueron": 63,
         "pasajeros_extra": 117
       },
       "2025-12-11": {
         "inscritas": 642,
         "abordaron": 479,
-        "llegaron": 21,
-        "se_fueron": 463,
+        "llegaron": 463,
+        "se_fueron": 21,
         "pasajeros_extra": 80
       }
     }
@@ -7962,8 +7962,8 @@
         "Ruta": "FACATATIVA(AER)R1 PM (000018)"
       }
     ],
-    "personas_llegaron": 207,
-    "personas_se_fueron": 514,
+    "personas_llegaron": 514,
+    "personas_se_fueron": 207,
     "pasajeros_adicionales": {
       "Total": 70,
       "Por_ruta": [
@@ -8695,29 +8695,29 @@
       "2025-12-08": {
         "inscritas": 547,
         "abordaron": 62,
-        "llegaron": 0,
-        "se_fueron": 61,
+        "llegaron": 61,
+        "se_fueron": 0,
         "pasajeros_extra": 1
       },
       "2025-12-09": {
         "inscritas": 547,
         "abordaron": 489,
-        "llegaron": 108,
-        "se_fueron": 486,
+        "llegaron": 486,
+        "se_fueron": 108,
         "pasajeros_extra": 12
       },
       "2025-12-10": {
         "inscritas": 547,
         "abordaron": 439,
-        "llegaron": 73,
-        "se_fueron": 434,
+        "llegaron": 434,
+        "se_fueron": 73,
         "pasajeros_extra": 33
       },
       "2025-12-11": {
         "inscritas": 547,
         "abordaron": 472,
-        "llegaron": 131,
-        "se_fueron": 470,
+        "llegaron": 470,
+        "se_fueron": 131,
         "pasajeros_extra": 24
       }
     }

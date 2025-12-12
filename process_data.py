@@ -102,8 +102,10 @@ def process_finca_data(excel_file, finca_name):
     metrics['rutas_iniciadas_detalle'] = [{'Ruta': r} for r in rutas_iniciadas_list[:50]]  # Limitamos a 50
     
     # 5. Personas que llegaron vs se fueron en buses
-    llegaron = consolidado_clean[consolidado_clean['Estado'] == 'Entregado']['Código'].nunique()
-    se_fueron = consolidado_clean[consolidado_clean['Estado'] == 'Recogido']['Código'].nunique()
+    # Rutas AM (Recogido): Recogen estudiantes de sus casas y los llevan a la finca/colegio = LLEGAN a la finca
+    # Rutas PM (Entregado): Entregan estudiantes de vuelta a sus casas desde la finca/colegio = SE VAN de la finca
+    llegaron = consolidado_clean[consolidado_clean['Estado'] == 'Recogido']['Código'].nunique()
+    se_fueron = consolidado_clean[consolidado_clean['Estado'] == 'Entregado']['Código'].nunique()
     
     metrics['personas_llegaron'] = int(llegaron)
     metrics['personas_se_fueron'] = int(se_fueron)
@@ -158,8 +160,8 @@ def process_finca_data(excel_file, finca_name):
             metrics['por_fecha'][fecha] = {
                 'inscritas': int(fecha_data['Código'].nunique()),
                 'abordaron': int(fecha_data[fecha_data['Estado'].isin(['Recogido', 'Entregado', 'Pasajero extra'])]['Código'].nunique()),
-                'llegaron': int(fecha_data[fecha_data['Estado'] == 'Entregado']['Código'].nunique()),
-                'se_fueron': int(fecha_data[fecha_data['Estado'] == 'Recogido']['Código'].nunique()),
+                'llegaron': int(fecha_data[fecha_data['Estado'] == 'Recogido']['Código'].nunique()),
+                'se_fueron': int(fecha_data[fecha_data['Estado'] == 'Entregado']['Código'].nunique()),
                 'pasajeros_extra': int(len(fecha_data[fecha_data['Estado'] == 'Pasajero extra']))
             }
     

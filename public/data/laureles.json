@@ -3528,8 +3528,8 @@
       "Ruta": "MOSQUERA 1 PM (000002)"
     }
   ],
-  "personas_llegaron": 90,
-  "personas_se_fueron": 546,
+  "personas_llegaron": 546,
+  "personas_se_fueron": 90,
   "pasajeros_adicionales": {
     "Total": 275,
     "Por_ruta": [
@@ -4531,29 +4531,29 @@
     "2025-12-08": {
       "inscritas": 642,
       "abordaron": 54,
-      "llegaron": 0,
-      "se_fueron": 10,
+      "llegaron": 10,
+      "se_fueron": 0,
       "pasajeros_extra": 47
     },
     "2025-12-09": {
       "inscritas": 642,
       "abordaron": 445,
-      "llegaron": 11,
-      "se_fueron": 430,
+      "llegaron": 430,
+      "se_fueron": 11,
       "pasajeros_extra": 31
     },
     "2025-12-10": {
       "inscritas": 642,
       "abordaron": 477,
-      "llegaron": 63,
-      "se_fueron": 425,
+      "llegaron": 425,
+      "se_fueron": 63,
       "pasajeros_extra": 117
     },
     "2025-12-11": {
       "inscritas": 642,
       "abordaron": 479,
-      "llegaron": 21,
-      "se_fueron": 463,
+      "llegaron": 463,
+      "se_fueron": 21,
       "pasajeros_extra": 80
     }
   }
