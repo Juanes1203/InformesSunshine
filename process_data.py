@@ -47,14 +47,20 @@ def process_finca_data(excel_file, finca_name):
     metrics['total_personas_abordaron'] = int(total_abordaron)
     
     # 2. Personas que abordaron vs capacidad de bus (estimada)
-    # Asumimos capacidad basada en el máximo de personas por ruta
-    capacidad_por_ruta = consolidado_clean.groupby('No. Ruta')['Código'].nunique().max()
+    # Calcular capacidad por ruta individual (máximo de personas inscritas en esa ruta específica)
+    capacidad_por_ruta_dict = consolidado_clean.groupby('No. Ruta')['Código'].nunique().to_dict()
+    
     abordaron_por_ruta = consolidado_clean[
         consolidado_clean['Estado'].isin(['Recogido', 'Entregado', 'Pasajero extra'])
     ].groupby(['Fecha', 'No. Ruta'])['Código'].nunique().reset_index()
     abordaron_por_ruta.columns = ['Fecha', 'Ruta', 'Abordaron']
-    abordaron_por_ruta['Capacidad_estimada'] = capacidad_por_ruta
-    abordaron_por_ruta['Porcentaje_ocupacion'] = (abordaron_por_ruta['Abordaron'] / capacidad_por_ruta * 100).round(2)
+    
+    # Asignar capacidad específica a cada ruta
+    abordaron_por_ruta['Capacidad_estimada'] = abordaron_por_ruta['Ruta'].map(capacidad_por_ruta_dict).fillna(0).astype(int)
+    abordaron_por_ruta['Porcentaje_ocupacion'] = (abordaron_por_ruta['Abordaron'] / abordaron_por_ruta['Capacidad_estimada'] * 100).round(2)
+    # Manejar división por cero
+    abordaron_por_ruta.loc[abordaron_por_ruta['Capacidad_estimada'] == 0, 'Porcentaje_ocupacion'] = 0
+    
     metrics['personas_vs_capacidad'] = abordaron_por_ruta.to_dict('records')
     
     # 3. Persistencia: Rutas con problemas

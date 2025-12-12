@@ -1064,22 +1064,22 @@
       "Fecha": "2025-12-08",
       "Ruta": "MADRID(AER)R7 PM",
       "Abordaron": 1,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 2.44
+      "Capacidad_estimada": 31,
+      "Porcentaje_ocupacion": 3.23
     },
     {
       "Fecha": "2025-12-08",
       "Ruta": "MOSQUERA(ECOL)R1 AM",
       "Abordaron": 9,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 21.95
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 33.33
     },
     {
       "Fecha": "2025-12-08",
       "Ruta": "ROSAL(AER)R3 AM",
       "Abordaron": 11,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 26.83
+      "Capacidad_estimada": 19,
+      "Porcentaje_ocupacion": 57.89
     },
     {
       "Fecha": "2025-12-08",
@@ -1092,176 +1092,176 @@
       "Fecha": "2025-12-09",
       "Ruta": "FACATATIVA(AER)R1 AM",
       "Abordaron": 13,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 31.71
+      "Capacidad_estimada": 16,
+      "Porcentaje_ocupacion": 81.25
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "FACATATIVA(AER)R2 AM",
       "Abordaron": 22,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 53.66
+      "Capacidad_estimada": 25,
+      "Porcentaje_ocupacion": 88.0
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "FACATATIVA(AER)R2 PM",
       "Abordaron": 19,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 46.34
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 70.37
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "FACATATIVA(AER)R3 AM",
       "Abordaron": 26,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 63.41
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 96.3
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "FACATATIVA(AER)R3 PM",
       "Abordaron": 14,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 34.15
+      "Capacidad_estimada": 26,
+      "Porcentaje_ocupacion": 53.85
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "FACATATIVA(AER)R4 AM",
       "Abordaron": 25,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 60.98
+      "Capacidad_estimada": 26,
+      "Porcentaje_ocupacion": 96.15
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "FACATATIVA(AER)R4 PM",
       "Abordaron": 4,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 9.76
+      "Capacidad_estimada": 30,
+      "Porcentaje_ocupacion": 13.33
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "FACATATIVA(AER)R5 AM",
       "Abordaron": 25,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 60.98
+      "Capacidad_estimada": 30,
+      "Porcentaje_ocupacion": 83.33
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "FUNZA(ECOL)R1 AM",
       "Abordaron": 19,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 46.34
+      "Capacidad_estimada": 20,
+      "Porcentaje_ocupacion": 95.0
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "FUNZA(ECOL)R1 PM",
       "Abordaron": 2,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 4.88
+      "Capacidad_estimada": 20,
+      "Porcentaje_ocupacion": 10.0
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "MADRID(AER)R1 AM",
       "Abordaron": 13,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 31.71
+      "Capacidad_estimada": 16,
+      "Porcentaje_ocupacion": 81.25
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "MADRID(AER)R2 AM",
       "Abordaron": 14,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 34.15
+      "Capacidad_estimada": 16,
+      "Porcentaje_ocupacion": 87.5
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "MADRID(AER)R3 AM",
       "Abordaron": 29,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 70.73
+      "Capacidad_estimada": 33,
+      "Porcentaje_ocupacion": 87.88
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "MADRID(AER)R4 AM",
       "Abordaron": 26,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 63.41
+      "Capacidad_estimada": 32,
+      "Porcentaje_ocupacion": 81.25
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "MADRID(AER)R5 AM",
       "Abordaron": 27,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 65.85
+      "Capacidad_estimada": 32,
+      "Porcentaje_ocupacion": 84.38
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "MADRID(AER)R6 AM",
       "Abordaron": 26,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 63.41
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 96.3
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "MADRID(AER)R6 PM",
       "Abordaron": 22,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 53.66
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 81.48
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "MADRID(AER)R7 AM",
       "Abordaron": 26,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 63.41
+      "Capacidad_estimada": 30,
+      "Porcentaje_ocupacion": 86.67
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "MADRID(AER)R7 PM",
       "Abordaron": 20,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 48.78
+      "Capacidad_estimada": 31,
+      "Porcentaje_ocupacion": 64.52
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "MADRID(AER)R8 AM",
       "Abordaron": 20,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 48.78
+      "Capacidad_estimada": 23,
+      "Porcentaje_ocupacion": 86.96
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "MOSQUERA(ECOL)R1 AM",
       "Abordaron": 20,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 48.78
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 74.07
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "MOSQUERA(ECOL)R1 PM",
       "Abordaron": 21,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 51.22
+      "Capacidad_estimada": 38,
+      "Porcentaje_ocupacion": 55.26
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "ROSAL(AER)R1 AM",
       "Abordaron": 19,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 46.34
+      "Capacidad_estimada": 26,
+      "Porcentaje_ocupacion": 73.08
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "ROSAL(AER)R2 AM",
       "Abordaron": 29,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 70.73
+      "Capacidad_estimada": 33,
+      "Porcentaje_ocupacion": 87.88
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "ROSAL(AER)R3 AM",
       "Abordaron": 17,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 41.46
+      "Capacidad_estimada": 19,
+      "Porcentaje_ocupacion": 89.47
     },
     {
       "Fecha": "2025-12-09",
@@ -1281,400 +1281,400 @@
       "Fecha": "2025-12-09",
       "Ruta": "ROSAL(AER)R5 AM",
       "Abordaron": 20,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 48.78
+      "Capacidad_estimada": 21,
+      "Porcentaje_ocupacion": 95.24
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "SUBA(AER)R1 AM",
       "Abordaron": 22,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 53.66
+      "Capacidad_estimada": 23,
+      "Porcentaje_ocupacion": 95.65
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "SUBA(AER)R2 AM",
       "Abordaron": 11,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 26.83
+      "Capacidad_estimada": 13,
+      "Porcentaje_ocupacion": 84.62
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "FACATATIVA(AER)R1 AM",
       "Abordaron": 13,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 31.71
+      "Capacidad_estimada": 16,
+      "Porcentaje_ocupacion": 81.25
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "FACATATIVA(AER)R2 AM",
       "Abordaron": 22,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 53.66
+      "Capacidad_estimada": 25,
+      "Porcentaje_ocupacion": 88.0
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "FACATATIVA(AER)R2 PM",
       "Abordaron": 23,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 56.1
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 85.19
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "FACATATIVA(AER)R3 AM",
       "Abordaron": 20,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 48.78
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 74.07
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "FACATATIVA(AER)R4 AM",
       "Abordaron": 25,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 60.98
+      "Capacidad_estimada": 26,
+      "Porcentaje_ocupacion": 96.15
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "FACATATIVA(AER)R5 AM",
       "Abordaron": 27,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 65.85
+      "Capacidad_estimada": 30,
+      "Porcentaje_ocupacion": 90.0
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "FUNZA(ECOL)R1 AM",
       "Abordaron": 18,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 43.9
+      "Capacidad_estimada": 20,
+      "Porcentaje_ocupacion": 90.0
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MADRID(AER)R1 AM",
       "Abordaron": 13,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 31.71
+      "Capacidad_estimada": 16,
+      "Porcentaje_ocupacion": 81.25
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MADRID(AER)R1 PM",
       "Abordaron": 6,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 14.63
+      "Capacidad_estimada": 22,
+      "Porcentaje_ocupacion": 27.27
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MADRID(AER)R2 AM",
       "Abordaron": 15,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 36.59
+      "Capacidad_estimada": 16,
+      "Porcentaje_ocupacion": 93.75
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MADRID(AER)R3 AM",
       "Abordaron": 30,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 73.17
+      "Capacidad_estimada": 33,
+      "Porcentaje_ocupacion": 90.91
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MADRID(AER)R4 AM",
       "Abordaron": 25,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 60.98
+      "Capacidad_estimada": 32,
+      "Porcentaje_ocupacion": 78.12
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MADRID(AER)R4 PM",
       "Abordaron": 1,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 2.44
+      "Capacidad_estimada": 32,
+      "Porcentaje_ocupacion": 3.12
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MADRID(AER)R5 AM",
       "Abordaron": 27,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 65.85
+      "Capacidad_estimada": 32,
+      "Porcentaje_ocupacion": 84.38
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MADRID(AER)R6 AM",
       "Abordaron": 26,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 63.41
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 96.3
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MADRID(AER)R7 AM",
       "Abordaron": 24,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 58.54
+      "Capacidad_estimada": 30,
+      "Porcentaje_ocupacion": 80.0
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MADRID(AER)R7 PM",
       "Abordaron": 21,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 51.22
+      "Capacidad_estimada": 31,
+      "Porcentaje_ocupacion": 67.74
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MADRID(AER)R8 AM",
       "Abordaron": 19,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 46.34
+      "Capacidad_estimada": 23,
+      "Porcentaje_ocupacion": 82.61
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MADRID(AER)R8 PM",
       "Abordaron": 7,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 17.07
+      "Capacidad_estimada": 39,
+      "Porcentaje_ocupacion": 17.95
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MOSQUERA(ECOL)R1 AM",
       "Abordaron": 20,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 48.78
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 74.07
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MOSQUERA(ECOL)R1 PM",
       "Abordaron": 24,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 58.54
+      "Capacidad_estimada": 38,
+      "Porcentaje_ocupacion": 63.16
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "ROSAL(AER)R1 AM",
       "Abordaron": 19,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 46.34
+      "Capacidad_estimada": 26,
+      "Porcentaje_ocupacion": 73.08
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "ROSAL(AER)R2 AM",
       "Abordaron": 25,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 60.98
+      "Capacidad_estimada": 33,
+      "Porcentaje_ocupacion": 75.76
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "ROSAL(AER)R3 AM",
       "Abordaron": 18,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 43.9
+      "Capacidad_estimada": 19,
+      "Porcentaje_ocupacion": 94.74
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "ROSAL(AER)R5 AM",
       "Abordaron": 18,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 43.9
+      "Capacidad_estimada": 21,
+      "Porcentaje_ocupacion": 85.71
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "SUBA(AER)R1 AM",
       "Abordaron": 20,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 48.78
+      "Capacidad_estimada": 23,
+      "Porcentaje_ocupacion": 86.96
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "SUBA(AER)R2 AM",
       "Abordaron": 10,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 24.39
+      "Capacidad_estimada": 13,
+      "Porcentaje_ocupacion": 76.92
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "FACATATIVA(AER)R1 AM",
       "Abordaron": 14,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 34.15
+      "Capacidad_estimada": 16,
+      "Porcentaje_ocupacion": 87.5
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "FACATATIVA(AER)R2 AM",
       "Abordaron": 21,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 51.22
+      "Capacidad_estimada": 25,
+      "Porcentaje_ocupacion": 84.0
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "FACATATIVA(AER)R2 PM",
       "Abordaron": 2,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 4.88
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 7.41
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "FACATATIVA(AER)R3 AM",
       "Abordaron": 25,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 60.98
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 92.59
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "FACATATIVA(AER)R4 AM",
       "Abordaron": 25,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 60.98
+      "Capacidad_estimada": 26,
+      "Porcentaje_ocupacion": 96.15
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "FACATATIVA(AER)R4 PM",
       "Abordaron": 20,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 48.78
+      "Capacidad_estimada": 30,
+      "Porcentaje_ocupacion": 66.67
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "FACATATIVA(AER)R5 AM",
       "Abordaron": 26,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 63.41
+      "Capacidad_estimada": 30,
+      "Porcentaje_ocupacion": 86.67
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "FUNZA(ECOL)R1 AM",
       "Abordaron": 18,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 43.9
+      "Capacidad_estimada": 20,
+      "Porcentaje_ocupacion": 90.0
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "FUNZA(ECOL)R1 PM",
       "Abordaron": 2,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 4.88
+      "Capacidad_estimada": 20,
+      "Porcentaje_ocupacion": 10.0
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "MADRID(AER)R1 AM",
       "Abordaron": 13,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 31.71
+      "Capacidad_estimada": 16,
+      "Porcentaje_ocupacion": 81.25
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "MADRID(AER)R2 AM",
       "Abordaron": 15,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 36.59
+      "Capacidad_estimada": 16,
+      "Porcentaje_ocupacion": 93.75
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "MADRID(AER)R3 AM",
       "Abordaron": 27,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 65.85
+      "Capacidad_estimada": 33,
+      "Porcentaje_ocupacion": 81.82
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "MADRID(AER)R3 PM",
       "Abordaron": 26,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 63.41
+      "Capacidad_estimada": 35,
+      "Porcentaje_ocupacion": 74.29
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "MADRID(AER)R4 AM",
       "Abordaron": 24,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 58.54
+      "Capacidad_estimada": 32,
+      "Porcentaje_ocupacion": 75.0
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "MADRID(AER)R5 AM",
       "Abordaron": 29,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 70.73
+      "Capacidad_estimada": 32,
+      "Porcentaje_ocupacion": 90.62
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "MADRID(AER)R6 AM",
       "Abordaron": 25,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 60.98
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 92.59
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "MADRID(AER)R6 PM",
       "Abordaron": 23,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 56.1
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 85.19
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "MADRID(AER)R7 AM",
       "Abordaron": 25,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 60.98
+      "Capacidad_estimada": 30,
+      "Porcentaje_ocupacion": 83.33
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "MADRID(AER)R7 PM",
       "Abordaron": 23,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 56.1
+      "Capacidad_estimada": 31,
+      "Porcentaje_ocupacion": 74.19
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "MADRID(AER)R8 AM",
       "Abordaron": 20,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 48.78
+      "Capacidad_estimada": 23,
+      "Porcentaje_ocupacion": 86.96
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "MADRID(AER)R8 PM",
       "Abordaron": 9,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 21.95
+      "Capacidad_estimada": 39,
+      "Porcentaje_ocupacion": 23.08
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "MOSQUERA(ECOL)R1 AM",
       "Abordaron": 21,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 51.22
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 77.78
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "MOSQUERA(ECOL)R1 PM",
       "Abordaron": 19,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 46.34
+      "Capacidad_estimada": 38,
+      "Porcentaje_ocupacion": 50.0
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "ROSAL(AER)R1 AM",
       "Abordaron": 19,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 46.34
+      "Capacidad_estimada": 26,
+      "Porcentaje_ocupacion": 73.08
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "ROSAL(AER)R2 AM",
       "Abordaron": 26,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 63.41
+      "Capacidad_estimada": 33,
+      "Porcentaje_ocupacion": 78.79
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "ROSAL(AER)R2 PM",
       "Abordaron": 3,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 7.32
+      "Capacidad_estimada": 33,
+      "Porcentaje_ocupacion": 9.09
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "ROSAL(AER)R3 AM",
       "Abordaron": 15,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 36.59
+      "Capacidad_estimada": 19,
+      "Porcentaje_ocupacion": 78.95
     },
     {
       "Fecha": "2025-12-11",
@@ -1687,36 +1687,36 @@
       "Fecha": "2025-12-11",
       "Ruta": "ROSAL(AER)R5 AM",
       "Abordaron": 18,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 43.9
+      "Capacidad_estimada": 21,
+      "Porcentaje_ocupacion": 85.71
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "SUBA(AER)R1 AM",
       "Abordaron": 21,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 51.22
+      "Capacidad_estimada": 23,
+      "Porcentaje_ocupacion": 91.3
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "SUBA(AER)R1 PM",
       "Abordaron": 2,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 4.88
+      "Capacidad_estimada": 23,
+      "Porcentaje_ocupacion": 8.7
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "SUBA(AER)R2 AM",
       "Abordaron": 11,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 26.83
+      "Capacidad_estimada": 13,
+      "Porcentaje_ocupacion": 84.62
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "SUBA(AER)R2 PM",
       "Abordaron": 11,
-      "Capacidad_estimada": 41,
-      "Porcentaje_ocupacion": 26.83
+      "Capacidad_estimada": 13,
+      "Porcentaje_ocupacion": 84.62
     }
   ],
   "rutas_con_problemas": [

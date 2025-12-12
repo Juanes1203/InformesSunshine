@@ -1112,57 +1112,57 @@
       "Fecha": "2025-12-08",
       "Ruta": "FACA 2 AM",
       "Abordaron": 5,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 8.33
+      "Capacidad_estimada": 32,
+      "Porcentaje_ocupacion": 15.62
     },
     {
       "Fecha": "2025-12-08",
       "Ruta": "FACA 2 PM",
       "Abordaron": 2,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 3.33
+      "Capacidad_estimada": 34,
+      "Porcentaje_ocupacion": 5.88
     },
     {
       "Fecha": "2025-12-08",
       "Ruta": "FACA 5 AM",
       "Abordaron": 5,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 8.33
+      "Capacidad_estimada": 31,
+      "Porcentaje_ocupacion": 16.13
     },
     {
       "Fecha": "2025-12-08",
       "Ruta": "MADRID 3 PM",
       "Abordaron": 2,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 3.33
+      "Capacidad_estimada": 47,
+      "Porcentaje_ocupacion": 4.26
     },
     {
       "Fecha": "2025-12-08",
       "Ruta": "MADRID 6 PM",
       "Abordaron": 4,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 6.67
+      "Capacidad_estimada": 57,
+      "Porcentaje_ocupacion": 7.02
     },
     {
       "Fecha": "2025-12-08",
       "Ruta": "MADRID 7 AM",
       "Abordaron": 7,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 11.67
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 17.07
     },
     {
       "Fecha": "2025-12-08",
       "Ruta": "ROSAL 2 AM",
       "Abordaron": 4,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 6.67
+      "Capacidad_estimada": 36,
+      "Porcentaje_ocupacion": 11.11
     },
     {
       "Fecha": "2025-12-08",
       "Ruta": "ROSAL 2 PM",
       "Abordaron": 8,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 13.33
+      "Capacidad_estimada": 42,
+      "Porcentaje_ocupacion": 19.05
     },
     {
       "Fecha": "2025-12-08",
@@ -1175,386 +1175,386 @@
       "Fecha": "2025-12-08",
       "Ruta": "SUBA 2 AM",
       "Abordaron": 1,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 1.67
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 3.7
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "FACA 1 AM",
       "Abordaron": 19,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 31.67
+      "Capacidad_estimada": 25,
+      "Porcentaje_ocupacion": 76.0
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "FACA 2 AM",
       "Abordaron": 18,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 30.0
+      "Capacidad_estimada": 32,
+      "Porcentaje_ocupacion": 56.25
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "FACA 3 AM",
       "Abordaron": 24,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 40.0
+      "Capacidad_estimada": 37,
+      "Porcentaje_ocupacion": 64.86
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "FACA 4 AM",
       "Abordaron": 18,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 30.0
+      "Capacidad_estimada": 25,
+      "Porcentaje_ocupacion": 72.0
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "FACA 5 AM",
       "Abordaron": 21,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 35.0
+      "Capacidad_estimada": 31,
+      "Porcentaje_ocupacion": 67.74
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "FACA 5 PM",
       "Abordaron": 5,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 8.33
+      "Capacidad_estimada": 40,
+      "Porcentaje_ocupacion": 12.5
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "FUNZA 1 AM",
       "Abordaron": 25,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 41.67
+      "Capacidad_estimada": 33,
+      "Porcentaje_ocupacion": 75.76
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "MADRID 1 AM",
       "Abordaron": 31,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 51.67
+      "Capacidad_estimada": 44,
+      "Porcentaje_ocupacion": 70.45
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "MADRID 2 AM",
       "Abordaron": 19,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 31.67
+      "Capacidad_estimada": 26,
+      "Porcentaje_ocupacion": 73.08
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "MADRID 2 PM",
       "Abordaron": 1,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 1.67
+      "Capacidad_estimada": 19,
+      "Porcentaje_ocupacion": 5.26
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "MADRID 3 AM",
       "Abordaron": 14,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 23.33
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 51.85
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "MADRID 3 PM",
       "Abordaron": 5,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 8.33
+      "Capacidad_estimada": 47,
+      "Porcentaje_ocupacion": 10.64
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "MADRID 4 AM",
       "Abordaron": 12,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 20.0
+      "Capacidad_estimada": 15,
+      "Porcentaje_ocupacion": 80.0
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "MADRID 5 AM",
       "Abordaron": 14,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 23.33
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 51.85
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "MADRID 6 AM",
       "Abordaron": 26,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 43.33
+      "Capacidad_estimada": 33,
+      "Porcentaje_ocupacion": 78.79
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "MADRID 7 AM",
       "Abordaron": 24,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 40.0
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 58.54
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "ROSAL 1 AM",
       "Abordaron": 30,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 50.0
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 73.17
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "ROSAL 2 AM",
       "Abordaron": 2,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 3.33
+      "Capacidad_estimada": 36,
+      "Porcentaje_ocupacion": 5.56
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "ROSAL 3 AM",
       "Abordaron": 26,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 43.33
+      "Capacidad_estimada": 35,
+      "Porcentaje_ocupacion": 74.29
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "ROSAL 4 AM",
       "Abordaron": 23,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 38.33
+      "Capacidad_estimada": 30,
+      "Porcentaje_ocupacion": 76.67
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "ROSAL 4 PM",
       "Abordaron": 2,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 3.33
+      "Capacidad_estimada": 57,
+      "Porcentaje_ocupacion": 3.51
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "ROSAL 5 AM",
       "Abordaron": 22,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 36.67
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 81.48
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "ROSAL 6 AM",
       "Abordaron": 11,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 18.33
+      "Capacidad_estimada": 15,
+      "Porcentaje_ocupacion": 73.33
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "ROSAL 6 PM",
       "Abordaron": 7,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 11.67
+      "Capacidad_estimada": 48,
+      "Porcentaje_ocupacion": 14.58
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "SUBA 1 AM",
       "Abordaron": 23,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 38.33
+      "Capacidad_estimada": 31,
+      "Porcentaje_ocupacion": 74.19
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "SUBA 1 PM",
       "Abordaron": 1,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 1.67
+      "Capacidad_estimada": 30,
+      "Porcentaje_ocupacion": 3.33
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "SUBA 2 AM",
       "Abordaron": 16,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 26.67
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 59.26
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "SUBA 2 PM",
       "Abordaron": 1,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 1.67
+      "Capacidad_estimada": 30,
+      "Porcentaje_ocupacion": 3.33
     },
     {
       "Fecha": "2025-12-09",
       "Ruta": "SUBA 3 AM",
       "Abordaron": 19,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 31.67
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 70.37
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "FACA 1 AM",
       "Abordaron": 21,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 35.0
+      "Capacidad_estimada": 25,
+      "Porcentaje_ocupacion": 84.0
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "FACA 1 PM",
       "Abordaron": 8,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 13.33
+      "Capacidad_estimada": 35,
+      "Porcentaje_ocupacion": 22.86
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "FACA 2 AM",
       "Abordaron": 23,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 38.33
+      "Capacidad_estimada": 32,
+      "Porcentaje_ocupacion": 71.88
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "FACA 3 AM",
       "Abordaron": 24,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 40.0
+      "Capacidad_estimada": 37,
+      "Porcentaje_ocupacion": 64.86
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "FACA 4 AM",
       "Abordaron": 16,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 26.67
+      "Capacidad_estimada": 25,
+      "Porcentaje_ocupacion": 64.0
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "FACA 5 AM",
       "Abordaron": 25,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 41.67
+      "Capacidad_estimada": 31,
+      "Porcentaje_ocupacion": 80.65
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "FUNZA 1 AM",
       "Abordaron": 23,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 38.33
+      "Capacidad_estimada": 33,
+      "Porcentaje_ocupacion": 69.7
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MADRID 1 AM",
       "Abordaron": 33,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 55.0
+      "Capacidad_estimada": 44,
+      "Porcentaje_ocupacion": 75.0
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MADRID 1 PM",
       "Abordaron": 4,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 6.67
+      "Capacidad_estimada": 57,
+      "Porcentaje_ocupacion": 7.02
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MADRID 2 AM",
       "Abordaron": 19,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 31.67
+      "Capacidad_estimada": 26,
+      "Porcentaje_ocupacion": 73.08
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MADRID 3 AM",
       "Abordaron": 17,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 28.33
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 62.96
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MADRID 3 PM",
       "Abordaron": 8,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 13.33
+      "Capacidad_estimada": 47,
+      "Porcentaje_ocupacion": 17.02
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MADRID 4 AM",
       "Abordaron": 12,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 20.0
+      "Capacidad_estimada": 15,
+      "Porcentaje_ocupacion": 80.0
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MADRID 4 PM",
       "Abordaron": 3,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 5.0
+      "Capacidad_estimada": 19,
+      "Porcentaje_ocupacion": 15.79
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MADRID 5 AM",
       "Abordaron": 19,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 31.67
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 70.37
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MADRID 6 AM",
       "Abordaron": 25,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 41.67
+      "Capacidad_estimada": 33,
+      "Porcentaje_ocupacion": 75.76
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MADRID 6 PM",
       "Abordaron": 23,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 38.33
+      "Capacidad_estimada": 57,
+      "Porcentaje_ocupacion": 40.35
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MADRID 7 AM",
       "Abordaron": 19,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 31.67
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 46.34
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MADRID 7 PM",
       "Abordaron": 29,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 48.33
+      "Capacidad_estimada": 35,
+      "Porcentaje_ocupacion": 82.86
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MOSQUERA 1 AM",
       "Abordaron": 5,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 8.33
+      "Capacidad_estimada": 11,
+      "Porcentaje_ocupacion": 45.45
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "MOSQUERA 1 PM",
       "Abordaron": 8,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 13.33
+      "Capacidad_estimada": 19,
+      "Porcentaje_ocupacion": 42.11
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "ROSAL 1 AM",
       "Abordaron": 36,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 60.0
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 87.8
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "ROSAL 2 AM",
       "Abordaron": 3,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 5.0
+      "Capacidad_estimada": 36,
+      "Porcentaje_ocupacion": 8.33
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "ROSAL 2 PM",
       "Abordaron": 5,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 8.33
+      "Capacidad_estimada": 42,
+      "Porcentaje_ocupacion": 11.9
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "ROSAL 3 AM",
       "Abordaron": 27,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 45.0
+      "Capacidad_estimada": 35,
+      "Porcentaje_ocupacion": 77.14
     },
     {
       "Fecha": "2025-12-10",
@@ -1567,253 +1567,253 @@
       "Fecha": "2025-12-10",
       "Ruta": "ROSAL 4 AM",
       "Abordaron": 23,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 38.33
+      "Capacidad_estimada": 30,
+      "Porcentaje_ocupacion": 76.67
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "ROSAL 4 PM",
       "Abordaron": 25,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 41.67
+      "Capacidad_estimada": 57,
+      "Porcentaje_ocupacion": 43.86
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "ROSAL 6 AM",
       "Abordaron": 12,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 20.0
+      "Capacidad_estimada": 15,
+      "Porcentaje_ocupacion": 80.0
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "ROSAL 6 PM",
       "Abordaron": 9,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 15.0
+      "Capacidad_estimada": 48,
+      "Porcentaje_ocupacion": 18.75
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "SUBA 1 AM",
       "Abordaron": 24,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 40.0
+      "Capacidad_estimada": 31,
+      "Porcentaje_ocupacion": 77.42
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "SUBA 2 AM",
       "Abordaron": 17,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 28.33
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 62.96
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "SUBA 2 PM",
       "Abordaron": 1,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 1.67
+      "Capacidad_estimada": 30,
+      "Porcentaje_ocupacion": 3.33
     },
     {
       "Fecha": "2025-12-10",
       "Ruta": "SUBA 3 AM",
       "Abordaron": 17,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 28.33
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 62.96
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "FACA 1 AM",
       "Abordaron": 19,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 31.67
+      "Capacidad_estimada": 25,
+      "Porcentaje_ocupacion": 76.0
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "FACA 2 AM",
       "Abordaron": 21,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 35.0
+      "Capacidad_estimada": 32,
+      "Porcentaje_ocupacion": 65.62
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "FACA 3 AM",
       "Abordaron": 23,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 38.33
+      "Capacidad_estimada": 37,
+      "Porcentaje_ocupacion": 62.16
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "FACA 4 AM",
       "Abordaron": 10,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 16.67
+      "Capacidad_estimada": 25,
+      "Porcentaje_ocupacion": 40.0
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "FACA 5 AM",
       "Abordaron": 26,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 43.33
+      "Capacidad_estimada": 31,
+      "Porcentaje_ocupacion": 83.87
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "FACA 5 PM",
       "Abordaron": 20,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 33.33
+      "Capacidad_estimada": 40,
+      "Porcentaje_ocupacion": 50.0
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "MADRID 1 AM",
       "Abordaron": 35,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 58.33
+      "Capacidad_estimada": 44,
+      "Porcentaje_ocupacion": 79.55
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "MADRID 1 PM",
       "Abordaron": 11,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 18.33
+      "Capacidad_estimada": 57,
+      "Porcentaje_ocupacion": 19.3
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "MADRID 2 AM",
       "Abordaron": 19,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 31.67
+      "Capacidad_estimada": 26,
+      "Porcentaje_ocupacion": 73.08
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "MADRID 3 AM",
       "Abordaron": 19,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 31.67
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 70.37
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "MADRID 3 PM",
       "Abordaron": 7,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 11.67
+      "Capacidad_estimada": 47,
+      "Porcentaje_ocupacion": 14.89
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "MADRID 4 AM",
       "Abordaron": 12,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 20.0
+      "Capacidad_estimada": 15,
+      "Porcentaje_ocupacion": 80.0
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "MADRID 4 PM",
       "Abordaron": 3,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 5.0
+      "Capacidad_estimada": 19,
+      "Porcentaje_ocupacion": 15.79
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "MADRID 5 AM",
       "Abordaron": 21,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 35.0
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 77.78
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "MADRID 6 AM",
       "Abordaron": 26,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 43.33
+      "Capacidad_estimada": 33,
+      "Porcentaje_ocupacion": 78.79
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "MADRID 7 AM",
       "Abordaron": 21,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 35.0
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 51.22
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "MOSQUERA 1 AM",
       "Abordaron": 11,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 18.33
+      "Capacidad_estimada": 11,
+      "Porcentaje_ocupacion": 100.0
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "ROSAL 1 AM",
       "Abordaron": 33,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 55.0
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 80.49
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "ROSAL 2 AM",
       "Abordaron": 31,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 51.67
+      "Capacidad_estimada": 36,
+      "Porcentaje_ocupacion": 86.11
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "ROSAL 3 AM",
       "Abordaron": 28,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 46.67
+      "Capacidad_estimada": 35,
+      "Porcentaje_ocupacion": 80.0
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "ROSAL 4 AM",
       "Abordaron": 22,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 36.67
+      "Capacidad_estimada": 30,
+      "Porcentaje_ocupacion": 73.33
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "ROSAL 5 AM",
       "Abordaron": 27,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 45.0
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 100.0
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "ROSAL 6 AM",
       "Abordaron": 12,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 20.0
+      "Capacidad_estimada": 15,
+      "Porcentaje_ocupacion": 80.0
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "ROSAL 6 PM",
       "Abordaron": 18,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 30.0
+      "Capacidad_estimada": 48,
+      "Porcentaje_ocupacion": 37.5
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "SUBA 1 AM",
       "Abordaron": 23,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 38.33
+      "Capacidad_estimada": 31,
+      "Porcentaje_ocupacion": 74.19
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "SUBA 2 AM",
       "Abordaron": 17,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 28.33
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 62.96
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "SUBA 3 AM",
       "Abordaron": 17,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 28.33
+      "Capacidad_estimada": 27,
+      "Porcentaje_ocupacion": 62.96
     },
     {
       "Fecha": "2025-12-11",
       "Ruta": "SUBA 3 PM",
       "Abordaron": 20,
-      "Capacidad_estimada": 60,
-      "Porcentaje_ocupacion": 33.33
+      "Capacidad_estimada": 46,
+      "Porcentaje_ocupacion": 43.48
     }
   ],
   "rutas_con_problemas": [
