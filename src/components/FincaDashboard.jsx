@@ -7,53 +7,12 @@ import DateFilter from './DateFilter'
 import './FincaDashboard.css'
 
 function FincaDashboard({ finca }) {
+  // TODOS los hooks deben estar al inicio, antes de cualquier lógica condicional
   const [metrics, setMetrics] = useState(null)
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
   const [selectedDate, setSelectedDate] = useState('all')
-
-  useEffect(() => {
-    const fetchMetrics = async () => {
-      setLoading(true)
-      setError(null)
-      try {
-        // Intentar primero con API (modo desarrollo)
-        try {
-          const response = await axios.get(`/api/metrics/${finca}`, {
-            timeout: 3000,
-            headers: {
-              'Content-Type': 'application/json'
-            }
-          })
-          setMetrics(response.data)
-        } catch (apiError) {
-          // Si falla el API, cargar datos estáticos (modo producción/GitHub Pages)
-          const fincaLower = finca.toLowerCase()
-          const basePath = import.meta.env.BASE_URL || ''
-          const dataPath = `${basePath}data/${fincaLower}.json`
-          console.log('Cargando datos estáticos desde:', dataPath)
-          const response = await fetch(dataPath)
-          if (!response.ok) {
-            throw new Error(`No se pudo cargar los datos de ${finca}`)
-          }
-          const data = await response.json()
-          setMetrics(data)
-        }
-      } catch (err) {
-        let errorMessage = 'Error al cargar las métricas.'
-        if (err.message) {
-          errorMessage = `Error: ${err.message}`
-        }
-        setError(errorMessage)
-        console.error('Error detallado:', err)
-      } finally {
-        setLoading(false)
-      }
-    }
-
-    fetchMetrics()
-  }, [finca])
-
+  
   // Obtener fechas disponibles (hooks deben estar antes de returns condicionales)
   const availableDates = useMemo(() => {
     if (!metrics || !metrics.por_fecha) return []
@@ -105,7 +64,49 @@ function FincaDashboard({ finca }) {
   // Identificar si el lunes (2025-12-08) tiene pocos datos (fue festivo)
   const mondayDate = '2025-12-08'
   const mondayData = metrics?.por_fecha?.[mondayDate]
-  const isMondayHoliday = mondayData && mondayData.abordaron < 100 // Si tiene menos de 100 abordaron, probablemente fue festivo
+  const isMondayHoliday = mondayData && mondayData.abordaron < 100
+
+  useEffect(() => {
+    const fetchMetrics = async () => {
+      setLoading(true)
+      setError(null)
+      try {
+        // Intentar primero con API (modo desarrollo)
+        try {
+          const response = await axios.get(`/api/metrics/${finca}`, {
+            timeout: 3000,
+            headers: {
+              'Content-Type': 'application/json'
+            }
+          })
+          setMetrics(response.data)
+        } catch (apiError) {
+          // Si falla el API, cargar datos estáticos (modo producción/GitHub Pages)
+          const fincaLower = finca.toLowerCase()
+          const basePath = import.meta.env.BASE_URL || ''
+          const dataPath = `${basePath}data/${fincaLower}.json`
+          console.log('Cargando datos estáticos desde:', dataPath)
+          const response = await fetch(dataPath)
+          if (!response.ok) {
+            throw new Error(`No se pudo cargar los datos de ${finca}`)
+          }
+          const data = await response.json()
+          setMetrics(data)
+        }
+      } catch (err) {
+        let errorMessage = 'Error al cargar las métricas.'
+        if (err.message) {
+          errorMessage = `Error: ${err.message}`
+        }
+        setError(errorMessage)
+        console.error('Error detallado:', err)
+      } finally {
+        setLoading(false)
+      }
+    }
+
+    fetchMetrics()
+  }, [finca])
 
   if (loading) {
     return <LoadingSpinner />
