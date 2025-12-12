@@ -30,7 +30,9 @@ function FincaDashboard({ finca }) {
           // Si falla el API, cargar datos estáticos (modo producción/GitHub Pages)
           const fincaLower = finca.toLowerCase()
           const basePath = import.meta.env.BASE_URL || ''
-          const response = await fetch(`${basePath}data/${fincaLower}.json`)
+          const dataPath = `${basePath}data/${fincaLower}.json`
+          console.log('Cargando datos estáticos desde:', dataPath)
+          const response = await fetch(dataPath)
           if (!response.ok) {
             throw new Error(`No se pudo cargar los datos de ${finca}`)
           }
@@ -52,28 +54,7 @@ function FincaDashboard({ finca }) {
     fetchMetrics()
   }, [finca])
 
-  if (loading) {
-    return <LoadingSpinner />
-  }
-
-  if (error) {
-    return (
-      <div className="error-message">
-        <h2>❌ Error</h2>
-        <p>{error}</p>
-      </div>
-    )
-  }
-
-  if (!metrics) {
-    return (
-      <div className="error-message">
-        <h2>⚠️ No hay datos disponibles</h2>
-      </div>
-    )
-  }
-
-  // Obtener fechas disponibles
+  // Obtener fechas disponibles (hooks deben estar antes de returns condicionales)
   const availableDates = useMemo(() => {
     if (!metrics || !metrics.por_fecha) return []
     const dates = Object.keys(metrics.por_fecha).sort()
@@ -82,6 +63,7 @@ function FincaDashboard({ finca }) {
 
   // Filtrar datos por fecha seleccionada
   const filteredData = useMemo(() => {
+    if (!metrics) return null
     if (selectedDate === 'all' || !metrics.personas_inscritas_vs_abordaron) {
       return metrics
     }
@@ -124,6 +106,27 @@ function FincaDashboard({ finca }) {
   const mondayDate = '2025-12-08'
   const mondayData = metrics?.por_fecha?.[mondayDate]
   const isMondayHoliday = mondayData && mondayData.abordaron < 100 // Si tiene menos de 100 abordaron, probablemente fue festivo
+
+  if (loading) {
+    return <LoadingSpinner />
+  }
+
+  if (error) {
+    return (
+      <div className="error-message">
+        <h2>❌ Error</h2>
+        <p>{error}</p>
+      </div>
+    )
+  }
+
+  if (!metrics || !filteredData) {
+    return (
+      <div className="error-message">
+        <h2>⚠️ No hay datos disponibles</h2>
+      </div>
+    )
+  }
 
   return (
     <div className="finca-dashboard">
