@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Informes Sunshine - Métricas de Fincas</title>
+    <script>
+      // GitHub Pages 404 handler - redirige todas las rutas al index.html
+      // Esto permite que React Router maneje las rutas correctamente
+      var path = window.location.pathname;
+      var basePath = '/InformesSunshine';
+      
+      // Si la ruta no es exactamente el base path, redirigir
+      if (path !== basePath + '/' && path !== basePath) {
+        // Mantener la ruta actual pero servir el index.html
+        window.location.replace(basePath + '/index.html' + window.location.search + window.location.hash);
+      } else {
+        // Si estamos en la raíz, cargar el index.html normalmente
+        window.location.replace(basePath + '/index.html');
+      }
+    </script>
+  </head>
+  <body>
+    <div style="display: flex; justify-content: center; align-items: center; height: 100vh; font-family: Arial, sans-serif;">
+      <p>Redirigiendo...</p>
+    </div>
+  </body>
+</html>
+
