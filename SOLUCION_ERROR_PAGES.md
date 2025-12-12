@@ -1,24 +1,22 @@
 # Solución al Error de GitHub Pages
 
-## Error: "Get Pages site failed"
+## Error: "Resource not accessible by integration" / "Create Pages site failed"
 
-Este error ocurre cuando GitHub Pages no está habilitado en el repositorio.
+Este error ocurre cuando GitHub Pages no está habilitado en el repositorio. **GitHub Pages DEBE habilitarse manualmente la primera vez.**
 
-## Solución
+## Solución OBLIGATORIA
 
-### Opción 1: Habilitar Manualmente (Recomendado para la primera vez)
+### ⚠️ IMPORTANTE: Debes habilitar GitHub Pages manualmente ANTES de que el workflow funcione
 
 1. Ve a tu repositorio en GitHub: https://github.com/Juanes1203/InformesSunshine
-2. Click en **Settings** (en la parte superior)
-3. En el menú lateral, click en **Pages**
-4. En **Source**, selecciona **GitHub Actions**
-5. Guarda los cambios
+2. Click en **Settings** (en la parte superior del repositorio)
+3. En el menú lateral izquierdo, click en **Pages**
+4. En la sección **Source**, selecciona **GitHub Actions** (NO "Deploy from a branch")
+5. Guarda los cambios (si hay un botón "Save", haz click en él)
+
+**Espera 1-2 minutos** después de habilitar para que GitHub procese el cambio.
 
 Ahora el workflow debería funcionar correctamente.
-
-### Opción 2: El Workflow lo Hace Automáticamente
-
-El workflow ahora tiene `enablement: true` que debería habilitar GitHub Pages automáticamente, pero puede que necesites hacerlo manualmente la primera vez.
 
 ### Verificar que Funcionó
 
