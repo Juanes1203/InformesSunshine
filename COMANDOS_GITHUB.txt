@@ -1,0 +1,29 @@
+# Comandos para subir a GitHub
+
+## 1. Crear repositorio en GitHub (hazlo en el navegador)
+https://github.com/new
+Nombre: InformesSunshine
+Público
+NO inicializar con README
+
+## 2. Conectar y subir (ejecuta estos comandos)
+
+cd /Users/juanes/Desktop/InformesSunshine
+
+# Conectar con GitHub
+git remote add origin https://github.com/Juanes1203/InformesSunshine.git
+
+# Verificar
+git remote -v
+
+# Subir código
+git push -u origin main
+
+## 3. Habilitar GitHub Pages
+1. Ve a Settings → Pages
+2. Source: GitHub Actions
+3. Guarda
+
+## 4. Tu sitio estará en:
+https://juanes1203.github.io/InformesSunshine/
+
