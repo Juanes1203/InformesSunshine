@@ -1,0 +1,175 @@
+.welcome-container {
+  min-height: calc(100vh - 200px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 3rem 2rem;
+}
+
+.welcome-content {
+  max-width: 900px;
+  width: 100%;
+}
+
+.welcome-content h1 {
+  font-size: 3rem;
+  text-align: center;
+  margin-bottom: 0.5rem;
+  color: #333;
+}
+
+.welcome-subtitle {
+  text-align: center;
+  font-size: 1.5rem;
+  color: #666;
+  margin-bottom: 2rem;
+}
+
+.welcome-description {
+  background: white;
+  border-radius: 12px;
+  padding: 2rem;
+  margin-bottom: 3rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.welcome-description p {
+  font-size: 1.1rem;
+  color: #555;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.fincas-selection {
+  margin-bottom: 3rem;
+}
+
+.fincas-selection h2 {
+  text-align: center;
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 2rem;
+}
+
+.fincas-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.finca-card {
+  background: white;
+  border-radius: 12px;
+  padding: 2.5rem 2rem;
+  text-decoration: none;
+  color: inherit;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+  text-align: center;
+  border: 3px solid transparent;
+}
+
+.finca-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+}
+
+.finca-card.laureles {
+  border-color: #4caf50;
+}
+
+.finca-card.laureles:hover {
+  background: #f1f8f4;
+}
+
+.finca-card.yarumo {
+  border-color: #2196f3;
+}
+
+.finca-card.yarumo:hover {
+  background: #e3f2fd;
+}
+
+.finca-icon {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+
+.finca-card h3 {
+  font-size: 1.8rem;
+  margin-bottom: 0.5rem;
+  color: #333;
+}
+
+.finca-card p {
+  color: #666;
+  font-size: 1rem;
+  margin: 0;
+}
+
+.welcome-info {
+  background: white;
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.welcome-info h3 {
+  color: #667eea;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
+
+.welcome-info ul {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 1.5rem;
+}
+
+.welcome-info li {
+  padding: 0.5rem 0;
+  padding-left: 1.5rem;
+  position: relative;
+  color: #555;
+}
+
+.welcome-info li:before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: #4caf50;
+  font-weight: bold;
+}
+
+.date-range {
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  border-top: 2px solid #eee;
+  text-align: center;
+  color: #666;
+}
+
+.date-range strong {
+  color: #333;
+}
+
+@media (max-width: 768px) {
+  .welcome-content h1 {
+    font-size: 2rem;
+  }
+  
+  .welcome-subtitle {
+    font-size: 1.2rem;
+  }
+  
+  .fincas-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .finca-card {
+    padding: 2rem 1.5rem;
+  }
+}
+

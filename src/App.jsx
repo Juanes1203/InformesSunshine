@@ -1,13 +1,16 @@
 import React from 'react'
-import { Routes, Route, Link, Navigate } from 'react-router-dom'
+import { Routes, Route, Link } from 'react-router-dom'
 import FincaDashboard from './components/FincaDashboard'
+import Welcome from './components/Welcome'
 import './App.css'
 
 function App() {
   return (
     <div className="App">
       <header className="app-header">
-        <h1>🌻 Informes Sunshine</h1>
+        <Link to="/" style={{ textDecoration: 'none', color: 'inherit' }}>
+          <h1>🌻 Informes Sunshine</h1>
+        </Link>
         <nav>
           <Link to="/laureles">Finca Laureles</Link>
           <Link to="/yarumo">Finca Yarumo</Link>
@@ -15,7 +18,7 @@ function App() {
       </header>
       <main>
         <Routes>
-          <Route path="/" element={<Navigate to="/laureles" replace />} />
+          <Route path="/" element={<Welcome />} />
           <Route path="/laureles" element={<FincaDashboard finca="Laureles" />} />
           <Route path="/yarumo" element={<FincaDashboard finca="Yarumo" />} />
         </Routes>
