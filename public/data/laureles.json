@@ -1,0 +1,4560 @@
+{
+  "personas_inscritas_vs_abordaron": [
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "FACA 1 AM",
+      "Inscritas": 25,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "FACA 1 PM",
+      "Inscritas": 25,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "FACA 2 AM",
+      "Inscritas": 32,
+      "Abordaron": 5.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "FACA 2 PM",
+      "Inscritas": 34,
+      "Abordaron": 2.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "FACA 3 AM",
+      "Inscritas": 37,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "FACA 3 PM",
+      "Inscritas": 37,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "FACA 4 AM",
+      "Inscritas": 25,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "FACA 4 PM",
+      "Inscritas": 25,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "FACA 5 AM",
+      "Inscritas": 24,
+      "Abordaron": 5.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "FACA 5 PM",
+      "Inscritas": 26,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "FUNZA 1 AM",
+      "Inscritas": 33,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "FUNZA 1 PM",
+      "Inscritas": 33,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID 1 AM",
+      "Inscritas": 42,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID 1 PM",
+      "Inscritas": 42,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID 2 AM",
+      "Inscritas": 26,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID 2 PM",
+      "Inscritas": 17,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID 3 AM",
+      "Inscritas": 27,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID 3 PM",
+      "Inscritas": 29,
+      "Abordaron": 2.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID 4 AM",
+      "Inscritas": 15,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID 4 PM",
+      "Inscritas": 15,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID 5 AM",
+      "Inscritas": 27,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID 5 PM",
+      "Inscritas": 27,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID 6 AM",
+      "Inscritas": 33,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID 6 PM",
+      "Inscritas": 40,
+      "Abordaron": 4.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID 7 AM",
+      "Inscritas": 41,
+      "Abordaron": 7.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID 7 PM",
+      "Inscritas": 35,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MOSQUERA 1 AM",
+      "Inscritas": 11,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MOSQUERA 1 PM",
+      "Inscritas": 11,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "ROSAL 1 AM",
+      "Inscritas": 40,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "ROSAL 1 PM",
+      "Inscritas": 40,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "ROSAL 2 AM",
+      "Inscritas": 33,
+      "Abordaron": 4.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "ROSAL 2 PM",
+      "Inscritas": 38,
+      "Abordaron": 8.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "ROSAL 3 AM",
+      "Inscritas": 33,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "ROSAL 3 PM",
+      "Inscritas": 53,
+      "Abordaron": 19.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "ROSAL 4 AM",
+      "Inscritas": 30,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "ROSAL 4 PM",
+      "Inscritas": 30,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "ROSAL 5 AM",
+      "Inscritas": 25,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "ROSAL 5 PM",
+      "Inscritas": 25,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "ROSAL 6 AM",
+      "Inscritas": 15,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "ROSAL 6 PM",
+      "Inscritas": 15,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "SUBA 1 AM",
+      "Inscritas": 30,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "SUBA 1 PM",
+      "Inscritas": 30,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "SUBA 2 AM",
+      "Inscritas": 27,
+      "Abordaron": 1.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "SUBA 2 PM",
+      "Inscritas": 29,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "SUBA 3 AM",
+      "Inscritas": 23,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "SUBA 3 PM",
+      "Inscritas": 23,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACA 1 AM",
+      "Inscritas": 25,
+      "Abordaron": 19.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACA 1 PM",
+      "Inscritas": 25,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACA 2 AM",
+      "Inscritas": 32,
+      "Abordaron": 18.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACA 2 PM",
+      "Inscritas": 32,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACA 3 AM",
+      "Inscritas": 37,
+      "Abordaron": 24.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACA 3 PM",
+      "Inscritas": 37,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACA 4 AM",
+      "Inscritas": 25,
+      "Abordaron": 18.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACA 4 PM",
+      "Inscritas": 25,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACA 5 AM",
+      "Inscritas": 24,
+      "Abordaron": 21.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACA 5 PM",
+      "Inscritas": 31,
+      "Abordaron": 5.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FUNZA 1 AM",
+      "Inscritas": 33,
+      "Abordaron": 25.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FUNZA 1 PM",
+      "Inscritas": 34,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID 1 AM",
+      "Inscritas": 43,
+      "Abordaron": 31.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID 1 PM",
+      "Inscritas": 42,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID 2 AM",
+      "Inscritas": 26,
+      "Abordaron": 19.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID 2 PM",
+      "Inscritas": 19,
+      "Abordaron": 1.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID 3 AM",
+      "Inscritas": 27,
+      "Abordaron": 14.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID 3 PM",
+      "Inscritas": 32,
+      "Abordaron": 5.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID 4 AM",
+      "Inscritas": 15,
+      "Abordaron": 12.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID 4 PM",
+      "Inscritas": 15,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID 5 AM",
+      "Inscritas": 27,
+      "Abordaron": 14.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID 5 PM",
+      "Inscritas": 29,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID 6 AM",
+      "Inscritas": 33,
+      "Abordaron": 26.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID 6 PM",
+      "Inscritas": 35,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID 7 AM",
+      "Inscritas": 34,
+      "Abordaron": 24.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID 7 PM",
+      "Inscritas": 34,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MOSQUERA 1 AM",
+      "Inscritas": 11,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MOSQUERA 1 PM",
+      "Inscritas": 11,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL 1 AM",
+      "Inscritas": 40,
+      "Abordaron": 30.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL 1 PM",
+      "Inscritas": 40,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL 2 AM",
+      "Inscritas": 30,
+      "Abordaron": 2.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL 2 PM",
+      "Inscritas": 29,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL 3 AM",
+      "Inscritas": 34,
+      "Abordaron": 26.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL 3 PM",
+      "Inscritas": 34,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL 4 AM",
+      "Inscritas": 30,
+      "Abordaron": 23.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL 4 PM",
+      "Inscritas": 32,
+      "Abordaron": 2.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL 5 AM",
+      "Inscritas": 26,
+      "Abordaron": 22.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL 5 PM",
+      "Inscritas": 28,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL 6 AM",
+      "Inscritas": 15,
+      "Abordaron": 11.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL 6 PM",
+      "Inscritas": 23,
+      "Abordaron": 7.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "SUBA 1 AM",
+      "Inscritas": 31,
+      "Abordaron": 23.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "SUBA 1 PM",
+      "Inscritas": 30,
+      "Abordaron": 1.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "SUBA 2 AM",
+      "Inscritas": 26,
+      "Abordaron": 16.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "SUBA 2 PM",
+      "Inscritas": 29,
+      "Abordaron": 1.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "SUBA 3 AM",
+      "Inscritas": 27,
+      "Abordaron": 19.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "SUBA 3 PM",
+      "Inscritas": 26,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACA 1 AM",
+      "Inscritas": 25,
+      "Abordaron": 21.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACA 1 PM",
+      "Inscritas": 35,
+      "Abordaron": 8.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACA 2 AM",
+      "Inscritas": 32,
+      "Abordaron": 23.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACA 2 PM",
+      "Inscritas": 32,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACA 3 AM",
+      "Inscritas": 37,
+      "Abordaron": 24.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACA 3 PM",
+      "Inscritas": 37,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACA 4 AM",
+      "Inscritas": 25,
+      "Abordaron": 16.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACA 4 PM",
+      "Inscritas": 25,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACA 5 AM",
+      "Inscritas": 31,
+      "Abordaron": 25.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACA 5 PM",
+      "Inscritas": 25,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FUNZA 1 AM",
+      "Inscritas": 33,
+      "Abordaron": 23.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FUNZA 1 PM",
+      "Inscritas": 33,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID 1 AM",
+      "Inscritas": 44,
+      "Abordaron": 33.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID 1 PM",
+      "Inscritas": 46,
+      "Abordaron": 4.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID 2 AM",
+      "Inscritas": 26,
+      "Abordaron": 19.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID 2 PM",
+      "Inscritas": 17,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID 3 AM",
+      "Inscritas": 27,
+      "Abordaron": 17.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID 3 PM",
+      "Inscritas": 35,
+      "Abordaron": 8.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID 4 AM",
+      "Inscritas": 15,
+      "Abordaron": 12.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID 4 PM",
+      "Inscritas": 17,
+      "Abordaron": 3.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID 5 AM",
+      "Inscritas": 27,
+      "Abordaron": 19.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID 5 PM",
+      "Inscritas": 28,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID 6 AM",
+      "Inscritas": 33,
+      "Abordaron": 25.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID 6 PM",
+      "Inscritas": 54,
+      "Abordaron": 23.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID 7 AM",
+      "Inscritas": 34,
+      "Abordaron": 19.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID 7 PM",
+      "Inscritas": 34,
+      "Abordaron": 29.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MOSQUERA 1 AM",
+      "Inscritas": 11,
+      "Abordaron": 5.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MOSQUERA 1 PM",
+      "Inscritas": 19,
+      "Abordaron": 8.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL 1 AM",
+      "Inscritas": 41,
+      "Abordaron": 36.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL 1 PM",
+      "Inscritas": 40,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL 2 AM",
+      "Inscritas": 31,
+      "Abordaron": 3.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL 2 PM",
+      "Inscritas": 35,
+      "Abordaron": 5.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL 3 AM",
+      "Inscritas": 34,
+      "Abordaron": 27.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL 3 PM",
+      "Inscritas": 42,
+      "Abordaron": 8.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL 4 AM",
+      "Inscritas": 30,
+      "Abordaron": 23.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL 4 PM",
+      "Inscritas": 55,
+      "Abordaron": 25.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL 5 AM",
+      "Inscritas": 25,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL 5 PM",
+      "Inscritas": 25,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL 6 AM",
+      "Inscritas": 15,
+      "Abordaron": 12.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL 6 PM",
+      "Inscritas": 24,
+      "Abordaron": 9.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "SUBA 1 AM",
+      "Inscritas": 31,
+      "Abordaron": 24.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "SUBA 1 PM",
+      "Inscritas": 30,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "SUBA 2 AM",
+      "Inscritas": 26,
+      "Abordaron": 17.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "SUBA 2 PM",
+      "Inscritas": 29,
+      "Abordaron": 1.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "SUBA 3 AM",
+      "Inscritas": 26,
+      "Abordaron": 17.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "SUBA 3 PM",
+      "Inscritas": 23,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACA 1 AM",
+      "Inscritas": 25,
+      "Abordaron": 19.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACA 1 PM",
+      "Inscritas": 25,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACA 2 AM",
+      "Inscritas": 32,
+      "Abordaron": 21.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACA 2 PM",
+      "Inscritas": 32,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACA 3 AM",
+      "Inscritas": 37,
+      "Abordaron": 23.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACA 3 PM",
+      "Inscritas": 37,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACA 4 AM",
+      "Inscritas": 25,
+      "Abordaron": 10.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACA 4 PM",
+      "Inscritas": 25,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACA 5 AM",
+      "Inscritas": 28,
+      "Abordaron": 26.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACA 5 PM",
+      "Inscritas": 34,
+      "Abordaron": 20.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FUNZA 1 AM",
+      "Inscritas": 33,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FUNZA 1 PM",
+      "Inscritas": 33,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID 1 AM",
+      "Inscritas": 44,
+      "Abordaron": 35.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID 1 PM",
+      "Inscritas": 53,
+      "Abordaron": 11.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID 2 AM",
+      "Inscritas": 26,
+      "Abordaron": 19.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID 2 PM",
+      "Inscritas": 17,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID 3 AM",
+      "Inscritas": 27,
+      "Abordaron": 19.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID 3 PM",
+      "Inscritas": 34,
+      "Abordaron": 7.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID 4 AM",
+      "Inscritas": 15,
+      "Abordaron": 12.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID 4 PM",
+      "Inscritas": 18,
+      "Abordaron": 3.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID 5 AM",
+      "Inscritas": 27,
+      "Abordaron": 21.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID 5 PM",
+      "Inscritas": 27,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID 6 AM",
+      "Inscritas": 33,
+      "Abordaron": 26.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID 6 PM",
+      "Inscritas": 33,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID 7 AM",
+      "Inscritas": 34,
+      "Abordaron": 21.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID 7 PM",
+      "Inscritas": 34,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MOSQUERA 1 AM",
+      "Inscritas": 11,
+      "Abordaron": 11.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MOSQUERA 1 PM",
+      "Inscritas": 11,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL 1 AM",
+      "Inscritas": 40,
+      "Abordaron": 33.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL 1 PM",
+      "Inscritas": 40,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL 2 AM",
+      "Inscritas": 31,
+      "Abordaron": 31.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL 2 PM",
+      "Inscritas": 29,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL 3 AM",
+      "Inscritas": 34,
+      "Abordaron": 28.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL 3 PM",
+      "Inscritas": 33,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL 4 AM",
+      "Inscritas": 30,
+      "Abordaron": 22.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL 4 PM",
+      "Inscritas": 30,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL 5 AM",
+      "Inscritas": 27,
+      "Abordaron": 27.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL 5 PM",
+      "Inscritas": 25,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL 6 AM",
+      "Inscritas": 15,
+      "Abordaron": 12.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL 6 PM",
+      "Inscritas": 33,
+      "Abordaron": 18.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "SUBA 1 AM",
+      "Inscritas": 30,
+      "Abordaron": 23.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "SUBA 1 PM",
+      "Inscritas": 30,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "SUBA 2 AM",
+      "Inscritas": 26,
+      "Abordaron": 17.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "SUBA 2 PM",
+      "Inscritas": 26,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "SUBA 3 AM",
+      "Inscritas": 23,
+      "Abordaron": 17.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "SUBA 3 PM",
+      "Inscritas": 43,
+      "Abordaron": 20.0
+    }
+  ],
+  "total_personas_inscritas": 642,
+  "total_personas_abordaron": 577,
+  "personas_vs_capacidad": [
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "FACA 2 AM",
+      "Abordaron": 5,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 8.33
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "FACA 2 PM",
+      "Abordaron": 2,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 3.33
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "FACA 5 AM",
+      "Abordaron": 5,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 8.33
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID 3 PM",
+      "Abordaron": 2,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 3.33
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID 6 PM",
+      "Abordaron": 4,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 6.67
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID 7 AM",
+      "Abordaron": 7,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 11.67
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "ROSAL 2 AM",
+      "Abordaron": 4,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 6.67
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "ROSAL 2 PM",
+      "Abordaron": 8,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 13.33
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "ROSAL 3 PM",
+      "Abordaron": 19,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 31.67
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "SUBA 2 AM",
+      "Abordaron": 1,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 1.67
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACA 1 AM",
+      "Abordaron": 19,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 31.67
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACA 2 AM",
+      "Abordaron": 18,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 30.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACA 3 AM",
+      "Abordaron": 24,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 40.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACA 4 AM",
+      "Abordaron": 18,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 30.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACA 5 AM",
+      "Abordaron": 21,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 35.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACA 5 PM",
+      "Abordaron": 5,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 8.33
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FUNZA 1 AM",
+      "Abordaron": 25,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 41.67
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID 1 AM",
+      "Abordaron": 31,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 51.67
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID 2 AM",
+      "Abordaron": 19,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 31.67
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID 2 PM",
+      "Abordaron": 1,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 1.67
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID 3 AM",
+      "Abordaron": 14,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 23.33
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID 3 PM",
+      "Abordaron": 5,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 8.33
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID 4 AM",
+      "Abordaron": 12,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 20.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID 5 AM",
+      "Abordaron": 14,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 23.33
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID 6 AM",
+      "Abordaron": 26,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 43.33
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID 7 AM",
+      "Abordaron": 24,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 40.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL 1 AM",
+      "Abordaron": 30,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 50.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL 2 AM",
+      "Abordaron": 2,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 3.33
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL 3 AM",
+      "Abordaron": 26,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 43.33
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL 4 AM",
+      "Abordaron": 23,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 38.33
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL 4 PM",
+      "Abordaron": 2,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 3.33
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL 5 AM",
+      "Abordaron": 22,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 36.67
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL 6 AM",
+      "Abordaron": 11,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 18.33
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL 6 PM",
+      "Abordaron": 7,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 11.67
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "SUBA 1 AM",
+      "Abordaron": 23,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 38.33
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "SUBA 1 PM",
+      "Abordaron": 1,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 1.67
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "SUBA 2 AM",
+      "Abordaron": 16,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 26.67
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "SUBA 2 PM",
+      "Abordaron": 1,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 1.67
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "SUBA 3 AM",
+      "Abordaron": 19,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 31.67
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACA 1 AM",
+      "Abordaron": 21,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 35.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACA 1 PM",
+      "Abordaron": 8,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 13.33
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACA 2 AM",
+      "Abordaron": 23,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 38.33
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACA 3 AM",
+      "Abordaron": 24,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 40.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACA 4 AM",
+      "Abordaron": 16,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 26.67
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACA 5 AM",
+      "Abordaron": 25,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 41.67
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FUNZA 1 AM",
+      "Abordaron": 23,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 38.33
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID 1 AM",
+      "Abordaron": 33,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 55.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID 1 PM",
+      "Abordaron": 4,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 6.67
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID 2 AM",
+      "Abordaron": 19,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 31.67
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID 3 AM",
+      "Abordaron": 17,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 28.33
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID 3 PM",
+      "Abordaron": 8,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 13.33
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID 4 AM",
+      "Abordaron": 12,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 20.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID 4 PM",
+      "Abordaron": 3,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 5.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID 5 AM",
+      "Abordaron": 19,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 31.67
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID 6 AM",
+      "Abordaron": 25,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 41.67
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID 6 PM",
+      "Abordaron": 23,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 38.33
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID 7 AM",
+      "Abordaron": 19,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 31.67
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID 7 PM",
+      "Abordaron": 29,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 48.33
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MOSQUERA 1 AM",
+      "Abordaron": 5,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 8.33
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MOSQUERA 1 PM",
+      "Abordaron": 8,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 13.33
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL 1 AM",
+      "Abordaron": 36,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 60.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL 2 AM",
+      "Abordaron": 3,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 5.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL 2 PM",
+      "Abordaron": 5,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 8.33
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL 3 AM",
+      "Abordaron": 27,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 45.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL 3 PM",
+      "Abordaron": 8,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 13.33
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL 4 AM",
+      "Abordaron": 23,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 38.33
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL 4 PM",
+      "Abordaron": 25,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 41.67
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL 6 AM",
+      "Abordaron": 12,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 20.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL 6 PM",
+      "Abordaron": 9,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 15.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "SUBA 1 AM",
+      "Abordaron": 24,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 40.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "SUBA 2 AM",
+      "Abordaron": 17,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 28.33
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "SUBA 2 PM",
+      "Abordaron": 1,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 1.67
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "SUBA 3 AM",
+      "Abordaron": 17,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 28.33
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACA 1 AM",
+      "Abordaron": 19,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 31.67
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACA 2 AM",
+      "Abordaron": 21,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 35.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACA 3 AM",
+      "Abordaron": 23,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 38.33
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACA 4 AM",
+      "Abordaron": 10,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 16.67
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACA 5 AM",
+      "Abordaron": 26,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 43.33
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACA 5 PM",
+      "Abordaron": 20,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 33.33
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID 1 AM",
+      "Abordaron": 35,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 58.33
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID 1 PM",
+      "Abordaron": 11,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 18.33
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID 2 AM",
+      "Abordaron": 19,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 31.67
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID 3 AM",
+      "Abordaron": 19,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 31.67
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID 3 PM",
+      "Abordaron": 7,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 11.67
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID 4 AM",
+      "Abordaron": 12,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 20.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID 4 PM",
+      "Abordaron": 3,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 5.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID 5 AM",
+      "Abordaron": 21,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 35.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID 6 AM",
+      "Abordaron": 26,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 43.33
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID 7 AM",
+      "Abordaron": 21,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 35.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MOSQUERA 1 AM",
+      "Abordaron": 11,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 18.33
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL 1 AM",
+      "Abordaron": 33,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 55.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL 2 AM",
+      "Abordaron": 31,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 51.67
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL 3 AM",
+      "Abordaron": 28,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 46.67
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL 4 AM",
+      "Abordaron": 22,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 36.67
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL 5 AM",
+      "Abordaron": 27,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 45.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL 6 AM",
+      "Abordaron": 12,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 20.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL 6 PM",
+      "Abordaron": 18,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 30.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "SUBA 1 AM",
+      "Abordaron": 23,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 38.33
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "SUBA 2 AM",
+      "Abordaron": 17,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 28.33
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "SUBA 3 AM",
+      "Abordaron": 17,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 28.33
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "SUBA 3 PM",
+      "Abordaron": 20,
+      "Capacidad_estimada": 60,
+      "Porcentaje_ocupacion": 33.33
+    }
+  ],
+  "rutas_con_problemas": [
+    {
+      "Ruta": "FACA 2 AM (000004)",
+      "Total_problemas": 12,
+      "Detalles": [
+        {
+          "Ruta": "FACA 2 AM (000004)",
+          "Fecha": "2025-12-08",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACA 2 AM (000004)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACA 2 AM (000004)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACA 2 AM (000004)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "FACA 2 PM (000004)",
+      "Total_problemas": 12,
+      "Detalles": [
+        {
+          "Ruta": "FACA 2 PM (000004)",
+          "Fecha": "2025-12-08",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACA 2 PM (000004)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACA 2 PM (000004)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACA 2 PM (000004)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "FACA 5 AM (000007)",
+      "Total_problemas": 12,
+      "Detalles": [
+        {
+          "Ruta": "FACA 5 AM (000007)",
+          "Fecha": "2025-12-08",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACA 5 AM (000007)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACA 5 AM (000007)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACA 5 AM (000007)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "FACA 5 PM (000007)",
+      "Total_problemas": 12,
+      "Detalles": [
+        {
+          "Ruta": "FACA 5 PM (000007)",
+          "Fecha": "2025-12-08",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACA 5 PM (000007)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACA 5 PM (000007)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACA 5 PM (000007)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID 3 PM (000010)",
+      "Total_problemas": 12,
+      "Detalles": [
+        {
+          "Ruta": "MADRID 3 PM (000010)",
+          "Fecha": "2025-12-08",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 3 PM (000010)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 3 PM (000010)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 3 PM (000010)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID 6 PM (000013)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "MADRID 6 PM (000013)",
+          "Fecha": "2025-12-08",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 6 PM (000013)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 6 PM (000013)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID 7 AM (000014)",
+      "Total_problemas": 12,
+      "Detalles": [
+        {
+          "Ruta": "MADRID 7 AM (000014)",
+          "Fecha": "2025-12-08",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 7 AM (000014)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 7 AM (000014)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 7 AM (000014)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID 7 PM (000014)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "MADRID 7 PM (000014)",
+          "Fecha": "2025-12-08",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 7 PM (000014)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 7 PM (000014)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "ROSAL 2 AM (000016)",
+      "Total_problemas": 12,
+      "Detalles": [
+        {
+          "Ruta": "ROSAL 2 AM (000016)",
+          "Fecha": "2025-12-08",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL 2 AM (000016)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL 2 AM (000016)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL 2 AM (000016)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "ROSAL 2 PM (000016)",
+      "Total_problemas": 6,
+      "Detalles": [
+        {
+          "Ruta": "ROSAL 2 PM (000016)",
+          "Fecha": "2025-12-08",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL 2 PM (000016)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "ROSAL 3 AM (000017)",
+      "Total_problemas": 12,
+      "Detalles": [
+        {
+          "Ruta": "ROSAL 3 AM (000017)",
+          "Fecha": "2025-12-08",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL 3 AM (000017)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL 3 AM (000017)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL 3 AM (000017)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "ROSAL 3 PM (000017)",
+      "Total_problemas": 12,
+      "Detalles": [
+        {
+          "Ruta": "ROSAL 3 PM (000017)",
+          "Fecha": "2025-12-08",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL 3 PM (000017)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL 3 PM (000017)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL 3 PM (000017)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "SUBA 2 AM (000043)",
+      "Total_problemas": 12,
+      "Detalles": [
+        {
+          "Ruta": "SUBA 2 AM (000043)",
+          "Fecha": "2025-12-08",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "SUBA 2 AM (000043)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "SUBA 2 AM (000043)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "SUBA 2 AM (000043)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "SUBA 2 PM (000043)",
+      "Total_problemas": 12,
+      "Detalles": [
+        {
+          "Ruta": "SUBA 2 PM (000043)",
+          "Fecha": "2025-12-08",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "SUBA 2 PM (000043)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "SUBA 2 PM (000043)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "SUBA 2 PM (000043)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "FACA 1 AM (000003)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "FACA 1 AM (000003)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACA 1 AM (000003)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACA 1 AM (000003)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "FACA 1 PM (000003)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "FACA 1 PM (000003)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACA 1 PM (000003)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACA 1 PM (000003)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "FACA 3 AM (000005)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "FACA 3 AM (000005)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACA 3 AM (000005)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACA 3 AM (000005)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "FACA 3 PM (000005)",
+      "Total_problemas": 3,
+      "Detalles": [
+        {
+          "Ruta": "FACA 3 PM (000005)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "FACA 4 AM (000006)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "FACA 4 AM (000006)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACA 4 AM (000006)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACA 4 AM (000006)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "FUNZA 1 AM (000001)",
+      "Total_problemas": 6,
+      "Detalles": [
+        {
+          "Ruta": "FUNZA 1 AM (000001)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FUNZA 1 AM (000001)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "FUNZA 1 PM (000001)",
+      "Total_problemas": 6,
+      "Detalles": [
+        {
+          "Ruta": "FUNZA 1 PM (000001)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FUNZA 1 PM (000001)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID 1 AM (000008)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "MADRID 1 AM (000008)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 1 AM (000008)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 1 AM (000008)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID 2 AM (000009)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "MADRID 2 AM (000009)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 2 AM (000009)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 2 AM (000009)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID 2 PM (000009)",
+      "Total_problemas": 6,
+      "Detalles": [
+        {
+          "Ruta": "MADRID 2 PM (000009)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 2 PM (000009)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID 3 AM (000010)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "MADRID 3 AM (000010)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 3 AM (000010)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 3 AM (000010)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID 4 AM (000011)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "MADRID 4 AM (000011)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 4 AM (000011)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 4 AM (000011)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID 4 PM (000011)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "MADRID 4 PM (000011)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 4 PM (000011)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 4 PM (000011)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID 5 AM (000012)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "MADRID 5 AM (000012)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 5 AM (000012)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 5 AM (000012)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID 5 PM (000012)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "MADRID 5 PM (000012)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 5 PM (000012)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 5 PM (000012)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID 6 AM (000013)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "MADRID 6 AM (000013)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 6 AM (000013)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 6 AM (000013)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "ROSAL 1 AM (000015)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "ROSAL 1 AM (000015)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL 1 AM (000015)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL 1 AM (000015)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "ROSAL 4 AM (000018)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "ROSAL 4 AM (000018)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL 4 AM (000018)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL 4 AM (000018)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "ROSAL 4 PM (000018)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "ROSAL 4 PM (000018)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL 4 PM (000018)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL 4 PM (000018)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "ROSAL 5 AM (000019)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "ROSAL 5 AM (000019)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL 5 AM (000019)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL 5 AM (000019)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "ROSAL 5 PM (000019)",
+      "Total_problemas": 3,
+      "Detalles": [
+        {
+          "Ruta": "ROSAL 5 PM (000019)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "ROSAL 6 AM (000041)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "ROSAL 6 AM (000041)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL 6 AM (000041)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL 6 AM (000041)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "ROSAL 6 PM (000041)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "ROSAL 6 PM (000041)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL 6 PM (000041)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL 6 PM (000041)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "SUBA 1 AM (000042)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "SUBA 1 AM (000042)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "SUBA 1 AM (000042)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "SUBA 1 AM (000042)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "SUBA 1 PM (000042)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "SUBA 1 PM (000042)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "SUBA 1 PM (000042)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "SUBA 1 PM (000042)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "SUBA 3 AM (000044)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "SUBA 3 AM (000044)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "SUBA 3 AM (000044)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "SUBA 3 AM (000044)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "SUBA 3 PM (000044)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "SUBA 3 PM (000044)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "SUBA 3 PM (000044)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "SUBA 3 PM (000044)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID 1 PM (000008)",
+      "Total_problemas": 6,
+      "Detalles": [
+        {
+          "Ruta": "MADRID 1 PM (000008)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID 1 PM (000008)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MOSQUERA 1 AM (000002)",
+      "Total_problemas": 6,
+      "Detalles": [
+        {
+          "Ruta": "MOSQUERA 1 AM (000002)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MOSQUERA 1 AM (000002)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MOSQUERA 1 PM (000002)",
+      "Total_problemas": 3,
+      "Detalles": [
+        {
+          "Ruta": "MOSQUERA 1 PM (000002)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    }
+  ],
+  "rutas_creadas": 46,
+  "rutas_iniciadas": 44,
+  "rutas_iniciadas_detalle": [
+    {
+      "Ruta": "FACA 2 AM (000004)"
+    },
+    {
+      "Ruta": "FACA 2 PM (000004)"
+    },
+    {
+      "Ruta": "FACA 5 AM (000007)"
+    },
+    {
+      "Ruta": "FACA 5 PM (000007)"
+    },
+    {
+      "Ruta": "MADRID 3 PM (000010)"
+    },
+    {
+      "Ruta": "MADRID 6 PM (000013)"
+    },
+    {
+      "Ruta": "MADRID 7 AM (000014)"
+    },
+    {
+      "Ruta": "MADRID 7 PM (000014)"
+    },
+    {
+      "Ruta": "ROSAL 2 AM (000016)"
+    },
+    {
+      "Ruta": "ROSAL 2 PM (000016)"
+    },
+    {
+      "Ruta": "ROSAL 3 AM (000017)"
+    },
+    {
+      "Ruta": "ROSAL 3 PM (000017)"
+    },
+    {
+      "Ruta": "SUBA 2 AM (000043)"
+    },
+    {
+      "Ruta": "SUBA 2 PM (000043)"
+    },
+    {
+      "Ruta": "FACA 1 AM (000003)"
+    },
+    {
+      "Ruta": "FACA 1 PM (000003)"
+    },
+    {
+      "Ruta": "FACA 3 AM (000005)"
+    },
+    {
+      "Ruta": "FACA 3 PM (000005)"
+    },
+    {
+      "Ruta": "FACA 4 AM (000006)"
+    },
+    {
+      "Ruta": "FUNZA 1 AM (000001)"
+    },
+    {
+      "Ruta": "FUNZA 1 PM (000001)"
+    },
+    {
+      "Ruta": "MADRID 1 AM (000008)"
+    },
+    {
+      "Ruta": "MADRID 2 AM (000009)"
+    },
+    {
+      "Ruta": "MADRID 2 PM (000009)"
+    },
+    {
+      "Ruta": "MADRID 3 AM (000010)"
+    },
+    {
+      "Ruta": "MADRID 4 AM (000011)"
+    },
+    {
+      "Ruta": "MADRID 4 PM (000011)"
+    },
+    {
+      "Ruta": "MADRID 5 AM (000012)"
+    },
+    {
+      "Ruta": "MADRID 5 PM (000012)"
+    },
+    {
+      "Ruta": "MADRID 6 AM (000013)"
+    },
+    {
+      "Ruta": "ROSAL 1 AM (000015)"
+    },
+    {
+      "Ruta": "ROSAL 4 AM (000018)"
+    },
+    {
+      "Ruta": "ROSAL 4 PM (000018)"
+    },
+    {
+      "Ruta": "ROSAL 5 AM (000019)"
+    },
+    {
+      "Ruta": "ROSAL 5 PM (000019)"
+    },
+    {
+      "Ruta": "ROSAL 6 AM (000041)"
+    },
+    {
+      "Ruta": "ROSAL 6 PM (000041)"
+    },
+    {
+      "Ruta": "SUBA 1 AM (000042)"
+    },
+    {
+      "Ruta": "SUBA 1 PM (000042)"
+    },
+    {
+      "Ruta": "SUBA 3 AM (000044)"
+    },
+    {
+      "Ruta": "SUBA 3 PM (000044)"
+    },
+    {
+      "Ruta": "MADRID 1 PM (000008)"
+    },
+    {
+      "Ruta": "MOSQUERA 1 AM (000002)"
+    },
+    {
+      "Ruta": "MOSQUERA 1 PM (000002)"
+    }
+  ],
+  "personas_llegaron": 90,
+  "personas_se_fueron": 546,
+  "pasajeros_adicionales": {
+    "Total": 275,
+    "Por_ruta": [
+      {
+        "Fecha": "2025-12-08",
+        "No. Ruta": "FACA 2 PM",
+        "Cantidad": 2
+      },
+      {
+        "Fecha": "2025-12-08",
+        "No. Ruta": "MADRID 3 PM",
+        "Cantidad": 2
+      },
+      {
+        "Fecha": "2025-12-08",
+        "No. Ruta": "MADRID 6 PM",
+        "Cantidad": 4
+      },
+      {
+        "Fecha": "2025-12-08",
+        "No. Ruta": "MADRID 7 AM",
+        "Cantidad": 7
+      },
+      {
+        "Fecha": "2025-12-08",
+        "No. Ruta": "ROSAL 2 AM",
+        "Cantidad": 4
+      },
+      {
+        "Fecha": "2025-12-08",
+        "No. Ruta": "ROSAL 2 PM",
+        "Cantidad": 8
+      },
+      {
+        "Fecha": "2025-12-08",
+        "No. Ruta": "ROSAL 3 PM",
+        "Cantidad": 19
+      },
+      {
+        "Fecha": "2025-12-08",
+        "No. Ruta": "SUBA 2 AM",
+        "Cantidad": 1
+      },
+      {
+        "Fecha": "2025-12-09",
+        "No. Ruta": "FACA 4 AM",
+        "Cantidad": 1
+      },
+      {
+        "Fecha": "2025-12-09",
+        "No. Ruta": "FACA 5 PM",
+        "Cantidad": 5
+      },
+      {
+        "Fecha": "2025-12-09",
+        "No. Ruta": "MADRID 1 AM",
+        "Cantidad": 1
+      },
+      {
+        "Fecha": "2025-12-09",
+        "No. Ruta": "MADRID 2 PM",
+        "Cantidad": 1
+      },
+      {
+        "Fecha": "2025-12-09",
+        "No. Ruta": "MADRID 3 PM",
+        "Cantidad": 5
+      },
+      {
+        "Fecha": "2025-12-09",
+        "No. Ruta": "ROSAL 1 AM",
+        "Cantidad": 1
+      },
+      {
+        "Fecha": "2025-12-09",
+        "No. Ruta": "ROSAL 2 AM",
+        "Cantidad": 2
+      },
+      {
+        "Fecha": "2025-12-09",
+        "No. Ruta": "ROSAL 3 AM",
+        "Cantidad": 3
+      },
+      {
+        "Fecha": "2025-12-09",
+        "No. Ruta": "ROSAL 4 PM",
+        "Cantidad": 2
+      },
+      {
+        "Fecha": "2025-12-09",
+        "No. Ruta": "ROSAL 6 PM",
+        "Cantidad": 7
+      },
+      {
+        "Fecha": "2025-12-09",
+        "No. Ruta": "SUBA 1 AM",
+        "Cantidad": 1
+      },
+      {
+        "Fecha": "2025-12-09",
+        "No. Ruta": "SUBA 2 PM",
+        "Cantidad": 1
+      },
+      {
+        "Fecha": "2025-12-09",
+        "No. Ruta": "SUBA 3 AM",
+        "Cantidad": 1
+      },
+      {
+        "Fecha": "2025-12-10",
+        "No. Ruta": "FACA 1 PM",
+        "Cantidad": 8
+      },
+      {
+        "Fecha": "2025-12-10",
+        "No. Ruta": "FACA 4 AM",
+        "Cantidad": 2
+      },
+      {
+        "Fecha": "2025-12-10",
+        "No. Ruta": "FACA 5 AM",
+        "Cantidad": 5
+      },
+      {
+        "Fecha": "2025-12-10",
+        "No. Ruta": "MADRID 1 AM",
+        "Cantidad": 2
+      },
+      {
+        "Fecha": "2025-12-10",
+        "No. Ruta": "MADRID 1 PM",
+        "Cantidad": 4
+      },
+      {
+        "Fecha": "2025-12-10",
+        "No. Ruta": "MADRID 3 PM",
+        "Cantidad": 8
+      },
+      {
+        "Fecha": "2025-12-10",
+        "No. Ruta": "MADRID 4 PM",
+        "Cantidad": 2
+      },
+      {
+        "Fecha": "2025-12-10",
+        "No. Ruta": "MADRID 6 PM",
+        "Cantidad": 18
+      },
+      {
+        "Fecha": "2025-12-10",
+        "No. Ruta": "MOSQUERA 1 PM",
+        "Cantidad": 8
+      },
+      {
+        "Fecha": "2025-12-10",
+        "No. Ruta": "ROSAL 1 AM",
+        "Cantidad": 5
+      },
+      {
+        "Fecha": "2025-12-10",
+        "No. Ruta": "ROSAL 2 AM",
+        "Cantidad": 3
+      },
+      {
+        "Fecha": "2025-12-10",
+        "No. Ruta": "ROSAL 2 PM",
+        "Cantidad": 5
+      },
+      {
+        "Fecha": "2025-12-10",
+        "No. Ruta": "ROSAL 3 AM",
+        "Cantidad": 3
+      },
+      {
+        "Fecha": "2025-12-10",
+        "No. Ruta": "ROSAL 3 PM",
+        "Cantidad": 8
+      },
+      {
+        "Fecha": "2025-12-10",
+        "No. Ruta": "ROSAL 4 PM",
+        "Cantidad": 25
+      },
+      {
+        "Fecha": "2025-12-10",
+        "No. Ruta": "ROSAL 6 PM",
+        "Cantidad": 9
+      },
+      {
+        "Fecha": "2025-12-10",
+        "No. Ruta": "SUBA 1 AM",
+        "Cantidad": 1
+      },
+      {
+        "Fecha": "2025-12-10",
+        "No. Ruta": "SUBA 2 PM",
+        "Cantidad": 1
+      },
+      {
+        "Fecha": "2025-12-11",
+        "No. Ruta": "FACA 4 AM",
+        "Cantidad": 1
+      },
+      {
+        "Fecha": "2025-12-11",
+        "No. Ruta": "FACA 5 AM",
+        "Cantidad": 3
+      },
+      {
+        "Fecha": "2025-12-11",
+        "No. Ruta": "FACA 5 PM",
+        "Cantidad": 10
+      },
+      {
+        "Fecha": "2025-12-11",
+        "No. Ruta": "MADRID 1 AM",
+        "Cantidad": 2
+      },
+      {
+        "Fecha": "2025-12-11",
+        "No. Ruta": "MADRID 1 PM",
+        "Cantidad": 11
+      },
+      {
+        "Fecha": "2025-12-11",
+        "No. Ruta": "MADRID 3 PM",
+        "Cantidad": 7
+      },
+      {
+        "Fecha": "2025-12-11",
+        "No. Ruta": "MADRID 4 PM",
+        "Cantidad": 3
+      },
+      {
+        "Fecha": "2025-12-11",
+        "No. Ruta": "ROSAL 1 AM",
+        "Cantidad": 2
+      },
+      {
+        "Fecha": "2025-12-11",
+        "No. Ruta": "ROSAL 2 AM",
+        "Cantidad": 1
+      },
+      {
+        "Fecha": "2025-12-11",
+        "No. Ruta": "ROSAL 3 AM",
+        "Cantidad": 2
+      },
+      {
+        "Fecha": "2025-12-11",
+        "No. Ruta": "ROSAL 6 PM",
+        "Cantidad": 18
+      },
+      {
+        "Fecha": "2025-12-11",
+        "No. Ruta": "SUBA 3 PM",
+        "Cantidad": 20
+      }
+    ]
+  },
+  "promedio_tiempo_viaje": {
+    "Promedio_minutos": 50.38,
+    "Por_ruta": [
+      {
+        "Ruta": "FACA 2 AM (000004)",
+        "Fecha inicio": "2025-12-08",
+        "Tiempo total ruta": "00:31:15",
+        "Tiempo_minutos": 31.25
+      },
+      {
+        "Ruta": "FACA 2 PM (000004)",
+        "Fecha inicio": "2025-12-08",
+        "Tiempo total ruta": "00:21:45",
+        "Tiempo_minutos": 21.75
+      },
+      {
+        "Ruta": "MADRID 3 PM (000010)",
+        "Fecha inicio": "2025-12-08",
+        "Tiempo total ruta": "00:25:21",
+        "Tiempo_minutos": 25.35
+      },
+      {
+        "Ruta": "MADRID 6 PM (000013)",
+        "Fecha inicio": "2025-12-08",
+        "Tiempo total ruta": "01:07:54",
+        "Tiempo_minutos": 67.9
+      },
+      {
+        "Ruta": "MADRID 7 AM (000014)",
+        "Fecha inicio": "2025-12-08",
+        "Tiempo total ruta": "00:31:13",
+        "Tiempo_minutos": 31.216666666666665
+      },
+      {
+        "Ruta": "MADRID 7 PM (000014)",
+        "Fecha inicio": "2025-12-08",
+        "Tiempo total ruta": "01:05:19",
+        "Tiempo_minutos": 65.31666666666666
+      },
+      {
+        "Ruta": "ROSAL 2 AM (000016)",
+        "Fecha inicio": "2025-12-08",
+        "Tiempo total ruta": "00:25:51",
+        "Tiempo_minutos": 25.85
+      },
+      {
+        "Ruta": "ROSAL 2 PM (000016)",
+        "Fecha inicio": "2025-12-08",
+        "Tiempo total ruta": "00:18:20",
+        "Tiempo_minutos": 18.333333333333332
+      },
+      {
+        "Ruta": "ROSAL 3 AM (000017)",
+        "Fecha inicio": "2025-12-08",
+        "Tiempo total ruta": "00:36:01",
+        "Tiempo_minutos": 36.016666666666666
+      },
+      {
+        "Ruta": "ROSAL 3 PM (000017)",
+        "Fecha inicio": "2025-12-08",
+        "Tiempo total ruta": "00:56:17",
+        "Tiempo_minutos": 56.28333333333333
+      },
+      {
+        "Ruta": "SUBA 2 AM (000043)",
+        "Fecha inicio": "2025-12-08",
+        "Tiempo total ruta": "01:16:48",
+        "Tiempo_minutos": 76.8
+      },
+      {
+        "Ruta": "SUBA 2 PM (000043)",
+        "Fecha inicio": "2025-12-08",
+        "Tiempo total ruta": "01:39:34",
+        "Tiempo_minutos": 99.56666666666666
+      },
+      {
+        "Ruta": "FACA 1 AM (000003)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:46:33",
+        "Tiempo_minutos": 46.55
+      },
+      {
+        "Ruta": "FACA 1 PM (000003)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:00:38",
+        "Tiempo_minutos": 0.6333333333333333
+      },
+      {
+        "Ruta": "FACA 2 AM (000004)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:57:33",
+        "Tiempo_minutos": 57.55
+      },
+      {
+        "Ruta": "FACA 2 PM (000004)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:00:13",
+        "Tiempo_minutos": 0.21666666666666667
+      },
+      {
+        "Ruta": "FACA 3 AM (000005)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:54:39",
+        "Tiempo_minutos": 54.65
+      },
+      {
+        "Ruta": "FACA 3 PM (000005)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:00:19",
+        "Tiempo_minutos": 0.31666666666666665
+      },
+      {
+        "Ruta": "FACA 4 AM (000006)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:39:39",
+        "Tiempo_minutos": 39.65
+      },
+      {
+        "Ruta": "FACA 5 AM (000007)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:18:37",
+        "Tiempo_minutos": 18.616666666666667
+      },
+      {
+        "Ruta": "FACA 5 PM (000007)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:05:29",
+        "Tiempo_minutos": 5.483333333333333
+      },
+      {
+        "Ruta": "FUNZA 1 AM (000001)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:44:42",
+        "Tiempo_minutos": 44.7
+      },
+      {
+        "Ruta": "FUNZA 1 PM (000001)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "04:20:40",
+        "Tiempo_minutos": 260.6666666666667
+      },
+      {
+        "Ruta": "MADRID 1 AM (000008)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:14:43",
+        "Tiempo_minutos": 14.716666666666667
+      },
+      {
+        "Ruta": "MADRID 2 AM (000009)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:50:28",
+        "Tiempo_minutos": 50.46666666666667
+      },
+      {
+        "Ruta": "MADRID 3 AM (000010)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:14:38",
+        "Tiempo_minutos": 14.633333333333333
+      },
+      {
+        "Ruta": "MADRID 3 PM (000010)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:45:50",
+        "Tiempo_minutos": 45.833333333333336
+      },
+      {
+        "Ruta": "MADRID 4 AM (000011)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "02:29:34",
+        "Tiempo_minutos": 149.56666666666666
+      },
+      {
+        "Ruta": "MADRID 4 PM (000011)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:28:38",
+        "Tiempo_minutos": 28.633333333333333
+      },
+      {
+        "Ruta": "MADRID 5 AM (000012)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "01:11:22",
+        "Tiempo_minutos": 71.36666666666666
+      },
+      {
+        "Ruta": "MADRID 5 PM (000012)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "01:03:12",
+        "Tiempo_minutos": 63.2
+      },
+      {
+        "Ruta": "MADRID 6 AM (000013)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "02:19:39",
+        "Tiempo_minutos": 139.65
+      },
+      {
+        "Ruta": "MADRID 6 PM (000013)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:00:07",
+        "Tiempo_minutos": 0.11666666666666667
+      },
+      {
+        "Ruta": "MADRID 7 AM (000014)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:10:28",
+        "Tiempo_minutos": 10.466666666666667
+      },
+      {
+        "Ruta": "ROSAL 1 AM (000015)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:19:40",
+        "Tiempo_minutos": 19.666666666666668
+      },
+      {
+        "Ruta": "ROSAL 2 AM (000016)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:07:13",
+        "Tiempo_minutos": 7.216666666666667
+      },
+      {
+        "Ruta": "ROSAL 3 AM (000017)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:43:51",
+        "Tiempo_minutos": 43.85
+      },
+      {
+        "Ruta": "ROSAL 3 PM (000017)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:13:47",
+        "Tiempo_minutos": 13.783333333333333
+      },
+      {
+        "Ruta": "ROSAL 4 AM (000018)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:11:57",
+        "Tiempo_minutos": 11.95
+      },
+      {
+        "Ruta": "ROSAL 4 PM (000018)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:13:43",
+        "Tiempo_minutos": 13.716666666666667
+      },
+      {
+        "Ruta": "ROSAL 5 AM (000019)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "02:17:40",
+        "Tiempo_minutos": 137.66666666666666
+      },
+      {
+        "Ruta": "ROSAL 6 AM (000041)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:22:16",
+        "Tiempo_minutos": 22.266666666666666
+      },
+      {
+        "Ruta": "ROSAL 6 PM (000041)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:34:05",
+        "Tiempo_minutos": 34.083333333333336
+      },
+      {
+        "Ruta": "SUBA 1 AM (000042)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "01:04:55",
+        "Tiempo_minutos": 64.91666666666667
+      },
+      {
+        "Ruta": "SUBA 1 PM (000042)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:01:48",
+        "Tiempo_minutos": 1.8
+      },
+      {
+        "Ruta": "SUBA 2 AM (000043)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "02:21:11",
+        "Tiempo_minutos": 141.18333333333334
+      },
+      {
+        "Ruta": "SUBA 2 PM (000043)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "01:03:40",
+        "Tiempo_minutos": 63.666666666666664
+      },
+      {
+        "Ruta": "SUBA 3 AM (000044)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:58:42",
+        "Tiempo_minutos": 58.7
+      },
+      {
+        "Ruta": "FACA 1 AM (000003)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:49:31",
+        "Tiempo_minutos": 49.516666666666666
+      },
+      {
+        "Ruta": "FACA 1 PM (000003)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:03:05",
+        "Tiempo_minutos": 3.0833333333333335
+      },
+      {
+        "Ruta": "FACA 2 AM (000004)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:55:58",
+        "Tiempo_minutos": 55.96666666666667
+      },
+      {
+        "Ruta": "FACA 2 PM (000004)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:00:08",
+        "Tiempo_minutos": 0.13333333333333333
+      },
+      {
+        "Ruta": "FACA 3 AM (000005)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:55:47",
+        "Tiempo_minutos": 55.78333333333333
+      },
+      {
+        "Ruta": "FACA 4 AM (000006)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:55:03",
+        "Tiempo_minutos": 55.05
+      },
+      {
+        "Ruta": "FACA 5 AM (000007)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:32:59",
+        "Tiempo_minutos": 32.983333333333334
+      },
+      {
+        "Ruta": "FUNZA 1 AM (000001)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:42:29",
+        "Tiempo_minutos": 42.483333333333334
+      },
+      {
+        "Ruta": "MADRID 1 AM (000008)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:16:18",
+        "Tiempo_minutos": 16.3
+      },
+      {
+        "Ruta": "MADRID 2 AM (000009)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "03:03:31",
+        "Tiempo_minutos": 183.51666666666668
+      },
+      {
+        "Ruta": "MADRID 3 AM (000010)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:15:25",
+        "Tiempo_minutos": 15.416666666666666
+      },
+      {
+        "Ruta": "MADRID 3 PM (000010)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:46:07",
+        "Tiempo_minutos": 46.11666666666667
+      },
+      {
+        "Ruta": "MADRID 4 AM (000011)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:57:46",
+        "Tiempo_minutos": 57.766666666666666
+      },
+      {
+        "Ruta": "MADRID 4 PM (000011)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:05:19",
+        "Tiempo_minutos": 5.316666666666666
+      },
+      {
+        "Ruta": "MADRID 5 AM (000012)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "01:05:52",
+        "Tiempo_minutos": 65.86666666666666
+      },
+      {
+        "Ruta": "MADRID 5 PM (000012)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "01:24:52",
+        "Tiempo_minutos": 84.86666666666666
+      },
+      {
+        "Ruta": "MADRID 6 AM (000013)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "01:12:32",
+        "Tiempo_minutos": 72.53333333333333
+      },
+      {
+        "Ruta": "MADRID 6 PM (000013)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:37:18",
+        "Tiempo_minutos": 37.3
+      },
+      {
+        "Ruta": "MADRID 7 AM (000014)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:10:09",
+        "Tiempo_minutos": 10.15
+      },
+      {
+        "Ruta": "MADRID 7 PM (000014)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:00:12",
+        "Tiempo_minutos": 0.2
+      },
+      {
+        "Ruta": "MOSQUERA 1 AM (000002)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "01:35:25",
+        "Tiempo_minutos": 95.41666666666667
+      },
+      {
+        "Ruta": "MOSQUERA 1 PM (000002)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:57:28",
+        "Tiempo_minutos": 57.46666666666667
+      },
+      {
+        "Ruta": "ROSAL 1 AM (000015)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:14:49",
+        "Tiempo_minutos": 14.816666666666666
+      },
+      {
+        "Ruta": "ROSAL 2 AM (000016)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:07:38",
+        "Tiempo_minutos": 7.633333333333333
+      },
+      {
+        "Ruta": "ROSAL 2 PM (000016)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:16:17",
+        "Tiempo_minutos": 16.283333333333335
+      },
+      {
+        "Ruta": "ROSAL 3 AM (000017)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:24:09",
+        "Tiempo_minutos": 24.15
+      },
+      {
+        "Ruta": "ROSAL 3 PM (000017)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:35:18",
+        "Tiempo_minutos": 35.3
+      },
+      {
+        "Ruta": "ROSAL 4 AM (000018)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:14:39",
+        "Tiempo_minutos": 14.65
+      },
+      {
+        "Ruta": "ROSAL 4 PM (000018)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:20:09",
+        "Tiempo_minutos": 20.15
+      },
+      {
+        "Ruta": "ROSAL 5 AM (000019)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "02:01:17",
+        "Tiempo_minutos": 121.28333333333333
+      },
+      {
+        "Ruta": "ROSAL 6 AM (000041)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:19:55",
+        "Tiempo_minutos": 19.916666666666668
+      },
+      {
+        "Ruta": "ROSAL 6 PM (000041)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:32:55",
+        "Tiempo_minutos": 32.916666666666664
+      },
+      {
+        "Ruta": "SUBA 1 AM (000042)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "01:04:54",
+        "Tiempo_minutos": 64.9
+      },
+      {
+        "Ruta": "SUBA 1 PM (000042)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "02:06:24",
+        "Tiempo_minutos": 126.4
+      },
+      {
+        "Ruta": "SUBA 2 AM (000043)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:47:36",
+        "Tiempo_minutos": 47.6
+      },
+      {
+        "Ruta": "SUBA 2 PM (000043)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:42:34",
+        "Tiempo_minutos": 42.56666666666667
+      },
+      {
+        "Ruta": "SUBA 3 AM (000044)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:54:08",
+        "Tiempo_minutos": 54.13333333333333
+      },
+      {
+        "Ruta": "SUBA 3 PM (000044)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:00:04",
+        "Tiempo_minutos": 0.06666666666666667
+      },
+      {
+        "Ruta": "FACA 1 AM (000003)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:43:17",
+        "Tiempo_minutos": 43.28333333333333
+      },
+      {
+        "Ruta": "FACA 2 AM (000004)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "01:16:08",
+        "Tiempo_minutos": 76.13333333333334
+      },
+      {
+        "Ruta": "FACA 2 PM (000004)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "01:40:02",
+        "Tiempo_minutos": 100.03333333333333
+      },
+      {
+        "Ruta": "FACA 3 AM (000005)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:55:32",
+        "Tiempo_minutos": 55.53333333333333
+      },
+      {
+        "Ruta": "FACA 4 AM (000006)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:47:35",
+        "Tiempo_minutos": 47.583333333333336
+      },
+      {
+        "Ruta": "FACA 5 AM (000007)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:19:10",
+        "Tiempo_minutos": 19.166666666666668
+      },
+      {
+        "Ruta": "FACA 5 PM (000007)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "01:51:35",
+        "Tiempo_minutos": 111.58333333333333
+      },
+      {
+        "Ruta": "FUNZA 1 PM (000001)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "02:42:25",
+        "Tiempo_minutos": 162.41666666666666
+      },
+      {
+        "Ruta": "MADRID 1 AM (000008)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:14:03",
+        "Tiempo_minutos": 14.05
+      },
+      {
+        "Ruta": "MADRID 1 PM (000008)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:35:01",
+        "Tiempo_minutos": 35.016666666666666
+      },
+      {
+        "Ruta": "MADRID 2 AM (000009)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "01:39:28",
+        "Tiempo_minutos": 99.46666666666667
+      },
+      {
+        "Ruta": "MADRID 2 PM (000009)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "01:17:18",
+        "Tiempo_minutos": 77.3
+      },
+      {
+        "Ruta": "MADRID 3 AM (000010)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:14:18",
+        "Tiempo_minutos": 14.3
+      },
+      {
+        "Ruta": "MADRID 3 PM (000010)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:20:41",
+        "Tiempo_minutos": 20.683333333333334
+      },
+      {
+        "Ruta": "MADRID 4 AM (000011)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:51:46",
+        "Tiempo_minutos": 51.766666666666666
+      },
+      {
+        "Ruta": "MADRID 4 PM (000011)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:18:00",
+        "Tiempo_minutos": 18.0
+      },
+      {
+        "Ruta": "MADRID 5 AM (000012)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:18:32",
+        "Tiempo_minutos": 18.533333333333335
+      },
+      {
+        "Ruta": "MADRID 5 PM (000012)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:00:08",
+        "Tiempo_minutos": 0.13333333333333333
+      },
+      {
+        "Ruta": "MADRID 6 AM (000013)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "01:10:28",
+        "Tiempo_minutos": 70.46666666666667
+      },
+      {
+        "Ruta": "MADRID 7 AM (000014)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:05:43",
+        "Tiempo_minutos": 5.716666666666667
+      },
+      {
+        "Ruta": "MADRID 7 PM (000014)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "05:03:24",
+        "Tiempo_minutos": 303.4
+      },
+      {
+        "Ruta": "MOSQUERA 1 AM (000002)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "01:03:07",
+        "Tiempo_minutos": 63.11666666666667
+      },
+      {
+        "Ruta": "ROSAL 1 AM (000015)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:14:36",
+        "Tiempo_minutos": 14.6
+      },
+      {
+        "Ruta": "ROSAL 2 AM (000016)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:07:03",
+        "Tiempo_minutos": 7.05
+      },
+      {
+        "Ruta": "ROSAL 3 AM (000017)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "01:39:36",
+        "Tiempo_minutos": 99.6
+      },
+      {
+        "Ruta": "ROSAL 3 PM (000017)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:10:43",
+        "Tiempo_minutos": 10.716666666666667
+      },
+      {
+        "Ruta": "ROSAL 4 AM (000018)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:14:07",
+        "Tiempo_minutos": 14.116666666666667
+      },
+      {
+        "Ruta": "ROSAL 4 PM (000018)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:16:46",
+        "Tiempo_minutos": 16.766666666666666
+      },
+      {
+        "Ruta": "ROSAL 5 AM (000019)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:36:34",
+        "Tiempo_minutos": 36.56666666666667
+      },
+      {
+        "Ruta": "ROSAL 6 AM (000041)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:18:42",
+        "Tiempo_minutos": 18.7
+      },
+      {
+        "Ruta": "ROSAL 6 PM (000041)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "01:02:11",
+        "Tiempo_minutos": 62.18333333333333
+      },
+      {
+        "Ruta": "SUBA 1 AM (000042)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "01:04:23",
+        "Tiempo_minutos": 64.38333333333334
+      },
+      {
+        "Ruta": "SUBA 1 PM (000042)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "02:27:44",
+        "Tiempo_minutos": 147.73333333333332
+      },
+      {
+        "Ruta": "SUBA 2 PM (000043)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:44:21",
+        "Tiempo_minutos": 44.35
+      },
+      {
+        "Ruta": "SUBA 3 AM (000044)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "01:14:52",
+        "Tiempo_minutos": 74.86666666666666
+      },
+      {
+        "Ruta": "SUBA 3 PM (000044)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "02:13:14",
+        "Tiempo_minutos": 133.23333333333332
+      }
+    ]
+  },
+  "por_fecha": {
+    "2025-12-08": {
+      "inscritas": 642,
+      "abordaron": 54,
+      "llegaron": 0,
+      "se_fueron": 10,
+      "pasajeros_extra": 47
+    },
+    "2025-12-09": {
+      "inscritas": 642,
+      "abordaron": 445,
+      "llegaron": 11,
+      "se_fueron": 430,
+      "pasajeros_extra": 31
+    },
+    "2025-12-10": {
+      "inscritas": 642,
+      "abordaron": 477,
+      "llegaron": 63,
+      "se_fueron": 425,
+      "pasajeros_extra": 117
+    },
+    "2025-12-11": {
+      "inscritas": 642,
+      "abordaron": 479,
+      "llegaron": 21,
+      "se_fueron": 463,
+      "pasajeros_extra": 80
+    }
+  }
+}

@@ -1,0 +1,112 @@
+.finca-dashboard {
+  width: 100%;
+}
+
+.dashboard-title {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  color: #333;
+  border-bottom: 3px solid #667eea;
+  padding-bottom: 0.5rem;
+}
+
+.metric-section {
+  background: white;
+  border-radius: 12px;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.metric-section h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+  color: #667eea;
+  border-left: 4px solid #667eea;
+  padding-left: 1rem;
+}
+
+.metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.problemas-detalle {
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 2px solid #eee;
+}
+
+.problemas-detalle h4 {
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.problemas-list {
+  display: grid;
+  gap: 1rem;
+}
+
+.problema-item {
+  background: #fff5f5;
+  padding: 1rem;
+  border-radius: 8px;
+  border-left: 4px solid #ff6b6b;
+}
+
+.problema-item strong {
+  color: #c92a2a;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.problema-item ul {
+  margin-left: 1.5rem;
+  margin-top: 0.5rem;
+  color: #666;
+}
+
+.problema-item li {
+  margin-bottom: 0.25rem;
+}
+
+.no-data {
+  color: #999;
+  font-style: italic;
+  padding: 1rem;
+  text-align: center;
+}
+
+.error-message {
+  background: #fff5f5;
+  border: 2px solid #ff6b6b;
+  border-radius: 12px;
+  padding: 2rem;
+  text-align: center;
+  color: #c92a2a;
+}
+
+.error-message h2 {
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 768px) {
+  .dashboard-title {
+    font-size: 1.5rem;
+  }
+  
+  .metric-section {
+    padding: 1rem;
+  }
+  
+  .metric-section h3 {
+    font-size: 1.25rem;
+  }
+  
+  .metrics-grid {
+    grid-template-columns: 1fr;
+  }
+}
+

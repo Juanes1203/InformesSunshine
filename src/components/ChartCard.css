@@ -1,0 +1,33 @@
+.chart-card {
+  background: white;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-top: 1rem;
+}
+
+.chart-card h4 {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.chart-container {
+  width: 100%;
+  min-height: 400px;
+}
+
+.chart-note {
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  color: #999;
+  font-style: italic;
+  text-align: center;
+}
+
+.no-data {
+  padding: 2rem;
+  text-align: center;
+  color: #999;
+  font-style: italic;
+}
+

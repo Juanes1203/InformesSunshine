@@ -1,0 +1,4163 @@
+{
+  "personas_inscritas_vs_abordaron": [
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "FACATATIVA(AER)R1 AM",
+      "Inscritas": 16,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "FACATATIVA(AER)R1 PM",
+      "Inscritas": 17,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "FACATATIVA(AER)R2 AM",
+      "Inscritas": 25,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "FACATATIVA(AER)R2 PM",
+      "Inscritas": 25,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "FACATATIVA(AER)R3 AM",
+      "Inscritas": 27,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "FACATATIVA(AER)R3 PM",
+      "Inscritas": 26,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "FACATATIVA(AER)R4 AM",
+      "Inscritas": 26,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "FACATATIVA(AER)R4 PM",
+      "Inscritas": 26,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "FACATATIVA(AER)R5 AM",
+      "Inscritas": 30,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "FACATATIVA(AER)R5 PM",
+      "Inscritas": 30,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "FUNZA(ECOL)R1 AM",
+      "Inscritas": 18,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "FUNZA(ECOL)R1 PM",
+      "Inscritas": 18,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID(AER)R1 AM",
+      "Inscritas": 16,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID(AER)R1 PM",
+      "Inscritas": 16,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID(AER)R2 AM",
+      "Inscritas": 16,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID(AER)R2 PM",
+      "Inscritas": 16,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID(AER)R3 AM",
+      "Inscritas": 30,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID(AER)R3 PM",
+      "Inscritas": 30,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID(AER)R4 AM",
+      "Inscritas": 30,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID(AER)R4 PM",
+      "Inscritas": 30,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID(AER)R5 AM",
+      "Inscritas": 31,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID(AER)R5 PM",
+      "Inscritas": 31,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID(AER)R6 AM",
+      "Inscritas": 27,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID(AER)R6 PM",
+      "Inscritas": 27,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID(AER)R7 AM",
+      "Inscritas": 29,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID(AER)R7 PM",
+      "Inscritas": 31,
+      "Abordaron": 1.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID(AER)R8 AM",
+      "Inscritas": 23,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID(AER)R8 PM",
+      "Inscritas": 23,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MOSQUERA(ECOL)R1 AM",
+      "Inscritas": 27,
+      "Abordaron": 9.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MOSQUERA(ECOL)R1 PM",
+      "Inscritas": 27,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "ROSAL(AER)R1 AM",
+      "Inscritas": 26,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "ROSAL(AER)R1 PM",
+      "Inscritas": 26,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "ROSAL(AER)R2 AM",
+      "Inscritas": 33,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "ROSAL(AER)R2 PM",
+      "Inscritas": 33,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "ROSAL(AER)R3 AM",
+      "Inscritas": 19,
+      "Abordaron": 11.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "ROSAL(AER)R3 PM",
+      "Inscritas": 19,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "ROSAL(AER)R4 AM",
+      "Inscritas": 41,
+      "Abordaron": 41.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "ROSAL(AER)R4 PM",
+      "Inscritas": 41,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "ROSAL(AER)R5 AM",
+      "Inscritas": 21,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "ROSAL(AER)R5 PM",
+      "Inscritas": 21,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "SUBA(AER)R1 AM",
+      "Inscritas": 23,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "SUBA(AER)R1 PM",
+      "Inscritas": 23,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "SUBA(AER)R2 AM",
+      "Inscritas": 13,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "SUBA(AER)R2 PM",
+      "Inscritas": 13,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACATATIVA(AER)R1 AM",
+      "Inscritas": 16,
+      "Abordaron": 13.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACATATIVA(AER)R1 PM",
+      "Inscritas": 17,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACATATIVA(AER)R2 AM",
+      "Inscritas": 25,
+      "Abordaron": 22.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACATATIVA(AER)R2 PM",
+      "Inscritas": 25,
+      "Abordaron": 19.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACATATIVA(AER)R3 AM",
+      "Inscritas": 27,
+      "Abordaron": 26.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACATATIVA(AER)R3 PM",
+      "Inscritas": 26,
+      "Abordaron": 14.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACATATIVA(AER)R4 AM",
+      "Inscritas": 26,
+      "Abordaron": 25.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACATATIVA(AER)R4 PM",
+      "Inscritas": 30,
+      "Abordaron": 4.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACATATIVA(AER)R5 AM",
+      "Inscritas": 30,
+      "Abordaron": 25.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACATATIVA(AER)R5 PM",
+      "Inscritas": 30,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FUNZA(ECOL)R1 AM",
+      "Inscritas": 20,
+      "Abordaron": 19.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FUNZA(ECOL)R1 PM",
+      "Inscritas": 20,
+      "Abordaron": 2.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID(AER)R1 AM",
+      "Inscritas": 16,
+      "Abordaron": 13.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID(AER)R1 PM",
+      "Inscritas": 16,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID(AER)R2 AM",
+      "Inscritas": 16,
+      "Abordaron": 14.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID(AER)R2 PM",
+      "Inscritas": 16,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID(AER)R3 AM",
+      "Inscritas": 30,
+      "Abordaron": 29.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID(AER)R3 PM",
+      "Inscritas": 30,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID(AER)R4 AM",
+      "Inscritas": 32,
+      "Abordaron": 26.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID(AER)R4 PM",
+      "Inscritas": 31,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID(AER)R5 AM",
+      "Inscritas": 32,
+      "Abordaron": 27.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID(AER)R5 PM",
+      "Inscritas": 31,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID(AER)R6 AM",
+      "Inscritas": 27,
+      "Abordaron": 26.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID(AER)R6 PM",
+      "Inscritas": 27,
+      "Abordaron": 22.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID(AER)R7 AM",
+      "Inscritas": 29,
+      "Abordaron": 26.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID(AER)R7 PM",
+      "Inscritas": 30,
+      "Abordaron": 20.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID(AER)R8 AM",
+      "Inscritas": 23,
+      "Abordaron": 20.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID(AER)R8 PM",
+      "Inscritas": 23,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MOSQUERA(ECOL)R1 AM",
+      "Inscritas": 27,
+      "Abordaron": 20.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MOSQUERA(ECOL)R1 PM",
+      "Inscritas": 27,
+      "Abordaron": 21.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL(AER)R1 AM",
+      "Inscritas": 26,
+      "Abordaron": 19.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL(AER)R1 PM",
+      "Inscritas": 26,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL(AER)R2 AM",
+      "Inscritas": 33,
+      "Abordaron": 29.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL(AER)R2 PM",
+      "Inscritas": 33,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL(AER)R3 AM",
+      "Inscritas": 19,
+      "Abordaron": 17.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL(AER)R3 PM",
+      "Inscritas": 19,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL(AER)R4 AM",
+      "Inscritas": 41,
+      "Abordaron": 37.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL(AER)R4 PM",
+      "Inscritas": 41,
+      "Abordaron": 11.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL(AER)R5 AM",
+      "Inscritas": 21,
+      "Abordaron": 20.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL(AER)R5 PM",
+      "Inscritas": 21,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "SUBA(AER)R1 AM",
+      "Inscritas": 23,
+      "Abordaron": 22.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "SUBA(AER)R1 PM",
+      "Inscritas": 23,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "SUBA(AER)R2 AM",
+      "Inscritas": 13,
+      "Abordaron": 11.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "SUBA(AER)R2 PM",
+      "Inscritas": 13,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACATATIVA(AER)R1 AM",
+      "Inscritas": 16,
+      "Abordaron": 13.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACATATIVA(AER)R1 PM",
+      "Inscritas": 17,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACATATIVA(AER)R2 AM",
+      "Inscritas": 25,
+      "Abordaron": 22.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACATATIVA(AER)R2 PM",
+      "Inscritas": 25,
+      "Abordaron": 23.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACATATIVA(AER)R3 AM",
+      "Inscritas": 27,
+      "Abordaron": 20.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACATATIVA(AER)R3 PM",
+      "Inscritas": 26,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACATATIVA(AER)R4 AM",
+      "Inscritas": 26,
+      "Abordaron": 25.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACATATIVA(AER)R4 PM",
+      "Inscritas": 26,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACATATIVA(AER)R5 AM",
+      "Inscritas": 30,
+      "Abordaron": 27.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACATATIVA(AER)R5 PM",
+      "Inscritas": 30,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FUNZA(ECOL)R1 AM",
+      "Inscritas": 20,
+      "Abordaron": 18.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FUNZA(ECOL)R1 PM",
+      "Inscritas": 18,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R1 AM",
+      "Inscritas": 16,
+      "Abordaron": 13.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R1 PM",
+      "Inscritas": 22,
+      "Abordaron": 6.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R2 AM",
+      "Inscritas": 16,
+      "Abordaron": 15.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R2 PM",
+      "Inscritas": 16,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R3 AM",
+      "Inscritas": 33,
+      "Abordaron": 30.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R3 PM",
+      "Inscritas": 30,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R4 AM",
+      "Inscritas": 32,
+      "Abordaron": 25.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R4 PM",
+      "Inscritas": 31,
+      "Abordaron": 1.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R5 AM",
+      "Inscritas": 32,
+      "Abordaron": 27.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R5 PM",
+      "Inscritas": 31,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R6 AM",
+      "Inscritas": 27,
+      "Abordaron": 26.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R6 PM",
+      "Inscritas": 27,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R7 AM",
+      "Inscritas": 30,
+      "Abordaron": 24.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R7 PM",
+      "Inscritas": 29,
+      "Abordaron": 21.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R8 AM",
+      "Inscritas": 23,
+      "Abordaron": 19.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R8 PM",
+      "Inscritas": 30,
+      "Abordaron": 7.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MOSQUERA(ECOL)R1 AM",
+      "Inscritas": 27,
+      "Abordaron": 20.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MOSQUERA(ECOL)R1 PM",
+      "Inscritas": 38,
+      "Abordaron": 24.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL(AER)R1 AM",
+      "Inscritas": 26,
+      "Abordaron": 19.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL(AER)R1 PM",
+      "Inscritas": 26,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL(AER)R2 AM",
+      "Inscritas": 33,
+      "Abordaron": 25.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL(AER)R2 PM",
+      "Inscritas": 33,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL(AER)R3 AM",
+      "Inscritas": 19,
+      "Abordaron": 18.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL(AER)R3 PM",
+      "Inscritas": 19,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL(AER)R4 AM",
+      "Inscritas": 41,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL(AER)R4 PM",
+      "Inscritas": 41,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL(AER)R5 AM",
+      "Inscritas": 21,
+      "Abordaron": 18.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL(AER)R5 PM",
+      "Inscritas": 21,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "SUBA(AER)R1 AM",
+      "Inscritas": 23,
+      "Abordaron": 20.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "SUBA(AER)R1 PM",
+      "Inscritas": 23,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "SUBA(AER)R2 AM",
+      "Inscritas": 13,
+      "Abordaron": 10.0
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "SUBA(AER)R2 PM",
+      "Inscritas": 13,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACATATIVA(AER)R1 AM",
+      "Inscritas": 16,
+      "Abordaron": 14.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACATATIVA(AER)R1 PM",
+      "Inscritas": 17,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACATATIVA(AER)R2 AM",
+      "Inscritas": 25,
+      "Abordaron": 21.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACATATIVA(AER)R2 PM",
+      "Inscritas": 27,
+      "Abordaron": 2.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACATATIVA(AER)R3 AM",
+      "Inscritas": 27,
+      "Abordaron": 25.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACATATIVA(AER)R3 PM",
+      "Inscritas": 26,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACATATIVA(AER)R4 AM",
+      "Inscritas": 26,
+      "Abordaron": 25.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACATATIVA(AER)R4 PM",
+      "Inscritas": 26,
+      "Abordaron": 20.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACATATIVA(AER)R5 AM",
+      "Inscritas": 30,
+      "Abordaron": 26.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACATATIVA(AER)R5 PM",
+      "Inscritas": 30,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FUNZA(ECOL)R1 AM",
+      "Inscritas": 20,
+      "Abordaron": 18.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FUNZA(ECOL)R1 PM",
+      "Inscritas": 20,
+      "Abordaron": 2.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R1 AM",
+      "Inscritas": 16,
+      "Abordaron": 13.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R1 PM",
+      "Inscritas": 16,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R2 AM",
+      "Inscritas": 16,
+      "Abordaron": 15.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R2 PM",
+      "Inscritas": 16,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R3 AM",
+      "Inscritas": 33,
+      "Abordaron": 27.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R3 PM",
+      "Inscritas": 35,
+      "Abordaron": 26.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R4 AM",
+      "Inscritas": 30,
+      "Abordaron": 24.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R4 PM",
+      "Inscritas": 30,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R5 AM",
+      "Inscritas": 32,
+      "Abordaron": 29.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R5 PM",
+      "Inscritas": 31,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R6 AM",
+      "Inscritas": 27,
+      "Abordaron": 25.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R6 PM",
+      "Inscritas": 27,
+      "Abordaron": 23.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R7 AM",
+      "Inscritas": 29,
+      "Abordaron": 25.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R7 PM",
+      "Inscritas": 29,
+      "Abordaron": 23.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R8 AM",
+      "Inscritas": 23,
+      "Abordaron": 20.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R8 PM",
+      "Inscritas": 32,
+      "Abordaron": 9.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MOSQUERA(ECOL)R1 AM",
+      "Inscritas": 27,
+      "Abordaron": 21.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MOSQUERA(ECOL)R1 PM",
+      "Inscritas": 27,
+      "Abordaron": 19.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL(AER)R1 AM",
+      "Inscritas": 26,
+      "Abordaron": 19.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL(AER)R1 PM",
+      "Inscritas": 26,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL(AER)R2 AM",
+      "Inscritas": 33,
+      "Abordaron": 26.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL(AER)R2 PM",
+      "Inscritas": 33,
+      "Abordaron": 3.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL(AER)R3 AM",
+      "Inscritas": 19,
+      "Abordaron": 15.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL(AER)R3 PM",
+      "Inscritas": 19,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL(AER)R4 AM",
+      "Inscritas": 41,
+      "Abordaron": 32.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL(AER)R4 PM",
+      "Inscritas": 41,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL(AER)R5 AM",
+      "Inscritas": 21,
+      "Abordaron": 18.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL(AER)R5 PM",
+      "Inscritas": 21,
+      "Abordaron": 0.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "SUBA(AER)R1 AM",
+      "Inscritas": 23,
+      "Abordaron": 21.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "SUBA(AER)R1 PM",
+      "Inscritas": 23,
+      "Abordaron": 2.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "SUBA(AER)R2 AM",
+      "Inscritas": 13,
+      "Abordaron": 11.0
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "SUBA(AER)R2 PM",
+      "Inscritas": 13,
+      "Abordaron": 11.0
+    }
+  ],
+  "total_personas_inscritas": 547,
+  "total_personas_abordaron": 517,
+  "personas_vs_capacidad": [
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MADRID(AER)R7 PM",
+      "Abordaron": 1,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 2.44
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "MOSQUERA(ECOL)R1 AM",
+      "Abordaron": 9,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 21.95
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "ROSAL(AER)R3 AM",
+      "Abordaron": 11,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 26.83
+    },
+    {
+      "Fecha": "2025-12-08",
+      "Ruta": "ROSAL(AER)R4 AM",
+      "Abordaron": 41,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 100.0
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACATATIVA(AER)R1 AM",
+      "Abordaron": 13,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 31.71
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACATATIVA(AER)R2 AM",
+      "Abordaron": 22,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 53.66
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACATATIVA(AER)R2 PM",
+      "Abordaron": 19,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 46.34
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACATATIVA(AER)R3 AM",
+      "Abordaron": 26,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 63.41
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACATATIVA(AER)R3 PM",
+      "Abordaron": 14,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 34.15
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACATATIVA(AER)R4 AM",
+      "Abordaron": 25,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 60.98
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACATATIVA(AER)R4 PM",
+      "Abordaron": 4,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 9.76
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FACATATIVA(AER)R5 AM",
+      "Abordaron": 25,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 60.98
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FUNZA(ECOL)R1 AM",
+      "Abordaron": 19,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 46.34
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "FUNZA(ECOL)R1 PM",
+      "Abordaron": 2,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 4.88
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID(AER)R1 AM",
+      "Abordaron": 13,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 31.71
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID(AER)R2 AM",
+      "Abordaron": 14,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 34.15
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID(AER)R3 AM",
+      "Abordaron": 29,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 70.73
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID(AER)R4 AM",
+      "Abordaron": 26,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 63.41
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID(AER)R5 AM",
+      "Abordaron": 27,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 65.85
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID(AER)R6 AM",
+      "Abordaron": 26,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 63.41
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID(AER)R6 PM",
+      "Abordaron": 22,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 53.66
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID(AER)R7 AM",
+      "Abordaron": 26,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 63.41
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID(AER)R7 PM",
+      "Abordaron": 20,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 48.78
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MADRID(AER)R8 AM",
+      "Abordaron": 20,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 48.78
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MOSQUERA(ECOL)R1 AM",
+      "Abordaron": 20,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 48.78
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "MOSQUERA(ECOL)R1 PM",
+      "Abordaron": 21,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 51.22
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL(AER)R1 AM",
+      "Abordaron": 19,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 46.34
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL(AER)R2 AM",
+      "Abordaron": 29,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 70.73
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL(AER)R3 AM",
+      "Abordaron": 17,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 41.46
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL(AER)R4 AM",
+      "Abordaron": 37,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 90.24
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL(AER)R4 PM",
+      "Abordaron": 11,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 26.83
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "ROSAL(AER)R5 AM",
+      "Abordaron": 20,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 48.78
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "SUBA(AER)R1 AM",
+      "Abordaron": 22,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 53.66
+    },
+    {
+      "Fecha": "2025-12-09",
+      "Ruta": "SUBA(AER)R2 AM",
+      "Abordaron": 11,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 26.83
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACATATIVA(AER)R1 AM",
+      "Abordaron": 13,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 31.71
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACATATIVA(AER)R2 AM",
+      "Abordaron": 22,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 53.66
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACATATIVA(AER)R2 PM",
+      "Abordaron": 23,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 56.1
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACATATIVA(AER)R3 AM",
+      "Abordaron": 20,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 48.78
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACATATIVA(AER)R4 AM",
+      "Abordaron": 25,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 60.98
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FACATATIVA(AER)R5 AM",
+      "Abordaron": 27,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 65.85
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "FUNZA(ECOL)R1 AM",
+      "Abordaron": 18,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 43.9
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R1 AM",
+      "Abordaron": 13,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 31.71
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R1 PM",
+      "Abordaron": 6,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 14.63
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R2 AM",
+      "Abordaron": 15,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 36.59
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R3 AM",
+      "Abordaron": 30,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 73.17
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R4 AM",
+      "Abordaron": 25,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 60.98
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R4 PM",
+      "Abordaron": 1,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 2.44
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R5 AM",
+      "Abordaron": 27,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 65.85
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R6 AM",
+      "Abordaron": 26,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 63.41
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R7 AM",
+      "Abordaron": 24,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 58.54
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R7 PM",
+      "Abordaron": 21,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 51.22
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R8 AM",
+      "Abordaron": 19,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 46.34
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MADRID(AER)R8 PM",
+      "Abordaron": 7,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 17.07
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MOSQUERA(ECOL)R1 AM",
+      "Abordaron": 20,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 48.78
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "MOSQUERA(ECOL)R1 PM",
+      "Abordaron": 24,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 58.54
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL(AER)R1 AM",
+      "Abordaron": 19,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 46.34
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL(AER)R2 AM",
+      "Abordaron": 25,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 60.98
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL(AER)R3 AM",
+      "Abordaron": 18,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 43.9
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "ROSAL(AER)R5 AM",
+      "Abordaron": 18,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 43.9
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "SUBA(AER)R1 AM",
+      "Abordaron": 20,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 48.78
+    },
+    {
+      "Fecha": "2025-12-10",
+      "Ruta": "SUBA(AER)R2 AM",
+      "Abordaron": 10,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 24.39
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACATATIVA(AER)R1 AM",
+      "Abordaron": 14,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 34.15
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACATATIVA(AER)R2 AM",
+      "Abordaron": 21,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 51.22
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACATATIVA(AER)R2 PM",
+      "Abordaron": 2,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 4.88
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACATATIVA(AER)R3 AM",
+      "Abordaron": 25,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 60.98
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACATATIVA(AER)R4 AM",
+      "Abordaron": 25,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 60.98
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACATATIVA(AER)R4 PM",
+      "Abordaron": 20,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 48.78
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FACATATIVA(AER)R5 AM",
+      "Abordaron": 26,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 63.41
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FUNZA(ECOL)R1 AM",
+      "Abordaron": 18,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 43.9
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "FUNZA(ECOL)R1 PM",
+      "Abordaron": 2,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 4.88
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R1 AM",
+      "Abordaron": 13,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 31.71
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R2 AM",
+      "Abordaron": 15,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 36.59
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R3 AM",
+      "Abordaron": 27,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 65.85
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R3 PM",
+      "Abordaron": 26,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 63.41
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R4 AM",
+      "Abordaron": 24,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 58.54
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R5 AM",
+      "Abordaron": 29,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 70.73
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R6 AM",
+      "Abordaron": 25,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 60.98
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R6 PM",
+      "Abordaron": 23,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 56.1
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R7 AM",
+      "Abordaron": 25,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 60.98
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R7 PM",
+      "Abordaron": 23,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 56.1
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R8 AM",
+      "Abordaron": 20,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 48.78
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MADRID(AER)R8 PM",
+      "Abordaron": 9,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 21.95
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MOSQUERA(ECOL)R1 AM",
+      "Abordaron": 21,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 51.22
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "MOSQUERA(ECOL)R1 PM",
+      "Abordaron": 19,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 46.34
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL(AER)R1 AM",
+      "Abordaron": 19,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 46.34
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL(AER)R2 AM",
+      "Abordaron": 26,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 63.41
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL(AER)R2 PM",
+      "Abordaron": 3,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 7.32
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL(AER)R3 AM",
+      "Abordaron": 15,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 36.59
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL(AER)R4 AM",
+      "Abordaron": 32,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 78.05
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "ROSAL(AER)R5 AM",
+      "Abordaron": 18,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 43.9
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "SUBA(AER)R1 AM",
+      "Abordaron": 21,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 51.22
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "SUBA(AER)R1 PM",
+      "Abordaron": 2,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 4.88
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "SUBA(AER)R2 AM",
+      "Abordaron": 11,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 26.83
+    },
+    {
+      "Fecha": "2025-12-11",
+      "Ruta": "SUBA(AER)R2 PM",
+      "Abordaron": 11,
+      "Capacidad_estimada": 41,
+      "Porcentaje_ocupacion": 26.83
+    }
+  ],
+  "rutas_con_problemas": [
+    {
+      "Ruta": "MADRID(AER)R6 AM (000029)",
+      "Total_problemas": 12,
+      "Detalles": [
+        {
+          "Ruta": "MADRID(AER)R6 AM (000029)",
+          "Fecha": "2025-12-08",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R6 AM (000029)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R6 AM (000029)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R6 AM (000029)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID(AER)R6 PM (000029)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "MADRID(AER)R6 PM (000029)",
+          "Fecha": "2025-12-08",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R6 PM (000029)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R6 PM (000029)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID(AER)R7 PM (000030)",
+      "Total_problemas": 12,
+      "Detalles": [
+        {
+          "Ruta": "MADRID(AER)R7 PM (000030)",
+          "Fecha": "2025-12-08",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R7 PM (000030)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R7 PM (000030)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R7 PM (000030)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MOSQUERA(ECOL)R1 AM (000032)",
+      "Total_problemas": 12,
+      "Detalles": [
+        {
+          "Ruta": "MOSQUERA(ECOL)R1 AM (000032)",
+          "Fecha": "2025-12-08",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MOSQUERA(ECOL)R1 AM (000032)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MOSQUERA(ECOL)R1 AM (000032)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MOSQUERA(ECOL)R1 AM (000032)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MOSQUERA(ECOL)R1 PM (000032)",
+      "Total_problemas": 12,
+      "Detalles": [
+        {
+          "Ruta": "MOSQUERA(ECOL)R1 PM (000032)",
+          "Fecha": "2025-12-08",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MOSQUERA(ECOL)R1 PM (000032)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MOSQUERA(ECOL)R1 PM (000032)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MOSQUERA(ECOL)R1 PM (000032)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "ROSAL(AER)R3 AM (000035)",
+      "Total_problemas": 12,
+      "Detalles": [
+        {
+          "Ruta": "ROSAL(AER)R3 AM (000035)",
+          "Fecha": "2025-12-08",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL(AER)R3 AM (000035)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL(AER)R3 AM (000035)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL(AER)R3 AM (000035)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "ROSAL(AER)R3 PM (000035)",
+      "Total_problemas": 3,
+      "Detalles": [
+        {
+          "Ruta": "ROSAL(AER)R3 PM (000035)",
+          "Fecha": "2025-12-08",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "ROSAL(AER)R4 AM (000036)",
+      "Total_problemas": 12,
+      "Detalles": [
+        {
+          "Ruta": "ROSAL(AER)R4 AM (000036)",
+          "Fecha": "2025-12-08",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL(AER)R4 AM (000036)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL(AER)R4 AM (000036)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL(AER)R4 AM (000036)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "ROSAL(AER)R4 PM (000036)",
+      "Total_problemas": 12,
+      "Detalles": [
+        {
+          "Ruta": "ROSAL(AER)R4 PM (000036)",
+          "Fecha": "2025-12-08",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL(AER)R4 PM (000036)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL(AER)R4 PM (000036)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL(AER)R4 PM (000036)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "SUBA(AER)R2 PM (000039)",
+      "Total_problemas": 6,
+      "Detalles": [
+        {
+          "Ruta": "SUBA(AER)R2 PM (000039)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "SUBA(AER)R2 PM (000039)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "SUBA(AER)R2 AM (000039)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "SUBA(AER)R2 AM (000039)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "SUBA(AER)R2 AM (000039)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "SUBA(AER)R2 AM (000039)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "SUBA(AER)R1 PM (000038)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "SUBA(AER)R1 PM (000038)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "SUBA(AER)R1 PM (000038)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "SUBA(AER)R1 PM (000038)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "SUBA(AER)R1 AM (000038)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "SUBA(AER)R1 AM (000038)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "SUBA(AER)R1 AM (000038)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "SUBA(AER)R1 AM (000038)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "ROSAL(AER)R5 PM (000037)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "ROSAL(AER)R5 PM (000037)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL(AER)R5 PM (000037)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL(AER)R5 PM (000037)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "FACATATIVA(AER)R1 AM (000018)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "FACATATIVA(AER)R1 AM (000018)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACATATIVA(AER)R1 AM (000018)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACATATIVA(AER)R1 AM (000018)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "FACATATIVA(AER)R2 AM (000019)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "FACATATIVA(AER)R2 AM (000019)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACATATIVA(AER)R2 AM (000019)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACATATIVA(AER)R2 AM (000019)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "FACATATIVA(AER)R2 PM (000019)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "FACATATIVA(AER)R2 PM (000019)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACATATIVA(AER)R2 PM (000019)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACATATIVA(AER)R2 PM (000019)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "FACATATIVA(AER)R3 AM (000020)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "FACATATIVA(AER)R3 AM (000020)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACATATIVA(AER)R3 AM (000020)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACATATIVA(AER)R3 AM (000020)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "FACATATIVA(AER)R3 PM (000020)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "FACATATIVA(AER)R3 PM (000020)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACATATIVA(AER)R3 PM (000020)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACATATIVA(AER)R3 PM (000020)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "FACATATIVA(AER)R4 AM (000021)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "FACATATIVA(AER)R4 AM (000021)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACATATIVA(AER)R4 AM (000021)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACATATIVA(AER)R4 AM (000021)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "FACATATIVA(AER)R4 PM (000021)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "FACATATIVA(AER)R4 PM (000021)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACATATIVA(AER)R4 PM (000021)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACATATIVA(AER)R4 PM (000021)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "FACATATIVA(AER)R5 AM (000022)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "FACATATIVA(AER)R5 AM (000022)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACATATIVA(AER)R5 AM (000022)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACATATIVA(AER)R5 AM (000022)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "FUNZA(ECOL)R1 AM (000023)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "FUNZA(ECOL)R1 AM (000023)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FUNZA(ECOL)R1 AM (000023)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FUNZA(ECOL)R1 AM (000023)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "FUNZA(ECOL)R1 PM (000023)",
+      "Total_problemas": 6,
+      "Detalles": [
+        {
+          "Ruta": "FUNZA(ECOL)R1 PM (000023)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FUNZA(ECOL)R1 PM (000023)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID(AER)R1 AM (000024)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "MADRID(AER)R1 AM (000024)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R1 AM (000024)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R1 AM (000024)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID(AER)R3 AM (000026)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "MADRID(AER)R3 AM (000026)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R3 AM (000026)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R3 AM (000026)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID(AER)R2 AM (000025)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "MADRID(AER)R2 AM (000025)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R2 AM (000025)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R2 AM (000025)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID(AER)R4 AM (000027)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "MADRID(AER)R4 AM (000027)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R4 AM (000027)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R4 AM (000027)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID(AER)R4 PM (000027)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "MADRID(AER)R4 PM (000027)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R4 PM (000027)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R4 PM (000027)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID(AER)R5 AM (000028)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "MADRID(AER)R5 AM (000028)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R5 AM (000028)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R5 AM (000028)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID(AER)R5 PM (000028)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "MADRID(AER)R5 PM (000028)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R5 PM (000028)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R5 PM (000028)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID(AER)R7 AM (000030)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "MADRID(AER)R7 AM (000030)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R7 AM (000030)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R7 AM (000030)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID(AER)R8 AM (000031)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "MADRID(AER)R8 AM (000031)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R8 AM (000031)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R8 AM (000031)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID(AER)R8 PM (000031)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "MADRID(AER)R8 PM (000031)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R8 PM (000031)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R8 PM (000031)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "ROSAL(AER)R1 AM (000033)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "ROSAL(AER)R1 AM (000033)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL(AER)R1 AM (000033)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL(AER)R1 AM (000033)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "ROSAL(AER)R1 PM (000033)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "ROSAL(AER)R1 PM (000033)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL(AER)R1 PM (000033)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL(AER)R1 PM (000033)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "ROSAL(AER)R2 AM (000034)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "ROSAL(AER)R2 AM (000034)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL(AER)R2 AM (000034)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL(AER)R2 AM (000034)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "ROSAL(AER)R2 PM (000034)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "ROSAL(AER)R2 PM (000034)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL(AER)R2 PM (000034)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL(AER)R2 PM (000034)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "ROSAL(AER)R5 AM (000037)",
+      "Total_problemas": 9,
+      "Detalles": [
+        {
+          "Ruta": "ROSAL(AER)R5 AM (000037)",
+          "Fecha": "2025-12-09",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL(AER)R5 AM (000037)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "ROSAL(AER)R5 AM (000037)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "FACATATIVA(AER)R5 PM (000022)",
+      "Total_problemas": 6,
+      "Detalles": [
+        {
+          "Ruta": "FACATATIVA(AER)R5 PM (000022)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "FACATATIVA(AER)R5 PM (000022)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID(AER)R1 PM (000024)",
+      "Total_problemas": 3,
+      "Detalles": [
+        {
+          "Ruta": "MADRID(AER)R1 PM (000024)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID(AER)R3 PM (000026)",
+      "Total_problemas": 6,
+      "Detalles": [
+        {
+          "Ruta": "MADRID(AER)R3 PM (000026)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R3 PM (000026)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "MADRID(AER)R2 PM (000025)",
+      "Total_problemas": 6,
+      "Detalles": [
+        {
+          "Ruta": "MADRID(AER)R2 PM (000025)",
+          "Fecha": "2025-12-10",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        },
+        {
+          "Ruta": "MADRID(AER)R2 PM (000025)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    },
+    {
+      "Ruta": "FACATATIVA(AER)R1 PM (000018)",
+      "Total_problemas": 3,
+      "Detalles": [
+        {
+          "Ruta": "FACATATIVA(AER)R1 PM (000018)",
+          "Fecha": "2025-12-11",
+          "Problemas": [
+            "Iniciada incorrectamente",
+            "Finalizada incorrectamente",
+            "Mala marcación"
+          ],
+          "Cantidad_problemas": 3
+        }
+      ]
+    }
+  ],
+  "rutas_creadas": 44,
+  "rutas_iniciadas": 44,
+  "rutas_iniciadas_detalle": [
+    {
+      "Ruta": "MADRID(AER)R6 AM (000029)"
+    },
+    {
+      "Ruta": "MADRID(AER)R6 PM (000029)"
+    },
+    {
+      "Ruta": "MADRID(AER)R7 PM (000030)"
+    },
+    {
+      "Ruta": "MOSQUERA(ECOL)R1 AM (000032)"
+    },
+    {
+      "Ruta": "MOSQUERA(ECOL)R1 PM (000032)"
+    },
+    {
+      "Ruta": "ROSAL(AER)R3 AM (000035)"
+    },
+    {
+      "Ruta": "ROSAL(AER)R3 PM (000035)"
+    },
+    {
+      "Ruta": "ROSAL(AER)R4 AM (000036)"
+    },
+    {
+      "Ruta": "ROSAL(AER)R4 PM (000036)"
+    },
+    {
+      "Ruta": "SUBA(AER)R2 PM (000039)"
+    },
+    {
+      "Ruta": "SUBA(AER)R2 AM (000039)"
+    },
+    {
+      "Ruta": "SUBA(AER)R1 PM (000038)"
+    },
+    {
+      "Ruta": "SUBA(AER)R1 AM (000038)"
+    },
+    {
+      "Ruta": "ROSAL(AER)R5 PM (000037)"
+    },
+    {
+      "Ruta": "FACATATIVA(AER)R1 AM (000018)"
+    },
+    {
+      "Ruta": "FACATATIVA(AER)R2 AM (000019)"
+    },
+    {
+      "Ruta": "FACATATIVA(AER)R2 PM (000019)"
+    },
+    {
+      "Ruta": "FACATATIVA(AER)R3 AM (000020)"
+    },
+    {
+      "Ruta": "FACATATIVA(AER)R3 PM (000020)"
+    },
+    {
+      "Ruta": "FACATATIVA(AER)R4 AM (000021)"
+    },
+    {
+      "Ruta": "FACATATIVA(AER)R4 PM (000021)"
+    },
+    {
+      "Ruta": "FACATATIVA(AER)R5 AM (000022)"
+    },
+    {
+      "Ruta": "FUNZA(ECOL)R1 AM (000023)"
+    },
+    {
+      "Ruta": "FUNZA(ECOL)R1 PM (000023)"
+    },
+    {
+      "Ruta": "MADRID(AER)R1 AM (000024)"
+    },
+    {
+      "Ruta": "MADRID(AER)R3 AM (000026)"
+    },
+    {
+      "Ruta": "MADRID(AER)R2 AM (000025)"
+    },
+    {
+      "Ruta": "MADRID(AER)R4 AM (000027)"
+    },
+    {
+      "Ruta": "MADRID(AER)R4 PM (000027)"
+    },
+    {
+      "Ruta": "MADRID(AER)R5 AM (000028)"
+    },
+    {
+      "Ruta": "MADRID(AER)R5 PM (000028)"
+    },
+    {
+      "Ruta": "MADRID(AER)R7 AM (000030)"
+    },
+    {
+      "Ruta": "MADRID(AER)R8 AM (000031)"
+    },
+    {
+      "Ruta": "MADRID(AER)R8 PM (000031)"
+    },
+    {
+      "Ruta": "ROSAL(AER)R1 AM (000033)"
+    },
+    {
+      "Ruta": "ROSAL(AER)R1 PM (000033)"
+    },
+    {
+      "Ruta": "ROSAL(AER)R2 AM (000034)"
+    },
+    {
+      "Ruta": "ROSAL(AER)R2 PM (000034)"
+    },
+    {
+      "Ruta": "ROSAL(AER)R5 AM (000037)"
+    },
+    {
+      "Ruta": "FACATATIVA(AER)R5 PM (000022)"
+    },
+    {
+      "Ruta": "MADRID(AER)R1 PM (000024)"
+    },
+    {
+      "Ruta": "MADRID(AER)R3 PM (000026)"
+    },
+    {
+      "Ruta": "MADRID(AER)R2 PM (000025)"
+    },
+    {
+      "Ruta": "FACATATIVA(AER)R1 PM (000018)"
+    }
+  ],
+  "personas_llegaron": 207,
+  "personas_se_fueron": 514,
+  "pasajeros_adicionales": {
+    "Total": 70,
+    "Por_ruta": [
+      {
+        "Fecha": "2025-12-08",
+        "No. Ruta": "MADRID(AER)R7 PM",
+        "Cantidad": 1
+      },
+      {
+        "Fecha": "2025-12-09",
+        "No. Ruta": "FACATATIVA(AER)R4 PM",
+        "Cantidad": 4
+      },
+      {
+        "Fecha": "2025-12-09",
+        "No. Ruta": "FUNZA(ECOL)R1 AM",
+        "Cantidad": 2
+      },
+      {
+        "Fecha": "2025-12-09",
+        "No. Ruta": "FUNZA(ECOL)R1 PM",
+        "Cantidad": 2
+      },
+      {
+        "Fecha": "2025-12-09",
+        "No. Ruta": "MADRID(AER)R4 AM",
+        "Cantidad": 2
+      },
+      {
+        "Fecha": "2025-12-09",
+        "No. Ruta": "MADRID(AER)R5 AM",
+        "Cantidad": 2
+      },
+      {
+        "Fecha": "2025-12-10",
+        "No. Ruta": "FUNZA(ECOL)R1 AM",
+        "Cantidad": 2
+      },
+      {
+        "Fecha": "2025-12-10",
+        "No. Ruta": "MADRID(AER)R1 PM",
+        "Cantidad": 6
+      },
+      {
+        "Fecha": "2025-12-10",
+        "No. Ruta": "MADRID(AER)R3 AM",
+        "Cantidad": 3
+      },
+      {
+        "Fecha": "2025-12-10",
+        "No. Ruta": "MADRID(AER)R4 AM",
+        "Cantidad": 1
+      },
+      {
+        "Fecha": "2025-12-10",
+        "No. Ruta": "MADRID(AER)R4 PM",
+        "Cantidad": 1
+      },
+      {
+        "Fecha": "2025-12-10",
+        "No. Ruta": "MADRID(AER)R5 AM",
+        "Cantidad": 2
+      },
+      {
+        "Fecha": "2025-12-10",
+        "No. Ruta": "MADRID(AER)R8 PM",
+        "Cantidad": 7
+      },
+      {
+        "Fecha": "2025-12-10",
+        "No. Ruta": "MOSQUERA(ECOL)R1 PM",
+        "Cantidad": 11
+      },
+      {
+        "Fecha": "2025-12-11",
+        "No. Ruta": "FACATATIVA(AER)R2 PM",
+        "Cantidad": 2
+      },
+      {
+        "Fecha": "2025-12-11",
+        "No. Ruta": "FUNZA(ECOL)R1 AM",
+        "Cantidad": 2
+      },
+      {
+        "Fecha": "2025-12-11",
+        "No. Ruta": "FUNZA(ECOL)R1 PM",
+        "Cantidad": 2
+      },
+      {
+        "Fecha": "2025-12-11",
+        "No. Ruta": "MADRID(AER)R3 AM",
+        "Cantidad": 3
+      },
+      {
+        "Fecha": "2025-12-11",
+        "No. Ruta": "MADRID(AER)R3 PM",
+        "Cantidad": 5
+      },
+      {
+        "Fecha": "2025-12-11",
+        "No. Ruta": "MADRID(AER)R5 AM",
+        "Cantidad": 1
+      },
+      {
+        "Fecha": "2025-12-11",
+        "No. Ruta": "MADRID(AER)R8 PM",
+        "Cantidad": 9
+      }
+    ]
+  },
+  "promedio_tiempo_viaje": {
+    "Promedio_minutos": 30.96,
+    "Por_ruta": [
+      {
+        "Ruta": "MADRID(AER)R6 PM (000029)",
+        "Fecha inicio": "2025-12-08",
+        "Tiempo total ruta": "00:54:18",
+        "Tiempo_minutos": 54.3
+      },
+      {
+        "Ruta": "MOSQUERA(ECOL)R1 PM (000032)",
+        "Fecha inicio": "2025-12-08",
+        "Tiempo total ruta": "00:02:06",
+        "Tiempo_minutos": 2.1
+      },
+      {
+        "Ruta": "ROSAL(AER)R3 PM (000035)",
+        "Fecha inicio": "2025-12-08",
+        "Tiempo total ruta": "00:02:48",
+        "Tiempo_minutos": 2.8
+      },
+      {
+        "Ruta": "ROSAL(AER)R4 AM (000036)",
+        "Fecha inicio": "2025-12-08",
+        "Tiempo total ruta": "00:40:16",
+        "Tiempo_minutos": 40.266666666666666
+      },
+      {
+        "Ruta": "ROSAL(AER)R4 PM (000036)",
+        "Fecha inicio": "2025-12-08",
+        "Tiempo total ruta": "00:00:10",
+        "Tiempo_minutos": 0.16666666666666666
+      },
+      {
+        "Ruta": "SUBA(AER)R1 PM (000038)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:03:16",
+        "Tiempo_minutos": 3.2666666666666666
+      },
+      {
+        "Ruta": "SUBA(AER)R1 AM (000038)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:36:21",
+        "Tiempo_minutos": 36.35
+      },
+      {
+        "Ruta": "ROSAL(AER)R5 PM (000037)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:00:24",
+        "Tiempo_minutos": 0.4
+      },
+      {
+        "Ruta": "FACATATIVA(AER)R2 AM (000019)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:55:37",
+        "Tiempo_minutos": 55.61666666666667
+      },
+      {
+        "Ruta": "FACATATIVA(AER)R2 PM (000019)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:00:16",
+        "Tiempo_minutos": 0.26666666666666666
+      },
+      {
+        "Ruta": "FACATATIVA(AER)R3 AM (000020)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:56:56",
+        "Tiempo_minutos": 56.93333333333333
+      },
+      {
+        "Ruta": "FACATATIVA(AER)R3 PM (000020)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:36:58",
+        "Tiempo_minutos": 36.96666666666667
+      },
+      {
+        "Ruta": "FACATATIVA(AER)R4 AM (000021)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:12:37",
+        "Tiempo_minutos": 12.616666666666667
+      },
+      {
+        "Ruta": "FACATATIVA(AER)R5 AM (000022)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:39:35",
+        "Tiempo_minutos": 39.583333333333336
+      },
+      {
+        "Ruta": "FUNZA(ECOL)R1 PM (000023)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:25:28",
+        "Tiempo_minutos": 25.466666666666665
+      },
+      {
+        "Ruta": "MADRID(AER)R1 AM (000024)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:38:04",
+        "Tiempo_minutos": 38.06666666666667
+      },
+      {
+        "Ruta": "MADRID(AER)R3 AM (000026)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:30:10",
+        "Tiempo_minutos": 30.166666666666668
+      },
+      {
+        "Ruta": "MADRID(AER)R2 AM (000025)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:51:46",
+        "Tiempo_minutos": 51.766666666666666
+      },
+      {
+        "Ruta": "MADRID(AER)R4 AM (000027)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:50:03",
+        "Tiempo_minutos": 50.05
+      },
+      {
+        "Ruta": "MADRID(AER)R4 PM (000027)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:30:31",
+        "Tiempo_minutos": 30.516666666666666
+      },
+      {
+        "Ruta": "MADRID(AER)R5 AM (000028)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:51:33",
+        "Tiempo_minutos": 51.55
+      },
+      {
+        "Ruta": "MADRID(AER)R5 PM (000028)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:43:25",
+        "Tiempo_minutos": 43.416666666666664
+      },
+      {
+        "Ruta": "MADRID(AER)R6 AM (000029)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:45:20",
+        "Tiempo_minutos": 45.333333333333336
+      },
+      {
+        "Ruta": "MADRID(AER)R6 PM (000029)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:00:36",
+        "Tiempo_minutos": 0.6
+      },
+      {
+        "Ruta": "MADRID(AER)R7 AM (000030)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:06:25",
+        "Tiempo_minutos": 6.416666666666667
+      },
+      {
+        "Ruta": "MADRID(AER)R7 PM (000030)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:00:03",
+        "Tiempo_minutos": 0.05
+      },
+      {
+        "Ruta": "MADRID(AER)R8 AM (000031)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:39:39",
+        "Tiempo_minutos": 39.65
+      },
+      {
+        "Ruta": "MADRID(AER)R8 PM (000031)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:04:55",
+        "Tiempo_minutos": 4.916666666666667
+      },
+      {
+        "Ruta": "MOSQUERA(ECOL)R1 AM (000032)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "01:07:43",
+        "Tiempo_minutos": 67.71666666666667
+      },
+      {
+        "Ruta": "MOSQUERA(ECOL)R1 PM (000032)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:51:44",
+        "Tiempo_minutos": 51.733333333333334
+      },
+      {
+        "Ruta": "ROSAL(AER)R1 AM (000033)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:25:37",
+        "Tiempo_minutos": 25.616666666666667
+      },
+      {
+        "Ruta": "ROSAL(AER)R1 PM (000033)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:05:45",
+        "Tiempo_minutos": 5.75
+      },
+      {
+        "Ruta": "ROSAL(AER)R2 AM (000034)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:44:46",
+        "Tiempo_minutos": 44.766666666666666
+      },
+      {
+        "Ruta": "ROSAL(AER)R2 PM (000034)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:00:54",
+        "Tiempo_minutos": 0.9
+      },
+      {
+        "Ruta": "ROSAL(AER)R3 AM (000035)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:10:12",
+        "Tiempo_minutos": 10.2
+      },
+      {
+        "Ruta": "ROSAL(AER)R4 PM (000036)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:00:11",
+        "Tiempo_minutos": 0.18333333333333332
+      },
+      {
+        "Ruta": "ROSAL(AER)R5 AM (000037)",
+        "Fecha inicio": "2025-12-09",
+        "Tiempo total ruta": "00:39:36",
+        "Tiempo_minutos": 39.6
+      },
+      {
+        "Ruta": "SUBA(AER)R1 PM (000038)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:14:50",
+        "Tiempo_minutos": 14.833333333333334
+      },
+      {
+        "Ruta": "SUBA(AER)R1 AM (000038)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:35:08",
+        "Tiempo_minutos": 35.13333333333333
+      },
+      {
+        "Ruta": "ROSAL(AER)R5 PM (000037)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:43:45",
+        "Tiempo_minutos": 43.75
+      },
+      {
+        "Ruta": "FACATATIVA(AER)R1 AM (000018)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:49:24",
+        "Tiempo_minutos": 49.4
+      },
+      {
+        "Ruta": "FACATATIVA(AER)R2 AM (000019)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:52:43",
+        "Tiempo_minutos": 52.71666666666667
+      },
+      {
+        "Ruta": "FACATATIVA(AER)R2 PM (000019)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:03:19",
+        "Tiempo_minutos": 3.3166666666666664
+      },
+      {
+        "Ruta": "FACATATIVA(AER)R3 AM (000020)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:54:36",
+        "Tiempo_minutos": 54.6
+      },
+      {
+        "Ruta": "FACATATIVA(AER)R3 PM (000020)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "02:42:25",
+        "Tiempo_minutos": 162.41666666666666
+      },
+      {
+        "Ruta": "FACATATIVA(AER)R4 AM (000021)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:16:48",
+        "Tiempo_minutos": 16.8
+      },
+      {
+        "Ruta": "FACATATIVA(AER)R5 AM (000022)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:39:58",
+        "Tiempo_minutos": 39.96666666666667
+      },
+      {
+        "Ruta": "FACATATIVA(AER)R5 PM (000022)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:00:05",
+        "Tiempo_minutos": 0.08333333333333333
+      },
+      {
+        "Ruta": "FUNZA(ECOL)R1 AM (000023)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:49:37",
+        "Tiempo_minutos": 49.61666666666667
+      },
+      {
+        "Ruta": "MADRID(AER)R1 AM (000024)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:44:56",
+        "Tiempo_minutos": 44.93333333333333
+      },
+      {
+        "Ruta": "MADRID(AER)R1 PM (000024)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:46:50",
+        "Tiempo_minutos": 46.833333333333336
+      },
+      {
+        "Ruta": "MADRID(AER)R2 AM (000025)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "01:06:52",
+        "Tiempo_minutos": 66.86666666666666
+      },
+      {
+        "Ruta": "MADRID(AER)R2 PM (000025)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:00:46",
+        "Tiempo_minutos": 0.7666666666666667
+      },
+      {
+        "Ruta": "MADRID(AER)R4 PM (000027)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:42:44",
+        "Tiempo_minutos": 42.733333333333334
+      },
+      {
+        "Ruta": "MADRID(AER)R5 AM (000028)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:50:58",
+        "Tiempo_minutos": 50.96666666666667
+      },
+      {
+        "Ruta": "MADRID(AER)R5 PM (000028)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:07:17",
+        "Tiempo_minutos": 7.283333333333333
+      },
+      {
+        "Ruta": "MADRID(AER)R6 AM (000029)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:48:17",
+        "Tiempo_minutos": 48.28333333333333
+      },
+      {
+        "Ruta": "MADRID(AER)R7 AM (000030)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:41:14",
+        "Tiempo_minutos": 41.233333333333334
+      },
+      {
+        "Ruta": "MADRID(AER)R7 PM (000030)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:00:18",
+        "Tiempo_minutos": 0.3
+      },
+      {
+        "Ruta": "MADRID(AER)R8 AM (000031)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:35:38",
+        "Tiempo_minutos": 35.63333333333333
+      },
+      {
+        "Ruta": "MADRID(AER)R8 PM (000031)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:02:30",
+        "Tiempo_minutos": 2.5
+      },
+      {
+        "Ruta": "MOSQUERA(ECOL)R1 PM (000032)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:50:18",
+        "Tiempo_minutos": 50.3
+      },
+      {
+        "Ruta": "ROSAL(AER)R1 AM (000033)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:29:48",
+        "Tiempo_minutos": 29.8
+      },
+      {
+        "Ruta": "ROSAL(AER)R1 PM (000033)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:00:07",
+        "Tiempo_minutos": 0.11666666666666667
+      },
+      {
+        "Ruta": "ROSAL(AER)R2 AM (000034)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:49:11",
+        "Tiempo_minutos": 49.18333333333333
+      },
+      {
+        "Ruta": "ROSAL(AER)R2 PM (000034)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:00:09",
+        "Tiempo_minutos": 0.15
+      },
+      {
+        "Ruta": "ROSAL(AER)R3 AM (000035)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:09:56",
+        "Tiempo_minutos": 9.933333333333334
+      },
+      {
+        "Ruta": "ROSAL(AER)R4 AM (000036)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:00:29",
+        "Tiempo_minutos": 0.48333333333333334
+      },
+      {
+        "Ruta": "ROSAL(AER)R4 PM (000036)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:30:38",
+        "Tiempo_minutos": 30.633333333333333
+      },
+      {
+        "Ruta": "ROSAL(AER)R5 AM (000037)",
+        "Fecha inicio": "2025-12-10",
+        "Tiempo total ruta": "00:40:47",
+        "Tiempo_minutos": 40.78333333333333
+      },
+      {
+        "Ruta": "SUBA(AER)R1 PM (000038)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:03:55",
+        "Tiempo_minutos": 3.9166666666666665
+      },
+      {
+        "Ruta": "SUBA(AER)R1 AM (000038)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:36:53",
+        "Tiempo_minutos": 36.88333333333333
+      },
+      {
+        "Ruta": "ROSAL(AER)R5 PM (000037)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:00:40",
+        "Tiempo_minutos": 0.6666666666666666
+      },
+      {
+        "Ruta": "FACATATIVA(AER)R1 AM (000018)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:49:43",
+        "Tiempo_minutos": 49.71666666666667
+      },
+      {
+        "Ruta": "FACATATIVA(AER)R1 PM (000018)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:33:03",
+        "Tiempo_minutos": 33.05
+      },
+      {
+        "Ruta": "FACATATIVA(AER)R2 PM (000019)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:01:05",
+        "Tiempo_minutos": 1.0833333333333333
+      },
+      {
+        "Ruta": "FACATATIVA(AER)R3 AM (000020)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "01:00:12",
+        "Tiempo_minutos": 60.2
+      },
+      {
+        "Ruta": "FACATATIVA(AER)R3 PM (000020)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "01:31:42",
+        "Tiempo_minutos": 91.7
+      },
+      {
+        "Ruta": "FACATATIVA(AER)R4 AM (000021)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:12:02",
+        "Tiempo_minutos": 12.033333333333333
+      },
+      {
+        "Ruta": "FACATATIVA(AER)R4 PM (000021)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:01:12",
+        "Tiempo_minutos": 1.2
+      },
+      {
+        "Ruta": "FACATATIVA(AER)R5 PM (000022)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:45:06",
+        "Tiempo_minutos": 45.1
+      },
+      {
+        "Ruta": "MADRID(AER)R1 AM (000024)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:37:44",
+        "Tiempo_minutos": 37.733333333333334
+      },
+      {
+        "Ruta": "MADRID(AER)R3 PM (000026)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:07:08",
+        "Tiempo_minutos": 7.133333333333334
+      },
+      {
+        "Ruta": "MADRID(AER)R2 AM (000025)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:54:33",
+        "Tiempo_minutos": 54.55
+      },
+      {
+        "Ruta": "MADRID(AER)R2 PM (000025)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:00:04",
+        "Tiempo_minutos": 0.06666666666666667
+      },
+      {
+        "Ruta": "MADRID(AER)R4 AM (000027)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:56:30",
+        "Tiempo_minutos": 56.5
+      },
+      {
+        "Ruta": "MADRID(AER)R4 PM (000027)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:31:17",
+        "Tiempo_minutos": 31.283333333333335
+      },
+      {
+        "Ruta": "MADRID(AER)R5 AM (000028)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:54:47",
+        "Tiempo_minutos": 54.78333333333333
+      },
+      {
+        "Ruta": "MADRID(AER)R5 PM (000028)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:00:15",
+        "Tiempo_minutos": 0.25
+      },
+      {
+        "Ruta": "MADRID(AER)R6 AM (000029)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:44:33",
+        "Tiempo_minutos": 44.55
+      },
+      {
+        "Ruta": "MADRID(AER)R6 PM (000029)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:00:01",
+        "Tiempo_minutos": 0.016666666666666666
+      },
+      {
+        "Ruta": "MADRID(AER)R7 AM (000030)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:07:00",
+        "Tiempo_minutos": 7.0
+      },
+      {
+        "Ruta": "MADRID(AER)R7 PM (000030)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:44:18",
+        "Tiempo_minutos": 44.3
+      },
+      {
+        "Ruta": "MADRID(AER)R8 AM (000031)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:43:07",
+        "Tiempo_minutos": 43.11666666666667
+      },
+      {
+        "Ruta": "MOSQUERA(ECOL)R1 AM (000032)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "01:03:12",
+        "Tiempo_minutos": 63.2
+      },
+      {
+        "Ruta": "ROSAL(AER)R1 PM (000033)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "01:37:44",
+        "Tiempo_minutos": 97.73333333333333
+      },
+      {
+        "Ruta": "ROSAL(AER)R2 AM (000034)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:45:50",
+        "Tiempo_minutos": 45.833333333333336
+      },
+      {
+        "Ruta": "ROSAL(AER)R2 PM (000034)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:01:32",
+        "Tiempo_minutos": 1.5333333333333332
+      },
+      {
+        "Ruta": "ROSAL(AER)R3 AM (000035)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:08:34",
+        "Tiempo_minutos": 8.566666666666666
+      },
+      {
+        "Ruta": "ROSAL(AER)R4 AM (000036)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:24:20",
+        "Tiempo_minutos": 24.333333333333332
+      },
+      {
+        "Ruta": "ROSAL(AER)R4 PM (000036)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:35:23",
+        "Tiempo_minutos": 35.38333333333333
+      },
+      {
+        "Ruta": "ROSAL(AER)R5 AM (000037)",
+        "Fecha inicio": "2025-12-11",
+        "Tiempo total ruta": "00:35:49",
+        "Tiempo_minutos": 35.81666666666667
+      }
+    ]
+  },
+  "por_fecha": {
+    "2025-12-08": {
+      "inscritas": 547,
+      "abordaron": 62,
+      "llegaron": 0,
+      "se_fueron": 61,
+      "pasajeros_extra": 1
+    },
+    "2025-12-09": {
+      "inscritas": 547,
+      "abordaron": 489,
+      "llegaron": 108,
+      "se_fueron": 486,
+      "pasajeros_extra": 12
+    },
+    "2025-12-10": {
+      "inscritas": 547,
+      "abordaron": 439,
+      "llegaron": 73,
+      "se_fueron": 434,
+      "pasajeros_extra": 33
+    },
+    "2025-12-11": {
+      "inscritas": 547,
+      "abordaron": 472,
+      "llegaron": 131,
+      "se_fueron": 470,
+      "pasajeros_extra": 24
+    }
+  }
+}
