@@ -19,12 +19,20 @@ function Welcome() {
         <div className="fincas-selection">
           <h2>Selecciona una Finca para Ver sus Métricas</h2>
           <div className="fincas-grid">
-            <Link to="/laureles" className="finca-card laureles">
+            <Link 
+              to="/laureles" 
+              className="finca-card laureles"
+              onClick={() => console.log('Navegando a /laureles')}
+            >
               <div className="finca-icon">🌿</div>
               <h3>Finca Laureles</h3>
               <p>Ver métricas y análisis de Finca Laureles</p>
             </Link>
-            <Link to="/yarumo" className="finca-card yarumo">
+            <Link 
+              to="/yarumo" 
+              className="finca-card yarumo"
+              onClick={() => console.log('Navegando a /yarumo')}
+            >
               <div className="finca-icon">🌳</div>
               <h3>Finca Yarumo</h3>
               <p>Ver métricas y análisis de Finca Yarumo</p>
