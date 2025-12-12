@@ -75,8 +75,9 @@ function FincaDashboard({ finca }) {
 
   // Obtener fechas disponibles
   const availableDates = useMemo(() => {
-    if (!metrics.por_fecha) return []
-    return Object.keys(metrics.por_fecha).sort()
+    if (!metrics || !metrics.por_fecha) return []
+    const dates = Object.keys(metrics.por_fecha).sort()
+    return dates
   }, [metrics])
 
   // Filtrar datos por fecha seleccionada
@@ -121,7 +122,7 @@ function FincaDashboard({ finca }) {
 
   // Identificar si el lunes (2025-12-08) tiene pocos datos (fue festivo)
   const mondayDate = '2025-12-08'
-  const mondayData = metrics.por_fecha?.[mondayDate]
+  const mondayData = metrics?.por_fecha?.[mondayDate]
   const isMondayHoliday = mondayData && mondayData.abordaron < 100 // Si tiene menos de 100 abordaron, probablemente fue festivo
 
   return (
