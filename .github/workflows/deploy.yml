@@ -46,12 +46,8 @@ jobs:
       - name: Build
         run: npm run build
 
-      - name: Generate 404.html from index.html
-        run: |
-          # Crear 404.html basado en index.html con script de redirección
-          cp dist/index.html dist/404.html
-          # Agregar script de redirección antes del cierre de </head>
-          sed -i 's|</head>|<script>var path=window.location.pathname;var basePath="/InformesSunshine";if(!path.endsWith("/index.html")&&path.startsWith(basePath)){var route=path.replace(basePath,"")||"/";window.history.replaceState(null,"",basePath+"/index.html");sessionStorage.setItem("redirectRoute",route);}</script></head>|g' dist/404.html
+      - name: Generate 404.html for GitHub Pages
+        run: node update_404.js
 
       - name: Verify build output
         run: |

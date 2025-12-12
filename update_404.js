@@ -1,34 +1,35 @@
-import fs from 'fs'
-import { fileURLToPath } from 'url'
-import { dirname, join } from 'path'
-
-const __filename = fileURLToPath(import.meta.url)
-const __dirname = dirname(__filename)
+const fs = require('fs')
+const path = require('path')
 
 // Leer el index.html generado
-const indexHtml = fs.readFileSync(join(__dirname, 'dist/index.html'), 'utf-8')
+const indexHtmlPath = path.join(__dirname, 'dist/index.html')
+const indexHtml = fs.readFileSync(indexHtmlPath, 'utf-8')
 
-// Extraer los nombres de archivos de assets usando regex
-const jsMatch = indexHtml.match(/src="([^"]*\.js)"/)
-const cssMatch = indexHtml.match(/href="([^"]*\.css)"/)
+// Script de redirección para GitHub Pages
+const redirectScript = `
+    <script>
+      // GitHub Pages 404 handler - Redirigir a index.html manteniendo la ruta
+      (function() {
+        var path = window.location.pathname;
+        var basePath = '/InformesSunshine';
+        
+        // Si estamos en una ruta que no es index.html, redirigir
+        if (!path.endsWith('/index.html') && path.startsWith(basePath)) {
+          var route = path.replace(basePath, '') || '/';
+          // Redirigir a index.html y luego React Router manejará la ruta
+          window.history.replaceState(null, '', basePath + '/index.html');
+          // Establecer la ruta en sessionStorage para que React Router la lea
+          sessionStorage.setItem('redirectRoute', route);
+        }
+      })();
+    </script>`
 
-const jsFile = jsMatch ? jsMatch[1] : null
-const cssFile = cssMatch ? cssMatch[1] : null
+// Insertar el script antes del cierre de </head>
+const html404 = indexHtml.replace('</head>', redirectScript + '</head>')
 
-if (!jsFile || !cssFile) {
-  console.error('No se pudieron encontrar los archivos de assets')
-  process.exit(1)
-}
+// Escribir el 404.html
+const html404Path = path.join(__dirname, 'dist/404.html')
+fs.writeFileSync(html404Path, html404)
 
-// Leer el template del 404.html
-let html404 = fs.readFileSync(join(__dirname, 'public/404.html'), 'utf-8')
-
-// Reemplazar los nombres de archivos
-html404 = html404.replace(/src="[^"]*\.js"/, `src="${jsFile}"`)
-html404 = html404.replace(/href="[^"]*\.css"/, `href="${cssFile}"`)
-
-// Escribir el 404.html actualizado
-fs.writeFileSync(join(__dirname, 'dist/404.html'), html404)
-
-console.log(`✓ 404.html actualizado con: ${jsFile} y ${cssFile}`)
+console.log('✓ 404.html generado correctamente desde index.html')
 
