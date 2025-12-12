@@ -181,19 +181,21 @@ function FincaDashboard({ finca }) {
           />
         </div>
         {filteredData.personas_inscritas_vs_abordaron && filteredData.personas_inscritas_vs_abordaron.length > 0 && (
-          <ChartCard
-            title={selectedDate === 'all' ? "Inscritas vs Abordaron por Ruta y Fecha" : `Inscritas vs Abordaron por Ruta (${selectedDate})`}
-            data={filteredData.personas_inscritas_vs_abordaron.map(item => ({
-              ...item,
-              'Ruta-Fecha': selectedDate === 'all' ? `${item.Ruta} (${item.Fecha})` : item.Ruta
-            }))}
-            type="bar"
-            xKey={selectedDate === 'all' ? 'Ruta-Fecha' : 'Ruta'}
-            yKeys={[
-              { key: 'Inscritas', label: 'Inscritas', color: '#8884d8' },
-              { key: 'Abordaron', label: 'Abordaron', color: '#82ca9d' }
-            ]}
-          />
+          <div className="full-width-chart">
+            <ChartCard
+              title={selectedDate === 'all' ? "Inscritas vs Abordaron por Ruta y Fecha" : `Inscritas vs Abordaron por Ruta (${selectedDate})`}
+              data={filteredData.personas_inscritas_vs_abordaron.map(item => ({
+                ...item,
+                'Ruta-Fecha': selectedDate === 'all' ? `${item.Ruta} (${item.Fecha})` : item.Ruta
+              }))}
+              type="bar"
+              xKey={selectedDate === 'all' ? 'Ruta-Fecha' : 'Ruta'}
+              yKeys={[
+                { key: 'Inscritas', label: 'Inscritas', color: '#8884d8' },
+                { key: 'Abordaron', label: 'Abordaron', color: '#82ca9d' }
+              ]}
+            />
+          </div>
         )}
       </section>
 
@@ -201,25 +203,31 @@ function FincaDashboard({ finca }) {
       <section className="metric-section">
         <h3>2. Personas que Abordaron vs Capacidad de Bus</h3>
         {filteredData.personas_vs_capacidad && filteredData.personas_vs_capacidad.length > 0 && (
-          <ChartCard
-            title={selectedDate === 'all' ? "Ocupación de Buses por Ruta y Fecha" : `Ocupación de Buses por Ruta (${selectedDate})`}
-            data={filteredData.personas_vs_capacidad.map(item => ({
-              ...item,
-              'Ruta-Fecha': selectedDate === 'all' ? `${item.Ruta} (${item.Fecha})` : item.Ruta
-            }))}
-            type="bar"
-            xKey={selectedDate === 'all' ? 'Ruta-Fecha' : 'Ruta'}
-            yKeys={[
-              { key: 'Abordaron', label: 'Abordaron', color: '#82ca9d' },
-              { key: 'Capacidad_estimada', label: 'Capacidad', color: '#ffc658' }
-            ]}
-          />
+          <div className="full-width-chart">
+            <ChartCard
+              title={selectedDate === 'all' ? "Ocupación de Buses por Ruta y Fecha" : `Ocupación de Buses por Ruta (${selectedDate})`}
+              data={filteredData.personas_vs_capacidad.map(item => ({
+                ...item,
+                'Ruta-Fecha': selectedDate === 'all' ? `${item.Ruta} (${item.Fecha})` : item.Ruta
+              }))}
+              type="bar"
+              xKey={selectedDate === 'all' ? 'Ruta-Fecha' : 'Ruta'}
+              yKeys={[
+                { key: 'Abordaron', label: 'Abordaron', color: '#82ca9d' },
+                { key: 'Capacidad_estimada', label: 'Capacidad', color: '#ffc658' }
+              ]}
+            />
+          </div>
         )}
       </section>
 
       {/* Métrica 3: Rutas con problemas */}
       <section className="metric-section">
         <h3>3. Persistencia: Rutas con Problemas</h3>
+        <p className="section-note">
+          <strong>Nota:</strong> Los datos de persistencia son a nivel semanal (período completo del 8-11 de diciembre), 
+          no corresponden a un solo día. Se muestran rutas que tuvieron problemas durante la semana.
+        </p>
         {filteredData.rutas_con_problemas && filteredData.rutas_con_problemas.length > 0 ? (
           <>
             <div className="metrics-grid">

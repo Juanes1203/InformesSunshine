@@ -79,6 +79,25 @@
   text-align: center;
 }
 
+.full-width-chart {
+  width: 100%;
+  margin-top: 1rem;
+}
+
+.section-note {
+  background: #e7f3ff;
+  border-left: 4px solid #2196f3;
+  padding: 0.75rem 1rem;
+  margin-bottom: 1.5rem;
+  border-radius: 4px;
+  color: #1565c0;
+  font-size: 0.95rem;
+}
+
+.section-note strong {
+  color: #0d47a1;
+}
+
 .holiday-notice {
   background: #fff3cd;
   border: 2px solid #ffc107;
